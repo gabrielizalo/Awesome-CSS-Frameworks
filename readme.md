@@ -527,6 +527,18 @@ Material Design Lite lets you add a Material Design look and feel to your websit
 Material Design Lite is now in limited support, with development having moved to the [Material Components for the web](#material-components-web) repository.
 
 
+### [Material Foundation](https://github.com/eucalyptuss/material-foundation) - [Official Site](http://materialfoundation.mikolajdobrucki.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/eucalyptuss/material-foundation.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/eucalyptuss/material-foundation.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/eucalyptuss/material-foundation.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/eucalyptuss/material-foundation.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/eucalyptuss/material-foundation.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/eucalyptuss/material-foundation.svg?style=flat-square)]()
+
+Material Design version of Foundation for Sites by Zurb
+
+
 ### [Materialize](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square)]()
