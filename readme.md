@@ -402,6 +402,18 @@ Kube ("kyu:b") is a web framework for professional developers and designers alik
 One-Nexus is a front-end boilerplate and UI toolkit built using the Synergy framework, combined with a custom grid system; Kayzen-GS. Together they form a powerful framework for building responsive websites with modular and configurable components.
 
 
+### [Petal](https://github.com/shakrmedia/petal/) - [Official Site](https://shakrmedia.github.io/petal/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/shakrmedia/petal.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/shakrmedia/petal.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/shakrmedia/petal.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/shakrmedia/petal.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/shakrmedia/petal.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/shakrmedia/petal.svg?style=flat-square)]()
+
+A modern, light CSS UI framework developed at Shakr. Petal aims to provide an ample set of consistently designed UI components you can easily utilize in your web projects. Petal is fully coded on LESS from scratch. 
+
+
 ### [Primer](https://github.com/primer/primer-css) - [Official Site](http://primercss.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/primer/primer-css.svg?style=flat-square)]()
