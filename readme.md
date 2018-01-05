@@ -318,6 +318,18 @@ Centurion is a web-based framework for rapid prototyping and building larger web
 Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. 
 
 
+### [Concise CSS](https://github.com/ConciseCSS/concise.css) - [Official Site](http://concisecss.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ConciseCSS/concise.css.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ConciseCSS/concise.css.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ConciseCSS/concise.css.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ConciseCSS/concise.css.svg?style=flat-square)]()
+
+Give up the bloat. Stop tripping over your classes. Be Concise. Concise CSS is a lightweight CSS framework that provides a number of great features without the bloat. Concise CSS provides a solid foundation to stylize your website. It offers an alternative to frameworks like Bootstrap and Foundation, with the difference that Concise only includes the minimum styles required. That does not mean that the features are limited; is possible to use add-ons on top of the core to extend the functionality as required. The core of the framework only includes styles for native HTML elements. Components and utilities are provided as optional add-ons, Concise UI and Concise Utils, respectively.
+
+
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
