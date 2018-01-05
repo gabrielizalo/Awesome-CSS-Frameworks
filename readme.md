@@ -366,6 +366,18 @@ Foundation is the most advanced responsive front-end framework in the world. Qui
 Kube ("kyu:b") is a web framework for professional developers and designers alike. Kube is built and designed to provide the most flexible yet powerful CSS framework to the community. Unlike many other web frameworks, Kube is great for both super-fast bootstrapping and for a serious cutting edge, future-proof web development. Kube is a wireframe, a skeleton for your project, in a way. It doesn’t impose design styles or code decisions; it does require fluency and proficiency with latest HTML and CSS technologies, though.
 
 
+### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/esr360/One-Nexus.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/esr360/One-Nexus.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/esr360/One-Nexus.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/esr360/One-Nexus.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/esr360/One-Nexus.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/esr360/One-Nexus.svg?style=flat-square)]()
+
+One-Nexus is a front-end boilerplate and UI toolkit built using the Synergy framework, combined with a custom grid system; Kayzen-GS. Together they form a powerful framework for building responsive websites with modular and configurable components.
+
+
 ### [Primer](https://github.com/primer/primer-css) - [Official Site](http://primercss.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/primer/primer-css.svg?style=flat-square)]()
