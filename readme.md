@@ -110,7 +110,7 @@ Blaze is an open source modular toolkit. It provides great structure for buildin
 A really small CSS framework. Super light-weight. Just 3kb (minified + gzipped). Chota is dead simple to use. It doesn't require learning a lot of class names like other frameworks. It applies a few basic styles to the HTML following the HTML Semantics.
 
 
-### [Cutestrap](https://github.com/tylerchilds/cutestrap) - [Official Site](httpshttps://www.cutestrap.com/)
+### [Cutestrap](https://github.com/tylerchilds/cutestrap) - [Official Site](https://www.cutestrap.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/tylerchilds/cutestrap.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/tylerchilds/cutestrap.svg?style=flat-square)]()
