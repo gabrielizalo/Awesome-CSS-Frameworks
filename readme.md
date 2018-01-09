@@ -131,7 +131,7 @@ A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap. There are p
 [![GitHub forks](https://img.shields.io/github/forks/ajusa/lit.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/ajusa/lit.svg?style=flat-square)]()
 
-World's smallest responsive css framework* (398 bytes gzipped and minified). This is the result of me playing css "code golf" with [Skeleton](#skeleton---official-sitekeleton). As such, this framework strives to maintain all of the features that Skeleton and other similar frameworks offer, while working on older browsers as well.
+World's smallest responsive css framework* (398 bytes gzipped and minified). This is the result of me playing css "code golf" with [Skeleton](#skeleton---official-site). As such, this framework strives to maintain all of the features that Skeleton and other similar frameworks offer, while working on older browsers as well.
 
 
 ### [Milligram](https://github.com/milligram/milligram) - [Official Site](http://milligram.io/)
@@ -523,7 +523,7 @@ Unsemantic is a fluid grid system that is the successor to the 960 Grid System. 
 [![GitHub forks](https://img.shields.io/github/forks/material-components/material-components-web.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/material-components/material-components-web.svg?style=flat-square)]()
 
-Material Components for the web (MDC-Web) helps developers execute Material Design. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional web projects. Material Components for the web is the successor to [Material Design Lite](https://getmdl.io/).
+Material Components for the web (MDC-Web) helps developers execute Material Design. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional web projects. Material Components for the web is the successor to [Material Design Lite](#material-design-lite---official-site).
 
 
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
@@ -536,7 +536,7 @@ Material Components for the web (MDC-Web) helps developers execute Material Desi
 [![GitHub issues](https://img.shields.io/github/issues/google/material-design-lite.svg?style=flat-square)]()
 
 Material Design Lite lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible. 
-Material Design Lite is now in limited support, with development having moved to the [Material Components for the web](#material-components-web) repository.
+Material Design Lite is now in limited support, with development having moved to the [Material Components for the web](#material-components-web---official-site) repository.
 
 
 ### [Material Foundation](https://github.com/eucalyptuss/material-foundation) - [Official Site](http://materialfoundation.mikolajdobrucki.com/)
