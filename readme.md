@@ -575,6 +575,18 @@ Materialize, a CSS Framework based on Material Design.
 MUI is a lightweight CSS framework that follows Google's Material Design guidelines. MUI is designed from the ground up to be fast, small and developer friendly. By design it only includes the basic components you need to build a site that follows Google's Material Design guidelines.
 
 
+### [Propeller](https://github.com/digicorp/propeller) - [Official Site](https://propeller.in/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/digicorp/propeller.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/digicorp/propeller.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/digicorp/propeller.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/digicorp/propeller.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/digicorp/propeller.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/digicorp/propeller.svg?style=flat-square)]()
+
+Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap. It's the combination of Material Design and Bootstrap that makes your web app more attractive, consistent, and functionally powerful.
+
+
 ### [Surface](https://github.com/mildrenben/surface) - [Official Site](http://mildrenben.github.io/surface/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mildrenben/surface.svg?style=flat-square)]()
