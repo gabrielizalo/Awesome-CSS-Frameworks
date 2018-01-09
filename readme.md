@@ -122,6 +122,18 @@ A really small CSS framework. Super light-weight. Just 3kb (minified + gzipped).
 A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap. There are plenty of amazing front end frameworks already, such as, Bootstrap and Foundation. However, if you're looking for something in between normalize.css and a full blown framework, meet Cutestrap. Cutestrap is only 8kb of CSS.
 
 
+### [lit](https://github.com/ajusa/lit) - [Official Site](https://ajusa.github.io/lit/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/ajusa/lit.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ajusa/lit.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ajusa/lit.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ajusa/lit.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ajusa/lit.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ajusa/lit.svg?style=flat-square)]()
+
+World's smallest responsive css framework* (398 bytes gzipped and minified). This is the result of me playing css "code golf" with [Skeleton](#skeleton---official-sitekeleton). As such, this framework strives to maintain all of the features that Skeleton and other similar frameworks offer, while working on older browsers as well.
+
+
 ### [Milligram](https://github.com/milligram/milligram) - [Official Site](http://milligram.io/)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/milligram/milligram.svg?style=flat-square)]()
