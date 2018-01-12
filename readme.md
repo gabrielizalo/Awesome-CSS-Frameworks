@@ -98,6 +98,18 @@ Low-Level CSS Toolkit. Lightning Fast Modular CSS with No Side Effects.
 Blaze is an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation. Blaze fills the gap between monolithic frameworks like Bootstrap, UIKit and Semantic, and "micro" ones such as Skeleton, Milligram and Min. It all depends on your situation and what problem you're trying to solve but we think Blaze can provide you with the best of both worlds.
 
 
+### [Blueprint](https://github.com/joshuaclayton/blueprint-css) - [Official Site](http://www.blueprintcss.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/joshuaclayton/blueprint-css.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/joshuaclayton/blueprint-css.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/joshuaclayton/blueprint-css.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/joshuaclayton/blueprint-css.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/joshuaclayton/blueprint-css.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/joshuaclayton/blueprint-css.svg?style=flat-square)]()
+
+Blaze is an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation. Blaze fills the gap between monolithic frameworks like Bootstrap, UIKit and Semantic, and "micro" ones such as Skeleton, Milligram and Min. It all depends on your situation and what problem you're trying to solve but we think Blaze can provide you with the best of both worlds.
+
+
 ### [Chota](https://github.com/jenil/chota) - [Official Site](https://jenil.github.io/chota/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jenil/chota.svg?style=flat-square)]()
