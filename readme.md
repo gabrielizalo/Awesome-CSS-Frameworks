@@ -74,7 +74,7 @@ The best-practices CSS foundation. sanitize.css is a CSS library that corrects b
 Frameworks that are smaller than ~10KB.
 
 
-### [Basscss](https://github.com/basscss/basscss) - [Official Site](http://basscss.com)
+### [BassCSS](https://github.com/basscss/basscss) - [Official Site](http://basscss.com)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/basscss/basscss.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/basscss/basscss.svg?style=flat-square)]()
