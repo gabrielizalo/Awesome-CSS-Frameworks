@@ -146,6 +146,18 @@ A really small CSS framework. Super light-weight. Just 3kb (minified + gzipped).
 A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap. There are plenty of amazing front end frameworks already, such as, Bootstrap and Foundation. However, if you're looking for something in between normalize.css and a full blown framework, meet Cutestrap. Cutestrap is only 8kb of CSS.
 
 
+### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/johnotander/furtive.svg?style=flat-square)]()
+
+A forward-thinking, CSS micro-framework. Furtive is truly mobile-first and nearly all dimensions are done in rem. It also has a small footprint, cutting down on the bandwidth necessary for downloading CSS. Furtive is intended to be just that, furtive. It's the perfect starting point to get your project up and running. 
+
+
 ### [kernel.css](https://github.com/ionogy/kernel.css) - [Official Site](https://ionogy.github.io/kernel.css/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ionogy/kernel.css.svg?style=flat-square)]()
