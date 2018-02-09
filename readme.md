@@ -427,18 +427,6 @@ A Rock Solid, Responsive CSS Framework built to work on all devices big and smal
 A Flexible Atomic-Focused CSS Framework. It's Atomic-Focus, carefully naming, configurable, pure CSS, fun and it has basic components included and a clean responsive grid.
 
 
-### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square)]()
-
-Bulma is a free and open source CSS framework based on Flexbox. It's 100% Responsive (Designed for mobile first), Modular (Just import what you need) and Modern (Built with Flexbox).
-
-
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square)]()
@@ -449,6 +437,18 @@ Bulma is a free and open source CSS framework based on Flexbox. It's 100% Respon
 [![GitHub issues](https://img.shields.io/github/issues/twbs/bootstrap.svg?style=flat-square)]()
 
 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. Build responsive, mobile-first projects on the web with the world's most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+
+
+### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square)]()
+
+Bulma is a free and open source CSS framework based on Flexbox. It's 100% Responsive (Designed for mobile first), Modular (Just import what you need) and Modern (Built with Flexbox).
 
 
 ### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
