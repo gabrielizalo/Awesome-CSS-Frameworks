@@ -87,6 +87,18 @@ Shoelace.css is a lightweight, forward-thinking CSS library built with future CS
 Frameworks that are smaller than ~10KB.
 
 
+### [awsm.css](https://github.com/igoradamenko/awsm.css) - [Official Site](https://igoradamenko.github.io/awsm.css/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/igoradamenko/awsm.css.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/igoradamenko/awsm.css.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/igoradamenko/awsm.css.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/igoradamenko/awsm.css.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/igoradamenko/awsm.css.svg?style=flat-square)]()
+
+It makes your HTML beautiful. awsm.css is a CSS library for beautify semantic HTML markup without classes, attributes, etc. Use tags only. The library is the best choice for blog, your homepage or site about project.
+
+
 ### [BassCSS](https://github.com/basscss/basscss) - [Official Site](http://basscss.com)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/basscss/basscss.svg?style=flat-square)]()
@@ -665,6 +677,18 @@ Turret is a styles and browser behaviour normalisation framework for rapid devel
 [![GitHub issues](https://img.shields.io/github/issues/uikit/uikit.svg?style=flat-square)]()
 
 A lightweight and modular front-end framework for developing fast and powerful web interfaces. 
+
+
+### [Unnamed](https://github.com/smakosh/unnamed-css-framework) - [Official Site](https://unnamed.smakosh.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/smakosh/unnamed-css-framework.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/smakosh/unnamed-css-framework.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/smakosh/unnamed-css-framework.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/smakosh/unnamed-css-framework.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/smakosh/unnamed-css-framework.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/smakosh/unnamed-css-framework.svg?style=flat-square)]()
+
+A colorful css framework made by a human not an Ai. Unnamed is a simple colorful css framework that is recommended to be used while learning something and you're too lazy to style your components or for building prototypew.
 
 
 ### [Unsemantic](https://github.com/nathansmith/unsemantic) - [Official Site](https://unsemantic.com/)
