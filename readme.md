@@ -69,6 +69,19 @@ The best-practices CSS foundation. sanitize.css is a CSS library that corrects b
 
 
 
+### [Shoelace.css](https://github.com/claviska/shoelace-css) - [Official Site](https://shoelace.style/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/claviska/shoelace-css.css.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/claviska/shoelace-css.css.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/claviska/shoelace-css.css.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/claviska/shoelace-css.css.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/claviska/shoelace-css.css.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/claviska/shoelace-css.css.svg?style=flat-square)]()
+
+Shoelace.css is a lightweight, forward-thinking CSS library built with future CSS syntax. It’s easy to use and highly customizable. Bootstrap users will find it familiar, yet refreshing.
+
+
+
 ## Lightweight
 
 Frameworks that are smaller than ~10KB.
