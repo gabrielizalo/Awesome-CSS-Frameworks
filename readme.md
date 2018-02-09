@@ -9,7 +9,8 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 
 * [Base / Reset / Normalize](#base--reset--normalize)
 * [Lightweight](#lightweight)
-* [General Purpose](#general-purpose)
+* [The Big](#the-big)
+* [Other General Purpose](#other-general-purpose)
 * [Material Design](#material-design)
 * [Specialized](#specialized)
 
@@ -290,18 +291,6 @@ Lightweight and beautiful library. Unpack your meal and get coding. An invasive 
 A simple, responsive, and tiny CSS grid for humans. 4kb, Mobile First Grid System, HTML5 Boilerplate Head, Inspired by Simplicity and Control, IE8+, Firefox, Chrome, Safari, Opera, Free to use and Abuse.
 
 
-### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
-  
-[![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/yahoo/pure.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/yahoo/pure.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/yahoo/pure.svg?style=flat-square)]()
-
-A set of small, responsive CSS modules that you can use in every web project. Pure is meant to be a starting point for every website or web app. We take care of all the CSS work that every site needs, without making it look cookie-cutter.
-
-
 ### [sakura](https://github.com/oxalorg/sakura) - [Official Site](https://oxal.org/projects/sakura)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/oxalorg/sakura.svg?style=flat-square)]()
@@ -387,7 +376,96 @@ A beautiful CSS framework designed for minimalists. Intuitive, Lightweight and B
 
 
 
-## General Purpose
+## The Big
+
+
+### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/twbs/bootstrap.svg?style=flat-square)]()
+
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. Build responsive, mobile-first projects on the web with the world's most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+
+
+### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/semantic-org/semantic-ui.svg?style=flat-square)]()
+
+Semantic is a UI component framework based around useful principles from natural language. Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices. Semantic is production ready and partnered with frameworks such as React, Angular, Meteor, and Ember, which means you can integrate it with any of these frameworks to organize your UI layer alongside your application logic.
+
+
+### [Materialize](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/Dogfalo/materialize.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Dogfalo/materialize.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/Dogfalo/materialize.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Dogfalo/materialize.svg?style=flat-square)]()
+
+Materialize, a CSS Framework based on Material Design. 
+
+
+### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-lite.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/google/material-design-lite.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/google/material-design-lite.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/google/material-design-lite.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/google/material-design-lite.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/google/material-design-lite.svg?style=flat-square)]()
+
+Material Design Lite lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible. 
+Material Design Lite is now in limited support, with development having moved to the [Material Components for the web](#material-components-web---official-site) repository.
+
+
+### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square)]()
+
+Foundation is the most advanced responsive front-end framework in the world. Quickly go from prototype to production, building sites or apps that work on any kind of device with Foundation. Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins, and full accessibility support.
+
+
+### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square)]()
+
+Bulma is a free and open source CSS framework based on Flexbox. It's 100% Responsive (Designed for mobile first), Modular (Just import what you need) and Modern (Built with Flexbox).
+
+
+### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/yahoo/pure.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/yahoo/pure.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/yahoo/pure.svg?style=flat-square)]()
+
+A set of small, responsive CSS modules that you can use in every web project. Pure is meant to be a starting point for every website or web app. We take care of all the CSS work that every site needs, without making it look cookie-cutter.
+
+
+
+## Other General Purpose
 
 
 ### [960 Grid System](https://github.com/nathansmith/960-grid-system/) - [Official Site](https://960.gs/)
@@ -426,18 +504,6 @@ A Rock Solid, Responsive CSS Framework built to work on all devices big and smal
 A Flexible Atomic-Focused CSS Framework. It's Atomic-Focus, carefully naming, configurable, pure CSS, fun and it has basic components included and a clean responsive grid.
 
 
-### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/twbs/bootstrap.svg?style=flat-square)]()
-
-The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. Build responsive, mobile-first projects on the web with the world's most popular front-end component library. Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
-
-
 ### [Brutalist Framework](https://github.com/pinecreativelabs/Brutalist-Framework) - [Official Site](http://brutalistframework.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/pinecreativelabs/Brutalist-Framework.svg?style=flat-square)]()
@@ -448,18 +514,6 @@ The most popular HTML, CSS, and JavaScript framework for developing responsive, 
 [![GitHub issues](https://img.shields.io/github/issues/pinecreativelabs/Brutalist-Framework.svg?style=flat-square)]()
 
 An open source framework for the brutalist web design trend.
-
-
-### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square)]()
-
-Bulma is a free and open source CSS framework based on Flexbox. It's 100% Responsive (Designed for mobile first), Modular (Just import what you need) and Modern (Built with Flexbox).
 
 
 ### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
@@ -508,18 +562,6 @@ Give up the bloat. Stop tripping over your classes. Be Concise. Concise CSS is a
 [![GitHub issues](https://img.shields.io/github/issues/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
 
 A grid system based on the flex display property.
-
-
-### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-sites.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/zurb/foundation-sites.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square)]()
-
-Foundation is the most advanced responsive front-end framework in the world. Quickly go from prototype to production, building sites or apps that work on any kind of device with Foundation. Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins, and full accessibility support.
 
 
 ### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
@@ -616,18 +658,6 @@ Primer is the design system that powers GitHub. Primer includes 23 packages that
 [![GitHub issues](https://img.shields.io/github/issues/dropbox/scooter.svg?style=flat-square)]()
 
 An SCSS framework & UI library for Dropbox Web.  
-
-
-### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/semantic-org/semantic-ui.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/semantic-org/semantic-ui.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/semantic-org/semantic-ui.svg?style=flat-square)]()
-
-Semantic is a UI component framework based around useful principles from natural language. Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices. Semantic is production ready and partnered with frameworks such as React, Angular, Meteor, and Ember, which means you can integrate it with any of these frameworks to organize your UI layer alongside your application logic.
 
 
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
