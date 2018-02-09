@@ -146,6 +146,18 @@ A really small CSS framework. Super light-weight. Just 3kb (minified + gzipped).
 A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap. There are plenty of amazing front end frameworks already, such as, Bootstrap and Foundation. However, if you're looking for something in between normalize.css and a full blown framework, meet Cutestrap. Cutestrap is only 8kb of CSS.
 
 
+### [fractures](https://github.com/fractures/fractures) - [Official Site](https://fractures.space/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/fractures/fractures.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/fractures/fractures.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/fractures/fractures.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/fractures/fractures.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/fractures/fractures.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/fractures/fractures.svg?style=flat-square)]()
+
+Baseline atomic CSS toolkit. Fractures helps you bootstrap design-systems and prototypes by providing a set of non-blocking, atomic, utility classes. Learn more.
+
+
 ### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/johnotander/furtive.svg?style=flat-square)]()
@@ -460,18 +472,6 @@ A grid system based on the flex display property.
 [![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square)]()
 
 Foundation is the most advanced responsive front-end framework in the world. Quickly go from prototype to production, building sites or apps that work on any kind of device with Foundation. Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins, and full accessibility support.
-
-
-### [fractures](https://github.com/fractures/fractures) - [Official Site](https://fractures.space/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/fractures/fractures.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/fractures/fractures.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/fractures/fractures.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/fractures/fractures.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/fractures/fractures.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/fractures/fractures.svg?style=flat-square)]()
-
-Baseline atomic CSS toolkit. Fractures helps you bootstrap design-systems and prototypes by providing a set of non-blocking, atomic, utility classes. Learn more.
 
 
 ### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
