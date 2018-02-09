@@ -880,6 +880,18 @@ A Utility-First CSS Framework for Rapid UI Development. Tailwind is different fr
 Style your webpage like Edward Tufte’s handouts. Edward Tufte uses a distinctive style in his handouts: simple, with well-set typography, extensive sidenotes, and tight integration of graphics and charts. tufte-css brings that style to HTML documents.
 
 
+### [Wireframe CSS](https://github.com/agauniyal/wireframe)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/agauniyal/wireframe.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/agauniyal/wireframe.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/agauniyal/wireframe.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/agauniyal/wireframe.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/agauniyal/wireframe.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/agauniyal/wireframe.svg?style=flat-square)]()
+
+A minimal CSS framework for wireframing.
+
+
 
 ----
 
