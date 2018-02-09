@@ -570,6 +570,18 @@ Semantic is a UI component framework based around useful principles from natural
 Functional css for humans. Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. Built for designing.
 
 
+### [Taffy](https://github.com/lodog23/Taffy-CSS-Framework) - [Official Site](http://www.taffy.logancarlile23.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/lodog23/Taffy-CSS-Framework.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/lodog23/Taffy-CSS-Framework.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/lodog23/Taffy-CSS-Framework.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/lodog23/Taffy-CSS-Framework.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/lodog23/Taffy-CSS-Framework.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/lodog23/Taffy-CSS-Framework.svg?style=flat-square)]()
+
+Open source, lightweight, modern CSS framework built with Flexbox. A fresh new take on a Flexbox CSS framework built with only the essentials, so you can get started with web design! A framework unlike Bootstrap or Foundation, that includes WAY too many components you will never use and will bloat up and slow down your website. No, this framework is built to be lightweight, easy to use, and only built with the essentials you will need!
+
+
 ### [Topcoat](https://github.com/topcoat/topcoat) - [Official Site](http://topcoat.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/topcoat/topcoat.svg?style=flat-square)]()
