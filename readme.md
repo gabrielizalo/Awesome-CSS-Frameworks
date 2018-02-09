@@ -314,6 +314,18 @@ CSS framework for dummies, without classes. Tacit is a primitive CSS framework f
 A highly-customizable, responsive (S)CSS grid.
 
 
+### [Waffle](https://github.com/lucasgruwez/waffle-grid) - [Official Site](https://lucasgruwez.github.io/waffle-grid/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/lucasgruwez/waffle-grid.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/lucasgruwez/waffle-grid.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/lucasgruwez/waffle-grid.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/lucasgruwez/waffle-grid.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/lucasgruwez/waffle-grid.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/lucasgruwez/waffle-grid.svg?style=flat-square)]()
+
+An easy to use flexbox grid system. Light weight, Responsive and Customisable.
+
+
 ### [Wing](https://github.com/kbrsh/wing) - [Official Site](http://usewing.ml/)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/wing.svg?style=flat-square)]()
