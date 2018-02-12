@@ -7,7 +7,7 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 <details>
   <summary><strong>Contents</strong></summary>
 
-* [The Big](#the-big)
+* [The Big Ones](#the-big-ones)
 * [Base / Reset / Normalize](#base--reset--normalize)
 * [Lightweight](#lightweight)
 * [General Purpose](#general-purpose)
@@ -18,7 +18,9 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 
 
 
-## The Big
+## The Big Ones
+
+Frameworks with more than ~10KB GitHub Stars.
 
 
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
@@ -31,12 +33,11 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 [![GitHub issues](https://img.shields.io/github/issues/twbs/bootstrap.svg?style=flat-square)]()
 
 The most popular HTML, CSS, and JavaScript framework for developing
-responsive, mobile first projects on the web. Build responsive,
-mobile-first projects on the web with the world's most popular front-end
-component library. Bootstrap is an open source toolkit for developing
-with HTML, CSS, and JS. Quickly prototype your ideas or build your
-entire app with our Sass variables and mixins, responsive grid system,
-extensive prebuilt components, and powerful plugins built on jQuery.
+responsive, mobile first projects on the web. Bootstrap is an open
+source toolkit for developing with HTML, CSS, and JS. Quickly prototype
+your ideas or build your entire app with our Sass variables and mixins,
+responsive grid system, extensive prebuilt components, and powerful
+plugins built on jQuery.
 
 
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
@@ -69,6 +70,20 @@ application logic.
 [![GitHub issues](https://img.shields.io/github/issues/Dogfalo/materialize.svg?style=flat-square)]()
 
 Materialize, a CSS Framework based on Material Design. 
+
+
+### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/necolas/normalize.css.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/necolas/normalize.css.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/necolas/normalize.css.svg?style=flat-square)]()
+
+A modern, HTML5-ready alternative to CSS resets. Normalize.css makes 
+browsers render all elements more consistently and in line with modern
+standards. It precisely targets only the styles that need normalizing.
 
 
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
@@ -134,6 +149,21 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
+### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square)]()
+
+A dead simple, responsive boilerplate. Light as a feather at ~400 lines 
+& built with mobile in mind. Styles designed to be a starting point, not
+a UI framework. Quick to start with zero compiling or installing
+necessary.
+
+
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square)]()
@@ -149,6 +179,22 @@ powerful web interfaces.
 
 
 ## Base / Reset / Normalize
+
+
+### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/johnotander/furtive.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/johnotander/furtive.svg?style=flat-square)]()
+
+A forward-thinking, CSS micro-framework. Furtive is truly mobile-first
+and nearly all dimensions are done in rem. It also has a small
+footprint, cutting down on the bandwidth necessary for downloading CSS.
+Furtive is intended to be just that, furtive. It's the perfect starting
+point to get your project up and running.
 
 
 ### [inuitcss](https://github.com/inuitcss/inuitcss) - [Official Site](http://inuitcss.com/)
@@ -193,6 +239,21 @@ browsers render all elements more consistently and in line with modern
 standards. It precisely targets only the styles that need normalizing.
 
 
+### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/yahoo/pure.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/yahoo/pure.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/yahoo/pure.svg?style=flat-square)]()
+
+A set of small, responsive CSS modules that you can use in every web
+project. Pure is meant to be a starting point for every website or web
+app. We take care of all the CSS work that every site needs, without
+making it look cookie-cutter.
+
+
 ### [sanitize.css](https://github.com/jonathantneal/sanitize.css) - [Official Site](https://jonathantneal.github.io/sanitize.css/)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/jonathantneal/sanitize.css.svg?style=flat-square)]()
@@ -222,6 +283,39 @@ documented.
 Shoelace.css is a lightweight, forward-thinking CSS library built with
 future CSS syntax. It’s easy to use and highly customizable. Bootstrap
 users will find it familiar, yet refreshing.
+
+
+### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/dhg/Skeleton.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square)]()
+
+A dead simple, responsive boilerplate. Light as a feather at ~400 lines 
+& built with mobile in mind. Styles designed to be a starting point, not
+a UI framework. Quick to start with zero compiling or installing
+necessary.
+
+
+### [Wing](https://github.com/kbrsh/wing) - [Official Site](http://usewing.ml/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/wing.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/kbrsh/wing.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kbrsh/wing.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/kbrsh/wing.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/kbrsh/wing.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/kbrsh/wing.svg?style=flat-square)]()
+
+A beautiful CSS framework designed for minimalists. Intuitive, 
+Lightweight and Beautiful. Everything you need to create a basic project
+is included, all in a 2kb file (minified + gzipped). On top of that,
+almost everything is styled automatically, without the need for learning
+specific classes. This allows for an intuitive experience developing
+with Wing, as it's designed to be a boilerplate stylesheet for any
+project.
 
 
 
@@ -349,7 +443,7 @@ Cutestrap is only 8kb of CSS.
 
 Baseline atomic CSS toolkit. Fractures helps you bootstrap
 design-systems and prototypes by providing a set of non-blocking,
-atomic, utility classes. Learn more.
+atomic, utility classes.
 
 
 ### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
@@ -658,6 +752,23 @@ naming, configurable, pure CSS, fun and it has basic components included
 and a clean responsive grid.
 
 
+### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/twbs/bootstrap.svg?style=flat-square)]()
+
+The most popular HTML, CSS, and JavaScript framework for developing
+responsive, mobile first projects on the web. Bootstrap is an open
+source toolkit for developing with HTML, CSS, and JS. Quickly prototype
+your ideas or build your entire app with our Sass variables and mixins,
+responsive grid system, extensive prebuilt components, and powerful
+plugins built on jQuery.
+
+
 ### [Brutalist Framework](https://github.com/pinecreativelabs/Brutalist-Framework) - [Official Site](http://brutalistframework.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/pinecreativelabs/Brutalist-Framework.svg?style=flat-square)]()
@@ -668,6 +779,20 @@ and a clean responsive grid.
 [![GitHub issues](https://img.shields.io/github/issues/pinecreativelabs/Brutalist-Framework.svg?style=flat-square)]()
 
 An open source framework for the brutalist web design trend.
+
+
+### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square)]()
+
+Bulma is a free and open source CSS framework based on Flexbox. It's
+100% Responsive (Designed for mobile first), Modular (Just import what
+you need) and Modern (Built with Flexbox).
 
 
 ### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
@@ -735,6 +860,22 @@ as optional add-ons, Concise UI and Concise Utils, respectively.
 [![GitHub issues](https://img.shields.io/github/issues/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
 
 A grid system based on the flex display property.
+
+
+### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/zurb/foundation-sites.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square)]()
+
+Foundation is the most advanced responsive front-end framework in the
+world. Quickly go from prototype to production, building sites or apps
+that work on any kind of device with Foundation. Includes a fully
+customizable, responsive grid, a large library of Sass mixins, commonly
+used JavaScript plugins, and full accessibility support.
 
 
 ### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
@@ -850,6 +991,21 @@ via npm, so it's easy to include all or part of Primer within your own
 project.
 
 
+### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/yahoo/pure.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/yahoo/pure.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/yahoo/pure.svg?style=flat-square)]()
+
+A set of small, responsive CSS modules that you can use in every web
+project. Pure is meant to be a starting point for every website or web
+app. We take care of all the CSS work that every site needs, without
+making it look cookie-cutter.
+
+
 ### [Scooter](https://github.com/dropbox/scooter) - [Official Site](http://dropbox.github.io/scooter/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/scooter.svg?style=flat-square)]()
@@ -860,6 +1016,26 @@ project.
 [![GitHub issues](https://img.shields.io/github/issues/dropbox/scooter.svg?style=flat-square)]()
 
 An SCSS framework & UI library for Dropbox Web.  
+
+
+### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/semantic-org/semantic-ui.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/semantic-org/semantic-ui.svg?style=flat-square)]()
+
+Semantic is a UI component framework based around useful principles from
+natural language. Semantic allows developers to build beautiful websites
+fast, with concise HTML, intuitive javascript, and simplified debugging,
+helping make front-end development a delightful experience. Semantic is
+responsively designed allowing your website to scale on multiple
+devices. Semantic is production ready and partnered with frameworks such
+as React, Angular, Meteor, and Ember, which means you can integrate it
+with any of these frameworks to organize your UI layer alongside your
+application logic.
 
 
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
@@ -939,6 +1115,19 @@ easier to manage.
 
 Turret is a styles and browser behaviour normalisation framework for 
 rapid development of responsive and accessible websites.
+
+
+### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/uikit/uikit.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/uikit/uikit.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/uikit/uikit.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/uikit/uikit.svg?style=flat-square)]()
+
+A lightweight and modular front-end framework for developing fast and 
+powerful web interfaces.
 
 
 ### [Unnamed](https://github.com/smakosh/unnamed-css-framework) - [Official Site](https://unnamed.smakosh.com/)
