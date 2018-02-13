@@ -187,11 +187,10 @@ used JavaScript plugins, and full accessibility support.
 [![GitHub forks](https://img.shields.io/github/forks/groundworkcss/groundwork.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/groundworkcss/groundwork.svg?style=flat-square)]()
 
-Say hello to responsive design made easy. GroundworkCSS is a fully 
+Say hello to responsive design made easy. GroundworkCSS is a fully
 responsive HTML5, CSS and Javascript toolkit created by @ghepting. Using
 GroundworkCSS, you can rapidly prototype and create accessible web apps
-that work on virtually any device. Key features that make GroundworkCSS
-stand out are:
+that work on virtually any device.
 
 
 ### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
@@ -439,10 +438,10 @@ powerful web interfaces.
 [![GitHub forks](https://img.shields.io/github/forks/smakosh/unnamed-css-framework.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/smakosh/unnamed-css-framework.svg?style=flat-square)]()
 
-A colorful css framework made by a human not an Ai. Unnamed is a simple 
+A colorful css framework made by a human not an Ai. Unnamed is a simple
 colorful css framework that is recommended to be used while learning
 something and you're too lazy to style your components or for building
-prototypew.
+prototype.
 
 
 ### [Unsemantic](https://github.com/nathansmith/unsemantic) - [Official Site](https://unsemantic.com/)
