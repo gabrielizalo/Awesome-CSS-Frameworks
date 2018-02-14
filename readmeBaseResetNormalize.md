@@ -6,6 +6,23 @@
 ## Base / Reset / Normalize
 
 
+### [avalanche](https://github.com/avalanchesass/avalanche) - [Official Site](https://avalanche.oberlehner.net/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/avalanchesass/avalanche.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/avalanchesass/avalanche.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/avalanchesass/avalanche.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/avalanchesass/avalanche.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/avalanchesass/avalanche.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/avalanchesass/avalanche.svg?style=flat-square)]()
+
+avalanche establishes the foundation for a package based CSS workflow. 
+Heavy weight CSS toolkits often stay in your way when creating unique 
+looking experiences or they lead to a rather bland design. But you don't 
+have to reinvent the wheel for every new project either. avalanche 
+provides building blocks for you to handpick and integrate into your 
+workflow.
+
+
 ### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/johnotander/furtive.svg?style=flat-square)]()
