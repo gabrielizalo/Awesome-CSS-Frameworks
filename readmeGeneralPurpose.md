@@ -150,6 +150,21 @@ styles for native HTML elements. Components and utilities are provided
 as optional add-ons, Concise UI and Concise Utils, respectively.
 
 
+### [FICTOAN](https://github.com/sujan-s/fictoan) - [Official Site](https://sujan-s.github.io/fictoan/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/sujan-s/fictoan.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/sujan-s/fictoan.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/sujan-s/fictoan.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/sujan-s/fictoan.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/sujan-s/fictoan.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/sujan-s/fictoan.svg?style=flat-square)]()
+
+FICTOAN is an intuitive, minimalist, responsive HTML+CSS boilerplate. It 
+aims to be an intuitive and design-centric CSS framework for creating 
+and themeing on projects easily. It uses simple and descriptive class 
+names, and yet generic enough to be understood easily.
+
+
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
