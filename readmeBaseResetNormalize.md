@@ -142,6 +142,21 @@ a UI framework. Quick to start with zero compiling or installing
 necessary.
 
 
+### [Vanilla Framework](https://github.com/vanilla-framework/vanilla-framework) - [Official Site](https://vanillaframework.io/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/vanilla-framework/vanilla-framework.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/vanilla-framework/vanilla-framework.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/vanilla-framework/vanilla-framework.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/vanilla-framework/vanilla-framework.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/vanilla-framework/vanilla-framework.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/vanilla-framework/vanilla-framework.svg?style=flat-square)]()
+
+Vanilla is a simple extensible CSS framework, written in Sass, by the 
+Ubuntu Web Team. Vanilla Framework is a simple extensible CSS framework, 
+built using Sass and is designed to be used either directly or by using 
+themes to extend or supplement its patterns.
+
+
 ### [Wing](https://github.com/kbrsh/wing) - [Official Site](http://usewing.ml/)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/wing.svg?style=flat-square)]()
