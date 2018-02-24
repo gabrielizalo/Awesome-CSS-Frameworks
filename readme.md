@@ -7,10 +7,10 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 ## Categories
 
 * [The Big Ones (10)](#the-big-ones)
-* [Base / Reset / Normalize (11)](readmeBaseResetNormalize.md)
-* [Lightweight (26)](readmeLightweight.md)
-* [General Purpose (34)](readmeGeneralPurpose.md)
-* [Material Design (7)](readmeMaterialDesign.md)
+* [Base / Reset / Normalize (10)](readmeBaseResetNormalize.md)
+* [Lightweight (24)](readmeLightweight.md)
+* [General Purpose (30)](readmeGeneralPurpose.md)
+* [Material Design (6)](readmeMaterialDesign.md)
 * [Specialized (7)](readmeSpecialized.md)
 * [No Longer Maintained (8)](readmeNoLongerMaintained.md)
 
@@ -156,10 +156,10 @@ making it look cookie-cutter.
 [![GitHub forks](https://img.shields.io/github/forks/dhg/Skeleton.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square)]()
 
-A dead simple, responsive boilerplate. Light as a feather at ~400 lines 
+A dead simple, responsive boilerplate. Light as a feather at ~400 lines
 & built with mobile in mind. Styles designed to be a starting point, not
 a UI framework. Quick to start with zero compiling or installing
-necessary.
+necessary. **It's no longer maintained**.
 
 
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)

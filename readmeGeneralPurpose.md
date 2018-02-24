@@ -6,24 +6,6 @@
 ## General Purpose
 
 
-### [960 Grid System](https://github.com/nathansmith/960-grid-system/) - [Official Site](https://960.gs/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/960-grid-system.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nathansmith/960-grid-system.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nathansmith/960-grid-system.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/nathansmith/960-grid-system.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/nathansmith/960-grid-system.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/nathansmith/960-grid-system.svg?style=flat-square)]()
-
-The 960 Grid System is an effort to streamline web development workflow
-by providing commonly used dimensions, based on a width of 960 pixels.
-There are two variants: 12 and 16 columns, which can be used separately
-or in tandem. The premise of the system is ideally suited to rapid
-prototyping, but it would work equally well when integrated into a
-production environment. There are printable sketch sheets, design
-layouts, and a CSS file that have identical measurements.
-
-
 ### [Base](https://github.com/matthewhartman/base) - [Official Site](http://getbase.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/matthewhartman/base.svg?style=flat-square)]()
@@ -115,20 +97,6 @@ create a seamless framework that could allow web developers to start up
 a new project easily without the need to override every little piece.
 
 
-### [Compass](https://github.com/Compass/compass) - [Official Site](http://compass-style.org)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Compass/compass.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/Compass/compass.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Compass/compass.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/Compass/compass.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/Compass/compass.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/Compass/compass.svg?style=flat-square)]()
-
-Compass is no longer actively maintained. Compass is a Stylesheet 
-Authoring Environment that makes your website design simpler to
-implement and easier to maintain.
-
-
 ### [Concise CSS](https://github.com/ConciseCSS/concise.css) - [Official Site](http://concisecss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css.svg?style=flat-square)]()
@@ -191,21 +159,6 @@ world. Quickly go from prototype to production, building sites or apps
 that work on any kind of device with Foundation. Includes a fully
 customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
-
-
-### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/groundworkcss/groundwork.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/groundworkcss/groundwork.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/groundworkcss/groundwork.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/groundworkcss/groundwork.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/groundworkcss/groundwork.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/groundworkcss/groundwork.svg?style=flat-square)]()
-
-Say hello to responsive design made easy. GroundworkCSS is a fully
-responsive HTML5, CSS and Javascript toolkit created by @ghepting. Using
-GroundworkCSS, you can rapidly prototype and create accessible web apps
-that work on virtually any device.
 
 
 ### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
@@ -276,21 +229,6 @@ components. Built primarily for my site
 [box2unlock.com](https://box2unlock.com/) but released publicly as it
 might be useful as a foundation for other projects out there. Plain and
 simple.
-
-
-### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/sehmaschine/mueller.svg?style=flat-square)]()
-
-MUELLER is a modular grid system for responsive/adaptive and
-non-responsive layouts, based on **Compass**. You have full
-control over column width, gutter width, baseline grid and
-media–queries.
 
 
 ### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)

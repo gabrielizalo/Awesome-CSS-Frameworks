@@ -127,21 +127,6 @@ future CSS syntax. It’s easy to use and highly customizable. Bootstrap
 users will find it familiar, yet refreshing.
 
 
-### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/dhg/Skeleton.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square)]()
-
-A dead simple, responsive boilerplate. Light as a feather at ~400 lines 
-& built with mobile in mind. Styles designed to be a starting point, not
-a UI framework. Quick to start with zero compiling or installing
-necessary.
-
-
 ### [Vanilla Framework](https://github.com/vanilla-framework/vanilla-framework) - [Official Site](https://vanillaframework.io/)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/vanilla-framework/vanilla-framework.svg?style=flat-square)]()

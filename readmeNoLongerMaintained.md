@@ -5,7 +5,8 @@
 
 ## No Longer Maintained
 
-Frameworks with more than ~3 years without updates.
+Frameworks with more than ~3 years without updates or officially no
+longer maintained.
 
 
 ### [960 Grid System](https://github.com/nathansmith/960-grid-system/) - [Official Site](https://960.gs/)

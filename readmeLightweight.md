@@ -67,21 +67,6 @@ all depends on your situation and what problem you're trying to solve
 but we think Blaze can provide you with the best of both worlds.
 
 
-### [Blueprint](https://github.com/joshuaclayton/blueprint-css) - [Official Site](http://www.blueprintcss.org/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/joshuaclayton/blueprint-css.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/joshuaclayton/blueprint-css.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/joshuaclayton/blueprint-css.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/joshuaclayton/blueprint-css.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/joshuaclayton/blueprint-css.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/joshuaclayton/blueprint-css.svg?style=flat-square)]()
-
-Blueprint is a CSS framework, which aims to cut down on your development
-time. It gives you a solid foundation to build your project on top of,
-with an easy-to-use grid, sensible typography, useful plugins, and even
-a stylesheet for printing.
-
-
 ### [Cardinal](https://github.com/cardinalcss/cardinalcss) - [Official Site](http://cardinalcss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/cardinalcss/cardinalcss.svg?style=flat-square)]()
@@ -356,18 +341,6 @@ framework for dummies, like myself, who don't know anything about
 graphic design but want their web services to look eatable. No classes,
 no layouts. Just design plain and simple web pages compliant with HTML5
 and they will look OK.
-
-
-### [Toast](https://github.com/daneden/toast) - [Official Site](http://daneden.github.io/Toast/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/daneden/toast.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/daneden/toast.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/daneden/toast.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/daneden/toast.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/daneden/toast.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/daneden/toast.svg?style=flat-square)]()
-
-A highly-customizable, responsive (S)CSS grid.
 
 
 ### [Waffle](https://github.com/lucasgruwez/waffle-grid) - [Official Site](https://lucasgruwez.github.io/waffle-grid/)
