@@ -12,7 +12,7 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 * [General Purpose (30)](readmeGeneralPurpose.md)
 * [Material Design (6)](readmeMaterialDesign.md)
 * [Specialized (7)](readmeSpecialized.md)
-* [No Longer Maintained (8)](readmeNoLongerMaintained.md)
+* [No Longer Maintained (9)](readmeNoLongerMaintained.md)
 
 
 
