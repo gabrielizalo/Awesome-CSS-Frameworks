@@ -525,5 +525,23 @@ System. It works in a similar way, but instead of being a set number of
 columns, it's entirely based on percentages.
 
 
+### [Vital](https://github.com/doximity/vital) - [Official Site](https://vitalcss.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/doximity/vital.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/doximity/vital.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/doximity/vital.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/doximity/vital.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/doximity/vital.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/doximity/vital.svg?style=flat-square)]()
+
+A minimally invasive CSS framework for modern web applications. Vital is
+a reverse approach to "everything and the kitchen sink" CSS frameworks.
+Vital is built with [Sass](http://sass-lang.com/), the preferred CSS
+preprocessor of today. No ridiculous amounts of classes or nesting. No
+excessively buried code. Written almost entirely in `em`values, allowing
+for easy and consistent scaling. Light as a feather: At a total size of 
+just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
+
+
 
 [**Return to Categories**](readme.md)

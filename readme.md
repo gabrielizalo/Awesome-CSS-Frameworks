@@ -9,7 +9,7 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 * [The Big Ones (10)](#the-big-ones)
 * [Base / Reset / Normalize (11)](readmeBaseResetNormalize.md)
 * [Lightweight (26)](readmeLightweight.md)
-* [General Purpose (33)](readmeGeneralPurpose.md)
+* [General Purpose (34)](readmeGeneralPurpose.md)
 * [Material Design (7)](readmeMaterialDesign.md)
 * [Specialized (7)](readmeSpecialized.md)
 * [No Longer Maintained (8)](readmeNoLongerMaintained.md)
