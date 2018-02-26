@@ -116,6 +116,19 @@ between normalize.css and a full blown framework, meet Cutestrap.
 Cutestrap is only 8kb of CSS.
 
 
+### [Fluidity](https://github.com/mrmrs/fluidity) - [Official Site](http://fluidity.sexy/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mrmrs/fluidity.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/mrmrs/fluidity.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mrmrs/fluidity.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/mrmrs/fluidity.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/mrmrs/fluidity.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/mrmrs/fluidity.svg?style=flat-square)]()
+
+HTML is **almost** 100% responsive by default. These 247 bytes of css
+fix the 'almost' part. 
+
+
 ### [fractures](https://github.com/fractures/fractures) - [Official Site](https://fractures.space/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/fractures/fractures.svg?style=flat-square)]()
