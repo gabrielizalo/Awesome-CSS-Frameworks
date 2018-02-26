@@ -493,5 +493,18 @@ for easy and consistent scaling. Light as a feather: At a total size of
 just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 
 
+### [Webplate](https://github.com/chrishumboldt/Webplate) - [Official Site](http://getwebplate.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/chrishumboldt/Webplate.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/chrishumboldt/Webplate.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/chrishumboldt/Webplate.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/chrishumboldt/Webplate.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/chrishumboldt/Webplate.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/chrishumboldt/Webplate.svg?style=flat-square)]()
+
+Webplate is an awesome front-end framework that lets you stay focused on
+building your site or app all the while remaining really easy to use. 
+
+
 
 [**Return to Categories**](readme.md)
