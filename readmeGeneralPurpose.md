@@ -97,6 +97,20 @@ create a seamless framework that could allow web developers to start up
 a new project easily without the need to override every little piece.
 
 
+### [Clarity Design System](https://github.com/vmware/clarity) - [Official Site](https://vmware.github.io/clarity/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/vmware/clarity.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/vmware/clarity.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/vmware/clarity.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/vmware/clarity.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/vmware/clarity.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/vmware/clarity.svg?style=flat-square)]()
+
+UX guidelines, HTML/CSS framework, and Angular components working
+together to craft exceptional experiences. Designed for designers and
+built for developers. From prototype to product, faster and better. 
+
+
 ### [Concise CSS](https://github.com/ConciseCSS/concise.css) - [Official Site](http://concisecss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css.svg?style=flat-square)]()
