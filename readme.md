@@ -11,9 +11,9 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 * [Lightweight (22)](readmeLightweight.md)
 * [General Purpose (32)](readmeGeneralPurpose.md)
 * [Material Design (6)](readmeMaterialDesign.md)
-* [Specialized: Grid Systems (10)](readmeSpecializedGridSystems.md)
+* [Specialized: Grid Systems (11)](readmeSpecializedGridSystems.md)
 * [Specialized: Other (7)](readmeSpecialized.md)
-* [No Longer Maintained (7)](readmeNoLongerMaintained.md)
+* [No Longer Maintained (6)](readmeNoLongerMaintained.md)
 
 
 

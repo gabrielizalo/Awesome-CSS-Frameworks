@@ -98,17 +98,5 @@ a UI framework. Quick to start with zero compiling or installing
 necessary.
 
 
-### [Toast](https://github.com/daneden/toast) - [Official Site](http://daneden.github.io/Toast/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/daneden/toast.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/daneden/toast.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/daneden/toast.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/daneden/toast.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/daneden/toast.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/daneden/toast.svg?style=flat-square)]()
-
-A highly-customizable, responsive (S)CSS grid.
-
-
 
 [**Return to Categories**](readme.md)
