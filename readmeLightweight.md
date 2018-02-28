@@ -23,6 +23,19 @@ The library is the best choice for blog, your homepage or site about
 project.
 
 
+### [Base](https://github.com/agency/base) - [Official Site](http://base.gs/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/agency/base.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/agency/base.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/agency/base.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/agency/base.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/agency/base.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/agency/base.svg?style=flat-square)]()
+
+Base is a semantic, lightweight and extensible framework to power the
+next generation of responsive websites.
+
+
 ### [BassCSS](https://github.com/basscss/basscss) - [Official Site](http://basscss.com)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/basscss/basscss.svg?style=flat-square)]()
