@@ -50,6 +50,19 @@ faster development. It's Mobile First, responsive across various devices
 with a very small footprint, 6kb gzipped!, which makes it faster. 
 
 
+### [Bijou](https://github.com/andhart/bijou) - [Official Site](http://andhart.github.io/bijou/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/andhart/bijou.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/andhart/bijou.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/andhart/bijou.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/andhart/bijou.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/andhart/bijou.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/andhart/bijou.svg?style=flat-square)]()
+
+A small (less than 2 KiB) CSS framework. A beautiful CSS framework under
+2kb (minified and gzip).
+
+
 ### [Blaze CSS](https://github.com/BlazeCSS/blaze) - [Official Site](http://blazecss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/BlazeCSS/blaze.svg?style=flat-square)]()
