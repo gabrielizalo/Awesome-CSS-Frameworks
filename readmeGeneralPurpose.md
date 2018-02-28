@@ -273,7 +273,7 @@ easily utilize in your web projects. Petal is fully coded on LESS from
 scratch.
 
 
-### [Primer](https://github.com/primer/primer-css) - [Official Site](http://primercss.io/)
+### [Primer](https://github.com/primer/primer-css) - [Official Site](https://primer.github.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/primer/primer-css.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/primer/primer-css.svg?style=flat-square)]()
