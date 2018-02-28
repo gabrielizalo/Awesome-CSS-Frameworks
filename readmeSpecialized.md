@@ -32,6 +32,20 @@ popular email clients.
 Modern framework to print web pages correctly.
 
 
+### [Lightning Design System](https://github.com/salesforce-ux/design-system) - [Official Site](https://www.lightningdesignsystem.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/design-system.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/salesforce-ux/design-system.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/salesforce-ux/design-system.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/salesforce-ux/design-system.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/salesforce-ux/design-system.svg?style=flat-square)]()
+
+Salesforce Lightning Design System. Tailored for building Salesforce
+apps: Using the Lightning Design System markup and CSS framework results
+in UIs that reflect the Salesforce Lightning look and feel.
+
+
 ### [PaperCSS](https://github.com/rhyneav/papercss) - [Official Site](https://www.getpapercss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rhyneav/papercss.svg?style=flat-square)]()
