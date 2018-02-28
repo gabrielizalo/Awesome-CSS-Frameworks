@@ -24,6 +24,22 @@ production environment. There are printable sketch sheets, design
 layouts, and a CSS file that have identical measurements. 
 
 
+### [Emerald](https://github.com/lmc-eu/emerald) - [Official Site](http://lmc-eu.github.io/emerald/) 
+ 
+[![GitHub last commit](https://img.shields.io/github/last-commit/lmc-eu/emerald.svg?style=flat-square)]() 
+[![GitHub tag](https://img.shields.io/github/tag/lmc-eu/emerald.svg?style=flat-square)]() 
+[![GitHub watchers](https://img.shields.io/github/watchers/lmc-eu/emerald.svg?style=flat-square)]() 
+[![GitHub stars](https://img.shields.io/github/stars/lmc-eu/emerald.svg?style=flat-square)]() 
+[![GitHub forks](https://img.shields.io/github/forks/lmc-eu/emerald.svg?style=flat-square)]() 
+[![GitHub issues](https://img.shields.io/github/issues/lmc-eu/emerald.svg?style=flat-square)]() 
+ 
+Emerald is an opinionated responsive grid system written in LESS.
+Mobile-first responsive choreography. It is your job to create a layout.
+It is Emarald's job to be so flexible to let you do that. Emerald
+features globally-sized columns which are truly nestable. It is
+inline-block element based, meaning there are no floats, clears or rows. 
+
+
 ### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
  
 [![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/mueller.svg?style=flat-square)]() 
