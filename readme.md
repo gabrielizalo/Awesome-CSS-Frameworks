@@ -8,10 +8,10 @@ List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://githu
 
 * [The Big Ones (10)](#the-big-ones)
 * [Base / Reset / Normalize (10)](readmeBaseResetNormalize.md)
-* [Lightweight (24)](readmeLightweight.md)
+* [Lightweight (23)](readmeLightweight.md)
 * [General Purpose (32)](readmeGeneralPurpose.md)
 * [Material Design (6)](readmeMaterialDesign.md)
-* [Specialized: Grid Systems (8)](readmeSpecializedGridSystems.md)
+* [Specialized: Grid Systems (9)](readmeSpecializedGridSystems.md)
 * [Specialized: Other (7)](readmeSpecialized.md)
 * [No Longer Maintained (7)](readmeNoLongerMaintained.md)
 

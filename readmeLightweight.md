@@ -266,20 +266,6 @@ Lightweight and beautiful library. Unpack your meal and get coding. An
 invasive CSS library to get your style started.
 
 
-### [Pills](https://github.com/rohitkrai03/pills) - [Official Site](http://arkpod.in/pills/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/rohitkrai03/pills.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/rohitkrai03/pills.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/rohitkrai03/pills.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/rohitkrai03/pills.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/rohitkrai03/pills.svg?style=flat-square)]()
-
-A simple, responsive, and tiny CSS grid for humans. 4kb, Mobile First 
-Grid System, HTML5 Boilerplate Head, Inspired by Simplicity and Control,
-IE8+, Firefox, Chrome, Safari, Opera, Free to use and Abuse.
-
-
 ### [sakura](https://github.com/oxalorg/sakura) - [Official Site](https://oxal.org/projects/sakura)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/oxalorg/sakura.svg?style=flat-square)]()
