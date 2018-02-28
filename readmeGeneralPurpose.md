@@ -147,18 +147,6 @@ and themeing on projects easily. It uses simple and descriptive class
 names, and yet generic enough to be understood easily.
 
 
-### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
-
-A grid system based on the flex display property.
-
-
 ### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square)]()

@@ -40,6 +40,18 @@ features globally-sized columns which are truly nestable. It is
 inline-block element based, meaning there are no floats, clears or rows. 
 
 
+### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/kristoferjoseph/flexboxgrid.svg?style=flat-square)]()
+
+A grid system based on the flex display property.
+
+
 ### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
  
 [![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/mueller.svg?style=flat-square)]() 
