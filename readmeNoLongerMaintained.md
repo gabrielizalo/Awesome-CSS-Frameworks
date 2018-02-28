@@ -71,21 +71,6 @@ is now in limited support, with development having moved to the
 repository.
 
 
-### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/sehmaschine/mueller.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/sehmaschine/mueller.svg?style=flat-square)]()
-
-MUELLER is a modular grid system for responsive/adaptive and
-non-responsive layouts, based on **Compass**. You have full
-control over column width, gutter width, baseline grid and
-media–queries.
-
-
 ### [PowerToCSS](https://github.com/powertoweb/powertocss) - [Official Site](http://powertoweb.com/powertocss)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/powertoweb/powertocss.svg?style=flat-square)]()
