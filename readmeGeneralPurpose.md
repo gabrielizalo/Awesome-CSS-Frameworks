@@ -473,20 +473,6 @@ something and you're too lazy to style your components or for building
 prototype.
 
 
-### [Unsemantic](https://github.com/nathansmith/unsemantic) - [Official Site](https://unsemantic.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/unsemantic.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nathansmith/unsemantic.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nathansmith/unsemantic.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/nathansmith/unsemantic.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/nathansmith/unsemantic.svg?style=flat-square)]()
-
-Unsemantic is a fluid grid system that is the successor to the 960 Grid 
-System. It works in a similar way, but instead of being a set number of
-columns, it's entirely based on percentages.
-
-
 ### [Vital](https://github.com/doximity/vital) - [Official Site](https://vitalcss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/doximity/vital.svg?style=flat-square)]()
