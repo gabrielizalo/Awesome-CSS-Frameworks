@@ -39,6 +39,23 @@ Furtive is intended to be just that, furtive. It's the perfect starting
 point to get your project up and running.
 
 
+### [Hoisin.scss](https://github.com/Cyber-Duck/hoisin.scss) - [Official Site](http://cyber-duck.github.io/hoisin.scss/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Cyber-Duck/hoisin.scss.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/Cyber-Duck/hoisin.scss.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Cyber-Duck/hoisin.scss.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Cyber-Duck/hoisin.scss.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/Cyber-Duck/hoisin.scss.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Cyber-Duck/hoisin.scss.svg?style=flat-square)]()
+
+Hoisin is a very simple responsive front end mini framework made to kick
+start your web project, written in Sass. This framework was created as
+an alternative to more complex and bloated front end frameworks, with a
+focus on organisation, speed and flexibility. We also aim to keep its
+codebase fresh including new techniques, whilst maintaining good support
+for the most common browsers.
+
+
 ### [inuitcss](https://github.com/inuitcss/inuitcss) - [Official Site](http://inuitcss.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/inuitcss/inuitcss.svg?style=flat-square)]()
