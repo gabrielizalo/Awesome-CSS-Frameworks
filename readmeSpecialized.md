@@ -98,6 +98,23 @@ extensive sidenotes, and tight integration of graphics and charts.
 tufte-css brings that style to HTML documents.
 
 
+### [typebase.css](https://github.com/devinhunt/typebase.css) - [Official Site](http://devinhunt.github.io/typebase.css/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/devinhunt/typebase.css.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/devinhunt/typebase.css.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/devinhunt/typebase.css.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/devinhunt/typebase.css.svg?style=flat-square)]()
+
+Typebase.css is a minimal, customizable typography stylesheet. It has
+both _less_ and _sass_ versions so it can easily be modified and merged into
+modern web projects. It provides all the necessary scaffolding for good
+typography without adding any aesthetics. It is built to be modified as
+projects evolve and grow, and plays nice with
+[normalize.css](readmeBaseResetNormalize.md#normalize.css).
+
+
 ### [Wireframe CSS](https://github.com/agauniyal/wireframe)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/agauniyal/wireframe.svg?style=flat-square)]()
