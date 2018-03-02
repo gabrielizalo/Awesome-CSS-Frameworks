@@ -24,6 +24,23 @@ production environment. There are printable sketch sheets, design
 layouts, and a CSS file that have identical measurements. 
 
 
+### [Cute Grids](https://github.com/dazzyweb/cute-grids) - [Official Site](http://www.cutegrids.com/) 
+ 
+[![GitHub last commit](https://img.shields.io/github/last-commit/dazzyweb/cute-grids.svg?style=flat-square)]() 
+[![GitHub tag](https://img.shields.io/github/tag/dazzyweb/cute-grids.svg?style=flat-square)]() 
+[![GitHub watchers](https://img.shields.io/github/watchers/dazzyweb/cute-grids.svg?style=flat-square)]() 
+[![GitHub stars](https://img.shields.io/github/stars/dazzyweb/cute-grids.svg?style=flat-square)]() 
+[![GitHub forks](https://img.shields.io/github/forks/dazzyweb/cute-grids.svg?style=flat-square)]() 
+[![GitHub issues](https://img.shields.io/github/issues/dazzyweb/cute-grids.svg?style=flat-square)]() 
+ 
+Responsive Grid System. No Bull, Just Cute. Clean Base for your
+Responsive Design. Cute grids was made from the frustration of today's
+world full of large overbuilt frameworks that can be overkill for most
+projects and restrict the creativity of the designer with too many
+inbuilt design features that can make even the most creative person
+lazy.
+
+
 ### [Emerald](https://github.com/lmc-eu/emerald) - [Official Site](http://lmc-eu.github.io/emerald/) 
  
 [![GitHub last commit](https://img.shields.io/github/last-commit/lmc-eu/emerald.svg?style=flat-square)]() 
