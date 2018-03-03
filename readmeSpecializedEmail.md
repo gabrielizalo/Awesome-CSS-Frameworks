@@ -32,5 +32,20 @@ popular email clients.
 A few simple, but solid patterns for responsive HTML emails. Even in Outlook and Gmail.
 
 
+### [Pine Framework](https://github.com/ThemeMountain/tm-pine) - [Official Site](https://thememountain.github.io/pine/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/tm-pine.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/tm-pine.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ThemeMountain/tm-pine.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ThemeMountain/tm-pine.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ThemeMountain/tm-pine.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ThemeMountain/tm-pine.svg?style=flat-square)]()
+
+A lightweight, responsive email framework. Pine is a responsive email
+framework made for email developers. With a focus on clean code,
+reusability, and utility classes, it is lightweight, easy to learn, and
+has solid email client compatibility.
+
+
 
 [**Return to Categories**](https://github.com/gabrielizalo/awesome-css-frameworks/blob/master/readme.md)
