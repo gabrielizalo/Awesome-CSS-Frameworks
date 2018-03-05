@@ -33,6 +33,22 @@ A few simple, but solid patterns for responsive HTML emails. Even in
 Outlook and Gmail. 
 
 
+### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/g13nn/Email-Framework.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/g13nn/Email-Framework.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/g13nn/Email-Framework.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/g13nn/Email-Framework.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/g13nn/Email-Framework.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/g13nn/Email-Framework.svg?style=flat-square)]()
+
+Build responsive email templates confidently. The HTML email framework
+developed to help you build responsive HTML email templates using the
+pre-built grid options and basic components you need to build responsive
+HTML email templates. This HTML email framework support's over 60+ email
+clients and has been thoroughly tested using Litmus.com.
+
+
 ### [Foundation for Emails 2 - Formerly Ink](https://github.com/zurb/foundation-emails) - [Official Site](https://foundation.zurb.com/emails.html)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-emails.svg?style=flat-square)]()
