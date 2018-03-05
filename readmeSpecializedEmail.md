@@ -29,7 +29,21 @@ popular email clients.
 [![GitHub forks](https://img.shields.io/github/forks/TedGoas/Cerberus.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/TedGoas/Cerberus.svg?style=flat-square)]()
 
-A few simple, but solid patterns for responsive HTML emails. Even in Outlook and Gmail.
+A few simple, but solid patterns for responsive HTML emails. Even in
+Outlook and Gmail. 
+
+
+### [Foundation for Emails 2 - Formerly Ink](https://github.com/zurb/foundation-emails) - [Official Site](https://foundation.zurb.com/emails.html)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-emails.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-emails.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-emails.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-emails.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/zurb/foundation-emails.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-emails.svg?style=flat-square)]()
+
+Formerly Ink. Quickly create responsive HTML emails that work. Even on
+Outlook.
 
 
 ### [Pine Framework](https://github.com/ThemeMountain/tm-pine) - [Official Site](https://thememountain.github.io/pine/)
