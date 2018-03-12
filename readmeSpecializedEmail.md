@@ -49,23 +49,6 @@ A few simple, but solid patterns for responsive HTML emails. Even in
 Outlook and Gmail. 
 
 
-### [Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - [Official Site](http://templates.mailchimp.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Email-Blueprints.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/mailchimp/Email-Blueprints.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/mailchimp/Email-Blueprints.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/mailchimp/Email-Blueprints.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/mailchimp/Email-Blueprints.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/mailchimp/Email-Blueprints.svg?style=flat-square)]()
-
-HTML Email Layouts by MailChimp. Email Blueprints is a collection of
-HTML email templates that can serve as a solid foundation and starting
-point for the design of emails. They include template language elements
-that make them customizable when imported into a MailChimp account, as
-well as merge tags that will generate dynamic content when sent through
-MailChimp.
-
-
 ### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/g13nn/Email-Framework.svg?style=flat-square)]()
@@ -93,6 +76,23 @@ clients and has been thoroughly tested using Litmus.com.
 
 Formerly Ink. Quickly create responsive HTML emails that work. Even on
 Outlook.
+
+
+### [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - [Official Site](http://templates.mailchimp.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Email-Blueprints.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/mailchimp/Email-Blueprints.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mailchimp/Email-Blueprints.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/mailchimp/Email-Blueprints.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/mailchimp/Email-Blueprints.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/mailchimp/Email-Blueprints.svg?style=flat-square)]()
+
+HTML Email Layouts by MailChimp. Email Blueprints is a collection of
+HTML email templates that can serve as a solid foundation and starting
+point for the design of emails. They include template language elements
+that make them customizable when imported into a MailChimp account, as
+well as merge tags that will generate dynamic content when sent through
+MailChimp.
 
 
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
