@@ -6,6 +6,21 @@
 ## General Purpose
 
 
+### [ALUX](https://github.com/afmarchetti/alux) - [Official Site](http://afmarchetti.github.io/alux/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+
+ALUX the Fast HTML5 Framework for Awesome Light User Experience. ALUX is a Lightweight Framework (25K) for Creating 
+Super-Fast and Beautifully Responsive Web Apps. The Framework is built with HTML/CSS and pure Javascript.  Dependencies 
+Free, no jQuery but with a wide range of features: Grids, Sliders, Menus, Animations, Typography, Forms, Buttons & more.
+Easy, Light, Fast, Flexible.
+
+
 ### [Base](https://github.com/matthewhartman/base) - [Official Site](http://getbase.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
