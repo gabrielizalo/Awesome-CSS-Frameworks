@@ -84,6 +84,19 @@ your own work.
 Tiny modern CSS reset.
 
 
+### [nanoreset](https://github.com/tiaanduplessis/nanoreset/) - [Official Site](https://tiaanduplessis.github.io/nanoreset/)
+  
+[![GitHub last commit](https://img.shields.io/github/last-commit/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
+
+Nanoreset is an simple CSS reset intented to be lightweight while still providing an a solid base for your project.
+It differs from other similar projects in that it is subjective to my use cases and preferences. 
+
+
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
