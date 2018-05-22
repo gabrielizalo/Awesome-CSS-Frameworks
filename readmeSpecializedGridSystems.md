@@ -82,6 +82,18 @@ inline-block element based, meaning there are no floats, clears or rows.
 A grid system based on the flex display property.
 
 
+### [Flexible grid](https://github.com/kenangundogan/flexible-grid) - [Official Site](https://www.flexible-grid.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
+
+A grid system based on the flex display property.
+
+
 ### [Griddd](https://github.com/shankariyerr/griddd) - [Official Site](http://griddd.surge.sh/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
