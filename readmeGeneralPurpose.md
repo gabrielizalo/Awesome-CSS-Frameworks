@@ -285,6 +285,21 @@ might be useful as a foundation for other projects out there. Plain and
 simple.
 
 
+### [Nespero](https://github.com/nespero/fluent-kit) - [Official Site](https://nespero.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+
+Fluent Kit is a Fluent Design inspired UI kit based on the latest
+Bootstrap. A library introducing Fluent Design to the Web, built on top
+of the most popular frameworks to keep the development process as simple
+as possible.
+
+
 ### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
