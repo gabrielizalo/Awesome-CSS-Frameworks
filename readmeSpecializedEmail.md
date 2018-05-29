@@ -49,6 +49,18 @@ A few simple, but solid patterns for responsive HTML emails. Even in
 Outlook and Gmail. 
 
 
+### [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - [Official Site](http://htmlemailboilerplate.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+
+The email boilerplate for sending out nicely formatted messages. 
+
+
 ### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
