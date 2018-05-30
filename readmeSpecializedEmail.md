@@ -105,6 +105,18 @@ HTML without having to deal with all of the email quirks. HEML makes
 building emails as easy as building websites. 
 
 
+### [HTML Email](https://github.com/leemunroe/htmlemail) - [Official Site](https://htmlemail.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
+
+Responsive HTML Email Templates.  
+
+
 ### [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - [Official Site](http://templates.mailchimp.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
