@@ -172,7 +172,7 @@ built using Sass and is designed to be used either directly or by using
 themes to extend or supplement its patterns.
 
 
-### [Wing](https://github.com/kbrsh/wing) - [Official Site](http://usewing.ml/)
+### [Wing](https://github.com/kbrsh/wing) - [Official Site](https://kbrsh.github.io/wing)
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
