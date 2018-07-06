@@ -324,22 +324,6 @@ invasive CSS library to get your style started.
 A minimal classless css framework / theme.
 
 
-### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-
-A dead simple, responsive boilerplate. Light as a feather at ~400 lines 
-& built with mobile in mind. Styles designed to be a starting point, not
-a UI framework. Quick to start with zero compiling or installing
-necessary.
-
-
 ### [Spark](https://github.com/twistedpixel/spark) - [Official Site](http://www.codewithspark.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

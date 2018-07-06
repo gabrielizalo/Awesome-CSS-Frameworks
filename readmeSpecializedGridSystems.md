@@ -39,41 +39,6 @@ CSS (SCSS) grid, base on CSS grid layout with @supports fallback to
 flexbox (partial support).
 
 
-### [Cute Grids](https://github.com/dazzyweb/cute-grids) - [Official Site](http://www.cutegrids.com/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub watchers](https://img.shields.io/github/watchers/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub forks](https://img.shields.io/github/forks/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
- 
-Responsive Grid System. No Bull, Just Cute. Clean Base for your
-Responsive Design. Cute grids was made from the frustration of today's
-world full of large overbuilt frameworks that can be overkill for most
-projects and restrict the creativity of the designer with too many
-inbuilt design features that can make even the most creative person
-lazy.
-
-
-### [Emerald](https://github.com/lmc-eu/emerald) - [Official Site](http://lmc-eu.github.io/emerald/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub watchers](https://img.shields.io/github/watchers/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub forks](https://img.shields.io/github/forks/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
- 
-Emerald is an opinionated responsive grid system written in LESS.
-Mobile-first responsive choreography. It is your job to create a layout.
-It is Emarald's job to be so flexible to let you do that. Emerald
-features globally-sized columns which are truly nestable. It is
-inline-block element based, meaning there are no floats, clears or rows. 
-
-
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

@@ -125,24 +125,6 @@ building emails as easy as building websites.
 Responsive HTML Email Templates.  
 
 
-### [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - [Official Site](http://templates.mailchimp.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-
-HTML Email Layouts by MailChimp. Email Blueprints is a collection of
-HTML email templates that can serve as a solid foundation and starting
-point for the design of emails. They include template language elements
-that make them customizable when imported into a MailChimp account, as
-well as merge tags that will generate dynamic content when sent through
-MailChimp.
-
-
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
