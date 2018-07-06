@@ -8,6 +8,7 @@
 
 ### [960 Grid System](https://github.com/nathansmith/960-grid-system/) - [Official Site](https://960.gs/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
@@ -26,6 +27,7 @@ layouts, and a CSS file that have identical measurements.
 
 ### [Atomic Bulldog Grid](https://github.com/vinceumo/atomic-bulldog-grid) - [Official Site](https://vinceumo.github.io/atomic-bulldog-grid/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
@@ -39,6 +41,7 @@ flexbox (partial support).
 
 ### [Cute Grids](https://github.com/dazzyweb/cute-grids) - [Official Site](http://www.cutegrids.com/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
@@ -56,6 +59,7 @@ lazy.
 
 ### [Emerald](https://github.com/lmc-eu/emerald) - [Official Site](http://lmc-eu.github.io/emerald/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
@@ -72,6 +76,7 @@ inline-block element based, meaning there are no floats, clears or rows.
 
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/kristoferjoseph/flexboxgrid.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/kristoferjoseph/flexboxgrid.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/kristoferjoseph/flexboxgrid.svg?style=flat-square&maxAge=5184000)]()
@@ -84,6 +89,7 @@ A grid system based on the flex display property.
 
 ### [Flexible grid](https://github.com/kenangundogan/flexible-grid) - [Official Site](https://www.flexible-grid.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/kenangundogan/flexible-grid.svg?style=flat-square&maxAge=5184000)]()
@@ -96,6 +102,7 @@ A grid system based on the flex display property.
 
 ### [Griddd](https://github.com/shankariyerr/griddd) - [Official Site](http://griddd.surge.sh/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
@@ -109,6 +116,7 @@ Lightweight and Customisable.
 
 ### [Katana.scss](https://github.com/vladocar/Katana) - [Official Site](https://vladocar.github.io/Katana/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
@@ -125,6 +133,7 @@ fluid column.
 
 ### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
@@ -140,6 +149,7 @@ media–queries.
  
 ### [Pills](https://github.com/rohitkrai03/pills) - [Official Site](http://arkpod.in/pills/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
@@ -154,6 +164,7 @@ IE8+, Firefox, Chrome, Safari, Opera, Free to use and Abuse.
 
 ### [RAGrid](https://github.com/argyleink/ragrid) - [Official Site](https://argyleink.github.io/ragrid/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
@@ -167,6 +178,7 @@ Works like auto-layout by aligning and distributing. Capable of
 
 ### [Strawberry CSS](https://github.com/jfet97/strawberry) - [Official Site](https://jfet97.github.io/strawberry/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
@@ -180,6 +192,7 @@ flexbox's utilities focused on making your life easier and faster with nested fl
  
 ### [Toast](https://github.com/daneden/toast) - [Official Site](http://daneden.github.io/Toast/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
@@ -192,6 +205,7 @@ A highly-customizable, responsive (S)CSS grid.
  
 ### [unlimitedGrid](https://github.com/PixelT/unlimitedGrid) - [Official Site](http://pixelt.github.io/unlimitedGrid/) 
  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub watchers](https://img.shields.io/github/watchers/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]() 
@@ -210,6 +224,7 @@ create an attractive and (ultra) functional grids.
 
 ### [Unsemantic](https://github.com/nathansmith/unsemantic) - [Official Site](https://unsemantic.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
@@ -224,6 +239,7 @@ columns, it's entirely based on percentages.
 
 ### [Waffle](https://github.com/lucasgruwez/waffle-grid) - [Official Site](https://lucasgruwez.github.io/waffle-grid/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
