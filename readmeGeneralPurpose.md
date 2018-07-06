@@ -8,6 +8,7 @@
 
 ### [ALUX](https://github.com/afmarchetti/alux) - [Official Site](http://afmarchetti.github.io/alux/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
@@ -23,6 +24,7 @@ Easy, Light, Fast, Flexible.
 
 ### [Base](https://github.com/matthewhartman/base) - [Official Site](http://getbase.org/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
@@ -37,6 +39,7 @@ styles and focus more time on creating beautiful website applications.
 
 ### [Biomatic UI](https://github.com/BioMaRu/biomatic) - [Official Site](https://biomatic-ui.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
@@ -51,6 +54,7 @@ and a clean responsive grid.
 
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
@@ -68,6 +72,7 @@ plugins built on jQuery.
 
 ### [Brutalist Framework](https://github.com/pinecreativelabs/Brutalist-Framework) - [Official Site](http://brutalistframework.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
@@ -80,6 +85,7 @@ An open source framework for the brutalist web design trend.
 
 ### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
@@ -94,6 +100,7 @@ you need) and Modern (Built with Flexbox).
 
 ### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
@@ -114,6 +121,7 @@ a new project easily without the need to override every little piece.
 
 ### [Clarity Design System](https://github.com/vmware/clarity) - [Official Site](https://vmware.github.io/clarity/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
@@ -128,6 +136,7 @@ built for developers. From prototype to product, faster and better.
 
 ### [Concise CSS](https://github.com/ConciseCSS/concise.css) - [Official Site](http://concisecss.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
@@ -149,6 +158,7 @@ as optional add-ons, Concise UI and Concise Utils, respectively.
 
 ### [FICTOAN](https://github.com/sujan-s/fictoan) - [Official Site](https://sujan-s.github.io/fictoan/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
@@ -162,8 +172,25 @@ and themeing on projects easily. It uses simple and descriptive class
 names, and yet generic enough to be understood easily.
 
 
+### [Fluent Kit](https://github.com/nespero/fluent-kit) - [Official Site](https://nespero.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+
+Fluent Kit is a Fluent Design inspired UI kit based on the latest
+Bootstrap. A library introducing Fluent Design to the Web, built on top
+of the most popular frameworks to keep the development process as simple
+as possible.
+
+
 ### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
@@ -177,6 +204,7 @@ for creating quick & responsive projects on the web, powered by Flexbox.
 
 ### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
@@ -193,6 +221,7 @@ used JavaScript plugins, and full accessibility support.
 
 ### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
@@ -210,6 +239,7 @@ friendly for both your audience and your designers & developers.
 
 ### [InvisCss](https://github.com/cmroanirgo/inviscss) - [Official Site](https://cmroanirgo.github.io/inviscss/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
@@ -228,6 +258,7 @@ uses a few simple 'opt-in' classes at the base of an HTML branch.
 
 ### [Kouto Swiss](https://github.com/leny/kouto-swiss) - [Official Site](http://kouto-swiss.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
@@ -240,6 +271,7 @@ A complete CSS framework for Stylus.
 
 ### [Kube](https://github.com/imperavi/kube) - [Official Site](https://imperavi.com/kube/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
@@ -259,6 +291,7 @@ HTML and CSS technologies, though.
 
 ### [Lighter](https://github.com/amine1107/lighter) - [Official Site](https://amine1107.github.io/lighter/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
@@ -271,6 +304,7 @@ Lighter is a flexible Css micro framework based on the visual aspect, the framew
 
 ### [Look](https://github.com/box2unlock/look) - [Official Site](https://rawgit.com/box2unlock/look/master/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
@@ -285,23 +319,9 @@ might be useful as a foundation for other projects out there. Plain and
 simple.
 
 
-### [Nespero](https://github.com/nespero/fluent-kit) - [Official Site](https://nespero.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-
-Fluent Kit is a Fluent Design inspired UI kit based on the latest
-Bootstrap. A library introducing Fluent Design to the Web, built on top
-of the most popular frameworks to keep the development process as simple
-as possible.
-
-
 ### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
@@ -317,6 +337,7 @@ with modular and configurable components.
 
 ### [Petal](https://github.com/shakrmedia/petal/) - [Official Site](https://shakrmedia.github.io/petal/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
@@ -332,6 +353,7 @@ scratch.
 
 ### [Primer](https://github.com/primer/primer-css) - [Official Site](https://primer.github.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
@@ -348,6 +370,7 @@ project.
 
 ### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
@@ -363,6 +386,7 @@ making it look cookie-cutter.
 
 ### [Renaissance CSS](https://github.com/CREATORSNEVERDIE/renaissancecss) - [Official Site](https://renaissancecss.com/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
@@ -377,6 +401,7 @@ Autoprefixed...
 
 ### [Responsive](https://github.com/responsivebp/responsive) - [Official Site](http://responsivebp.com/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
@@ -390,6 +415,7 @@ responsive websites.
 
 ### [roolith](https://github.com/im4aLL/roolith-css) - [Official Site](http://roolith.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
@@ -402,6 +428,7 @@ A simple responsive CSS boilerplate.
 
 ### [Schema](https://github.com/danmalarkey/schema) - [Official Site](http://danmalarkey.github.io/schema/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
@@ -416,6 +443,7 @@ box. Light. Responsive. Ready.
 
 ### [Scooter](https://github.com/dropbox/scooter) - [Official Site](http://dropbox.github.io/scooter/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
@@ -428,6 +456,7 @@ An SCSS framework & UI library for Dropbox Web.
 
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
@@ -448,6 +477,7 @@ application logic.
 
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
@@ -462,6 +492,7 @@ designing.
 
 ### [Taffy](https://github.com/lodog23/Taffy-CSS-Framework) - [Official Site](http://www.taffy.logancarlile23.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
@@ -480,6 +511,7 @@ the essentials you will need!
 
 ### [TentCSS](https://github.com/sitetent/tentcss) - [Official Site](https://css.sitetent.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
@@ -496,6 +528,7 @@ to other frameworks.
 
 ### [Topcoat](https://github.com/topcoat/topcoat) - [Official Site](http://topcoat.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
@@ -514,6 +547,7 @@ easier to manage.
 
 ### [TurretCSS](https://github.com/turretcss/turretcss) - [Official Site](http://turretcss.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
@@ -527,6 +561,7 @@ rapid development of responsive and accessible websites.
 
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
@@ -540,6 +575,7 @@ powerful web interfaces.
 
 ### [Unnamed](https://github.com/smakosh/unnamed-css-framework) - [Official Site](https://unnamed.smakosh.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
@@ -555,6 +591,7 @@ prototype.
 
 ### [Vital](https://github.com/doximity/vital) - [Official Site](https://vitalcss.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
@@ -573,6 +610,7 @@ just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 
 ### [Webplate](https://github.com/chrishumboldt/Webplate) - [Official Site](http://getwebplate.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
