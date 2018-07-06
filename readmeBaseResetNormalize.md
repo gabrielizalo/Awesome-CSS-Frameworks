@@ -8,6 +8,7 @@
 
 ### [avalanche](https://github.com/avalanchesass/avalanche) - [Official Site](https://avalanche.oberlehner.net/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
@@ -25,6 +26,7 @@ workflow.
 
 ### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
@@ -41,6 +43,7 @@ point to get your project up and running.
 
 ### [Hoisin.scss](https://github.com/Cyber-Duck/hoisin.scss) - [Official Site](http://cyber-duck.github.io/hoisin.scss/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Cyber-Duck/hoisin.scss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Cyber-Duck/hoisin.scss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/Cyber-Duck/hoisin.scss.svg?style=flat-square&maxAge=5184000)]()
@@ -58,6 +61,7 @@ for the most common browsers.
 
 ### [inuitcss](https://github.com/inuitcss/inuitcss) - [Official Site](http://inuitcss.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
@@ -74,6 +78,7 @@ your own work.
 
 ### [minireset.css](https://github.com/jgthms/minireset.css) - [Official Site](https://jgthms.com/minireset.css/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/minireset.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/jgthms/minireset.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/jgthms/minireset.css.svg?style=flat-square&maxAge=5184000)]()
@@ -86,6 +91,7 @@ Tiny modern CSS reset.
 
 ### [nanoreset](https://github.com/tiaanduplessis/nanoreset/) - [Official Site](https://tiaanduplessis.github.io/nanoreset/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/tiaanduplessis/nanoreset.svg?style=flat-square&maxAge=5184000)]()
@@ -99,6 +105,7 @@ It differs from other similar projects in that it is subjective to my use cases 
 
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
@@ -113,6 +120,7 @@ standards. It precisely targets only the styles that need normalizing.
 
 ### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
@@ -126,14 +134,15 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
-### [sanitize.css](https://github.com/jonathantneal/sanitize.css) - [Official Site](https://jonathantneal.github.io/sanitize.css/)
+### [sanitize.css](https://github.com/csstools/sanitize.css) - [Official Site](https://csstools.github.io/sanitize.css/)
   
-[![GitHub last commit](https://img.shields.io/github/last-commit/jonathantneal/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jonathantneal/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jonathantneal/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jonathantneal/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/jonathantneal/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jonathantneal/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/csstools/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/csstools/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/csstools/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/csstools/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/csstools/sanitize.css.svg?style=flat-square&maxAge=5184000)]()
 
 The best-practices CSS foundation. sanitize.css is a CSS library that 
 corrects broken and missing styles in all browsers, preserving useful
@@ -145,6 +154,7 @@ documented.
 
 ### [Shoelace.css](https://github.com/claviska/shoelace-css) - [Official Site](https://shoelace.style/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/claviska/shoelace-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/claviska/shoelace-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/claviska/shoelace-css.svg?style=flat-square&maxAge=5184000)]()
@@ -159,6 +169,7 @@ users will find it familiar, yet refreshing.
 
 ### [Vanilla Framework](https://github.com/vanilla-framework/vanilla-framework) - [Official Site](https://vanillaframework.io/)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
@@ -174,6 +185,7 @@ themes to extend or supplement its patterns.
 
 ### [Wing](https://github.com/kbrsh/wing) - [Official Site](https://kbrsh.github.io/wing)
   
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
