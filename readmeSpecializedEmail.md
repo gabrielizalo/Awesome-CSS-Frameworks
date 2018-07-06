@@ -8,6 +8,7 @@
 
 ### [Antwort](https://github.com/InterNations/antwort) - No Official Site
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
@@ -24,6 +25,7 @@ desktop that automatically become rows on mobile.
 
 ### [Bojler](https://github.com/Slicejack/bojler) - [Official Site](http://bojler.slicejack.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
@@ -38,6 +40,7 @@ popular email clients.
 
 ### [Cerberus](https://github.com/TedGoas/Cerberus) - [Official Site](http://tedgoas.github.io/Cerberus/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
@@ -51,6 +54,7 @@ Outlook and Gmail.
 
 ### [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - [Official Site](http://htmlemailboilerplate.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
@@ -63,6 +67,7 @@ The email boilerplate for sending out nicely formatted messages.
 
 ### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
@@ -79,6 +84,7 @@ clients and has been thoroughly tested using Litmus.com.
 
 ### [Foundation for Emails 2 - Formerly Ink](https://github.com/zurb/foundation-emails) - [Official Site](https://foundation.zurb.com/emails.html)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
@@ -92,6 +98,7 @@ Outlook.
 
 ### [HEML](https://github.com/SparkPost/heml) - [Official Site](https://heml.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
@@ -107,6 +114,7 @@ building emails as easy as building websites.
 
 ### [HTML Email](https://github.com/leemunroe/htmlemail) - [Official Site](https://htmlemail.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
@@ -119,6 +127,7 @@ Responsive HTML Email Templates.
 
 ### [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - [Official Site](http://templates.mailchimp.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
@@ -136,6 +145,7 @@ MailChimp.
 
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
@@ -149,6 +159,7 @@ way you code responsive email.
 
 ### [Pine Framework](https://github.com/ThemeMountain/tm-pine) - [Official Site](https://thememountain.github.io/pine/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
@@ -165,6 +176,7 @@ has solid email client compatibility.
 
 ### [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - [Official Site](http://www.charlesmudy.com/respmail/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
