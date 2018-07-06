@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-List of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
+A complete list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
 
 
@@ -25,6 +25,7 @@ Frameworks with more than ~10KB GitHub Stars.
 
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
+[![JS Dependency](https://img.shields.io/badge/JS-YES-ble.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
