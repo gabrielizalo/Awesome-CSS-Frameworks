@@ -11,6 +11,7 @@ longer maintained.
 
 ### [Blueprint](https://github.com/joshuaclayton/blueprint-css) - [Official Site](http://www.blueprintcss.org/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
@@ -26,6 +27,7 @@ a stylesheet for printing.
 
 ### [Compass](https://github.com/Compass/compass) - [Official Site](http://compass-style.org)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
@@ -40,6 +42,7 @@ implement and easier to maintain.
 
 ### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
@@ -55,6 +58,7 @@ that work on virtually any device.
 
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
@@ -73,6 +77,7 @@ repository.
 
 ### [PowerToCSS](https://github.com/powertoweb/powertocss) - [Official Site](http://powertoweb.com/powertocss)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
@@ -85,6 +90,7 @@ A versatile CSS Framework. Simple, light and responsive!
 
 ### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
