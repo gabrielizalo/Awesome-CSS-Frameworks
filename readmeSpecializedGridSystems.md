@@ -96,6 +96,21 @@ personalise anything, just change the numbers. Plus you have ultra cool
 fluid column. 
 
 
+### [Kayzen-GS](https://github.com/esr360/Kayzen-GS) - [Official Site](http://esr360.github.io/Kayzen-GS/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
+
+Kayzen-GS is a powerful framework for building responsive grid systems 
+for the web. A responsive, flexible and dynamic grid system based off 
+inline-block columns. 
+
+
 ### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
