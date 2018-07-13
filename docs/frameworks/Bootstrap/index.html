@@ -18,128 +18,157 @@
 <body>
 
 
-<header>
-    <h1><img src="icon.png" alt="Only HTML Icon" width="96" height="96" /></h1>
-    <h1>Bootstrap</h1>
-    <p>
-        <small>Return to <a href="../../index.html">Frameworks List</a></small>
-    </p>
-</header>
+<div class="container">
 
-<section id="info">
+    <div class="row">
 
-    <!-- Texts -->
-    <h2 id="FrameworkNameWithVersion">Bootstrap v4.1.1</h2>
-    <p id="FrameworkDescription">Build responsive, mobile-first projects on the web with the world's most popular front-end component library.<br />
-        Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.</p>
-    <p>This is a text with <strong>Bolded words</strong> and <em>some Italicized</em>.</p>
+        <header class="col">
+            <h1 class="text-center"><img src="icon.png" alt="Only HTML Icon" width="96" height="96"></h1>
+            <h1 class="display-1 text-center">Bootstrap v4.1.1</h1>
+            <p class="text-center">
+                <small>Return to <a href="../../index.html">Frameworks List</a></small>
+            </p>
+        </header>
 
-    <!-- Lists -->
-    <div id="lists">
-        <h3>Lists</h3>
-        <div>
-            <div>
-                <ul>
-                    <li>Unordered lists have basic styles</li>
-                    <li>
-                        They use the circle list style
-                        <ul>
-                            <li>Nested lists styled to feel right</li>
-                            <li>Can nest either type of list into the other</li>
-                        </ul>
-                    </li>
-                    <li>Just more list items mama san</li>
-                </ul>
-            </div>
-            <div>
-                <ol>
-                    <li>Ordered lists also have basic styles</li>
-                    <li>
-                        They use the decimal list style
-                        <ul>
-                            <li>Ordered and unordered can be nested</li>
-                            <li>Can nest either type of list into the other</li>
-                        </ul>
-                    </li>
-                    <li>Last list item just for the fun</li>
-                </ol>
-            </div>
-        </div>
     </div>
-    
-    <table>
-        <thead>
-        <tr>
-            <th></th>
-            <th>HTML</th>
-            <th>CSSs</th>
-            <th>JSs</th>
-            <th>Other</th>
-            <th>TOTAL</th>
-        </tr>
-        </thead>
 
-        <tbody>
-        <tr>
-            <td><strong>Files</strong><br><small>(without images)</small></td>
-            <td>1</td>
-            <td>1</td>
-            <td>3</td>
-            <td>0</td>
-            <td>5</td>
-        </tr>
+    <div class="row">
 
-        <tr>
-            <td><strong>Size (Kb)</strong></td>
-            <td>4.55</td>
-            <td>137</td>
-            <td>137.5</td>
-            <td>0</td>
-            <td>279.05</td>
-        </tr>
+        <section id="info" class="col">
 
-        </tbody>
-    </table>
+            <!-- Texts -->
+            <p id="FrameworkDescription" class="lead">Build responsive, mobile-first projects on the web with the
+                world's most
+                popular
+                front-end component library.<br/>
+                Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas
+                or
+                build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt
+                components, and powerful plugins built on jQuery.</p>
+            <p>This is a text with <strong>Bolded words</strong> and <em>some Italicized</em>.</p>
 
-</section>
+            <!-- Lists -->
+            <h3 class="h3">Lists</h3>
+            <div id="lists">
+                <div>
+                    <div>
+                        <ul>
+                            <li>Unordered lists have basic styles</li>
+                            <li>
+                                They use the circle list style
+                                <ul>
+                                    <li>Nested lists styled to feel right</li>
+                                    <li>Can nest either type of list into the other</li>
+                                </ul>
+                            </li>
+                            <li>Just more list items mama san</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ol>
+                            <li>Ordered lists also have basic styles</li>
+                            <li>
+                                They use the decimal list style
+                                <ul>
+                                    <li>Ordered and unordered can be nested</li>
+                                    <li>Can nest either type of list into the other</li>
+                                </ul>
+                            </li>
+                            <li>Last list item just for the fun</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
 
-<section id="login">
+        </section>
 
-    <form name="loginForm">
-        <fieldset>
+        <section id="login" class="col">
 
-            <legend>Login</legend>
+            <h2 class="h2">Form Login</h2>
+            <form name="loginForm">
+                <fieldset>
 
-            <label for="email">Email</label>
-            <input id="email" type="email" placeholder="Email" required autofocus>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input id="email" class="form-control" type="email" placeholder="Email" required>
+                    </div>
 
-            <label for="password">Password</label>
-            <input id="password" type="password" placeholder="Password" required>
-            <label for="remember">
-                <input id="remember" type="checkbox"> Remember me
-            </label>
+                    <div class="form-group">
+                        <label for="password">Password:</label>
+                        <input id="password" class="form-control" type="password" placeholder="Password" required>
+                    </div>
 
-            <input type="submit" value="Submit" />
-            <input type="button" value="Register" />
+                    <div class="form-group form-check">
+                        <label for="remember">
+                            <input id="remember" class="form-check-input" type="checkbox"> Remember me
+                        </label>
+                    </div>
 
-            <p><a href="#">Forgot your password?</a></p>
+                    <input type="submit" value="Submit" class="btn btn-primary">
+                    <input type="button" value="Register" class="btn btn-secondary">
+                    <p><a href="#">Forgot your password?</a></p>
 
-        </fieldset>
-    </form>
+                </fieldset>
+            </form>
 
-</section>
+            <h3 class="h3">Framework Files & Size</h3>
+            <table class="table table-hover">
+                <thead>
+                <tr>
+                    <th></th>
+                    <th scope="col" class="text-center">HTML</th>
+                    <th scope="col" class="text-center">CSSs</th>
+                    <th scope="col" class="text-center">JSs</th>
+                    <th scope="col" class="text-center">Other</th>
+                    <th scope="col" class="text-center">TOTAL</th>
+                </tr>
+                </thead>
 
-<footer>
-    <h1>Awesome CSS Frameworks</h1>
-    <p>
-        <small>
-            Return to <a href="../../index.html">Frameworks List</a>
-            |
-            &copy; 2018
-        </small>
-    </p>
-</footer>
+                <tbody>
+                <tr>
+                    <th scope="row" class="text-right"><strong>Files</strong><br>
+                        <small>(without images)</small>
+                    </th>
+                    <td class="text-center">1</td>
+                    <td class="text-center">1</td>
+                    <td class="text-center">3</td>
+                    <td class="text-center">0</td>
+                    <td class="text-center">5</td>
+                </tr>
 
+                <tr>
+                    <th scope="row" class="text-right"><strong>Size (Kb)</strong></th>
+                    <td class="text-center">6.58</td>
+                    <td class="text-center">137</td>
+                    <td class="text-center">137.5</td>
+                    <td class="text-center">0</td>
+                    <td class="text-center">281.08</td>
+                </tr>
+
+                </tbody>
+            </table>
+
+        </section>
+
+    </div>
+
+    <div class="row">
+
+        <footer class="col">
+            <h1 class="h4 text-center">Awesome CSS Frameworks</h1>
+            <p class="text-center">
+                <small>
+                    Return to <a href="../../index.html">Frameworks List</a>
+                    |
+                    2018
+                </small>
+            </p>
+        </footer>
+
+    </div>
+
+
+</div>
 
 <!-- Scripts -->
 <script src="js/vendor/jquery-3.3.1.slim.min.js"></script>
