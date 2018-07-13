@@ -35,8 +35,8 @@
     <p>This is a text with <strong>Bolded words</strong> and <em>some Italicized</em>.</p>
 
     <!-- Lists -->
+    <h3>Lists</h3>
     <div id="lists">
-        <h3>Lists</h3>
         <div>
             <div>
                 <ul>
@@ -66,66 +66,68 @@
             </div>
         </div>
     </div>
-    
-    <table>
-        <thead>
-        <tr>
-            <th></th>
-            <th>HTML</th>
-            <th>CSSs</th>
-            <th>JSs</th>
-            <th>Other</th>
-            <th>TOTAL</th>
-        </tr>
-        </thead>
-
-        <tbody>
-        <tr>
-            <td><strong>Files</strong><br><small>(without images)</small></td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>1</td>
-        </tr>
-
-        <tr>
-            <td><strong>Size (Kb)</strong></td>
-            <td>4</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>4</td>
-        </tr>
-
-        </tbody>
-    </table>
 
 </section>
 
 <section id="login">
 
+    <h2>Form Login</h2>
     <form name="loginForm">
         <fieldset>
 
-            <legend>Login</legend>
+            <label for="email">Email:</label>
+            <input id="email" type="email" placeholder="Email" required>
 
-            <label for="email">Email</label>
-            <input id="email" type="email" placeholder="Email" required autofocus>
-
-            <label for="password">Password</label>
+            <label for="password">Password:</label>
             <input id="password" type="password" placeholder="Password" required>
             <label for="remember">
                 <input id="remember" type="checkbox"> Remember me
             </label>
 
-            <input type="submit" value="Submit" />
-            <input type="button" value="Register" />
+            <input type="submit" value="Submit">
+            <input type="button" value="Register">
 
             <p><a href="#">Forgot your password?</a></p>
 
         </fieldset>
     </form>
+
+    <h3>Framework Files & Size</h3>
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <th></th>
+            <th scope="col">HTML</th>
+            <th scope="col">CSSs</th>
+            <th scope="col">JSs</th>
+            <th scope="col">Other</th>
+            <th scope="col">TOTAL</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+            <th scope="row"><strong>Files</strong><br>
+                <small>(without images)</small>
+            </th>
+            <td>1</td>
+            <td>1</td>
+            <td>3</td>
+            <td>0</td>
+            <td>5</td>
+        </tr>
+
+        <tr>
+            <th scope="row"><strong>Size (Kb)</strong></th>
+            <td>4.55</td>
+            <td>137</td>
+            <td>137.5</td>
+            <td>0</td>
+            <td>279.05</td>
+        </tr>
+
+        </tbody>
+    </table>
 
 </section>
 
@@ -135,7 +137,7 @@
         <small>
             Return to <a href="../../index.html">Frameworks List</a>
             |
-            &copy; 2018
+            2018
         </small>
     </p>
 </footer>
