@@ -65,6 +65,20 @@ A grid system based on the flex display property.
 A grid system based on the flex display property.
 
 
+### [Flexit](https://github.com/mr-karan/flexit) - [Official Site](https://mrkaran.com/flexit/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+
+Simple, clean and no fuss flexbox based grid. With simple and human 
+readable class names, you can get up and running with Flexit in no time.
+
+
 ### [Griddd](https://github.com/shankariyerr/griddd) - [Official Site](http://griddd.surge.sh/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
