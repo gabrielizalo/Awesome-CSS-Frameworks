@@ -81,15 +81,15 @@ A small (less than 2 KiB) CSS framework. A beautiful CSS framework under
 2kb (minified and gzip).
 
 
-### [Blaze CSS](https://github.com/BlazeCSS/blaze) - [Official Site](http://blazecss.com/)
+### [Blaze CSS](https://github.com/BlazeUI/blaze) - [Official Site](http://blazecss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/BlazeCSS/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/BlazeCSS/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/BlazeCSS/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/BlazeCSS/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/BlazeCSS/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/BlazeCSS/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
 
 Blaze is an open source modular toolkit. It provides great structure for
 building websites quickly with a scalable and maintainable foundation.
