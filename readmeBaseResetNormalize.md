@@ -89,6 +89,19 @@ your own work.
 Tiny modern CSS reset.
 
 
+### [Modern-Normalize](https://github.com/sindresorhus/modern-normalize) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/modern-normalize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sindresorhus/modern-normalize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/sindresorhus/modern-normalize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/sindresorhus/modern-normalize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sindresorhus/modern-normalize.svg?style=flat-square&maxAge=5184000)]()
+
+Normalize browsers' default style. 
+
+
 ### [nanoreset](https://github.com/tiaanduplessis/nanoreset/) - [Official Site](https://tiaanduplessis.github.io/nanoreset/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

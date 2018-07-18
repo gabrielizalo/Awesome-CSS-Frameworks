@@ -1,13 +1,13 @@
 # Gabo's Awesome CSS Frameworks
 
-A complete list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
+An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
 
 
 ## Categories
 
 * [The Big Ones (10)](#the-big-ones)
-* [Base / Reset / Normalize (12)](readmeBaseResetNormalize.md)
+* [Base / Reset / Normalize (13)](readmeBaseResetNormalize.md)
 * [Lightweight (25)](readmeLightweight.md)
 * [General Purpose (38)](readmeGeneralPurpose.md)
 * [Material Design (6)](readmeMaterialDesign.md)
