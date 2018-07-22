@@ -20,7 +20,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 
 ## The Big Ones
 
-Frameworks with more than ~10KB GitHub Stars.
+Frameworks with more than ~10K GitHub Stars.
 
 
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
