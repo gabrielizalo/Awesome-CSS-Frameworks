@@ -526,6 +526,23 @@ building websites. We'll leave application and kitchen sink development
 to other frameworks.
 
 
+### [Teutonic CSS](https://github.com/fortrabbit/teutonic-css) - [Official Site](https://teutonic.co/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
+
+A CSS survival kit. Includes only the essentials to make camp. Pulling 
+inspiration from outdoor survival, Tent CSS is unglamorously simple and
+robust. The framework is designed to be used as a foundation for
+building websites. We'll leave application and kitchen sink development
+to other frameworks.
+
+
 ### [Topcoat](https://github.com/topcoat/topcoat) - [Official Site](http://topcoat.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
