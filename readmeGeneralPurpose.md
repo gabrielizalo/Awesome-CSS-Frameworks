@@ -98,6 +98,20 @@ Bulma is a free and open source CSS framework based on Flexbox. It's
 you need) and Modern (Built with Flexbox).
 
 
+### [BuddyCSS](https://github.com/BuddyCSS/BuddyCSS) - [Official Site](https://buddycss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+
+BuddyCSS is a CSS/JS framework. BuddyCSS is a simple CSS framework to 
+build awesome websites easily.
+
+
 ### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
