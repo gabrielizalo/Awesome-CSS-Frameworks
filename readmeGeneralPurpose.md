@@ -333,6 +333,20 @@ might be useful as a foundation for other projects out there. Plain and
 simple.
 
 
+### [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS) - [Official Site](https://modesta.alexflipnote.xyz/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
+
+A clean CSS framework made to be dark, responsive and easy to build 
+with. 
+
+
 ### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
