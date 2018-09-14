@@ -26,6 +26,7 @@ Frameworks with more than ~10K GitHub Stars.
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
@@ -44,6 +45,7 @@ plugins built on jQuery.
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![LESS](https://img.shields.io/badge/LESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
@@ -65,6 +67,7 @@ application logic.
 ### [Materialize](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
@@ -78,6 +81,7 @@ Materialize, a CSS Framework based on Material Design.
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![PureCSS](https://img.shields.io/badge/PureCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
@@ -93,6 +97,7 @@ standards. It precisely targets only the styles that need normalizing.
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
@@ -112,6 +117,7 @@ repository.
 ### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
@@ -127,6 +133,7 @@ you need) and Modern (Built with Flexbox).
 ### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
@@ -144,6 +151,7 @@ used JavaScript plugins, and full accessibility support.
 ### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![PureCSS](https://img.shields.io/badge/PureCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
@@ -160,6 +168,7 @@ making it look cookie-cutter.
 ### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![PureCSS](https://img.shields.io/badge/PureCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
@@ -176,6 +185,7 @@ necessary. **It's no longer maintained**.
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASSandLESS](https://img.shields.io/badge/SASSandLESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()

@@ -1,0 +1,75 @@
+{
+  TwbsBootstrap: repository(owner: "twbs", name: "bootstrap") {
+    ...RepoFragment
+  }
+  SemanticOrgSemanticUi: repository(owner: "semantic-org", name: "semantic-ui") {
+    ...RepoFragment
+  }
+  DogfaloMaterialize: repository(owner: "Dogfalo", name: "materialize") {
+    ...RepoFragment
+  }
+  NecolasNormalizeCss: repository(owner: "necolas", name: "normalize.css") {
+    ...RepoFragment
+  }
+  GoogleMaterialDesignLite: repository(owner: "google", name: "material-design-lite") {
+    ...RepoFragment
+  }
+  JgthmsBulma: repository(owner: "jgthms", name: "bulma") {
+    ...RepoFragment
+  }
+  ZurbFoundationSites: repository(owner: "zurb", name: "foundation-sites") {
+    ...RepoFragment
+  }
+  PureCssPure: repository(owner: "pure-css", name: "pure") {
+    ...RepoFragment
+  }
+  DhgSkeleton: repository(owner: "dhg", name: "Skeleton") {
+    ...RepoFragment
+  }
+  UikitUikit: repository(owner: "uikit", name: "uikit") {
+    ...RepoFragment
+  }
+  AvalanchesassAvalanche: repository(owner: "avalanchesass", name: "avalanche") {
+    ...RepoFragment
+  }
+  JohnoFurtive: repository(owner: "johno", name: "furtive") {
+    ...RepoFragment
+  }
+  CyberDuckHoisinScss: repository(owner: "Cyber-Duck", name: "hoisin.scss") {
+    ...RepoFragment
+  }
+  InuitcssInuitcss: repository(owner: "inuitcss", name: "inuitcss") {
+    ...RepoFragment
+  }
+  JgthmsMiniresetCss: repository(owner: "jgthms", name: "minireset.css") {
+    ...RepoFragment
+  }
+  SindresorhusModernNormalize: repository(owner: "sindresorhus", name: "modern-normalize") {
+    ...RepoFragment
+  }
+  TiaanduplessisNanoreset: repository(owner: "tiaanduplessis", name: "nanoreset") {
+    ...RepoFragment
+  }
+}
+
+fragment RepoFragment on Repository {
+  name
+  nameWithOwner
+  defaultBranchRef {
+    target {
+      ... on Commit {
+        committedDate
+      }
+    }
+  }
+  watchers {
+    totalCount
+  }
+  stargazers {
+    totalCount
+  }
+  forkCount
+  issues(states: OPEN) {
+    totalCount
+  }
+}

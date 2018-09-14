@@ -1,0 +1,194 @@
+{
+  "data": {
+    "TwbsBootstrap": {
+      "name": "bootstrap",
+      "nameWithOwner": "twbs/bootstrap",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-08-07T16:49:02Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 7382
+      },
+      "stargazers": {
+        "totalCount": 126665
+      },
+      "forkCount": 61419,
+      "issues": {
+        "totalCount": 381
+      }
+    },
+    "SemanticOrgSemanticUi": {
+      "name": "Semantic-UI",
+      "nameWithOwner": "Semantic-Org/Semantic-UI",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-07-09T00:12:38Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 1462
+      },
+      "stargazers": {
+        "totalCount": 42427
+      },
+      "forkCount": 4572,
+      "issues": {
+        "totalCount": 612
+      }
+    },
+    "DogfaloMaterialize": {
+      "name": "materialize",
+      "nameWithOwner": "Dogfalo/materialize",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-08-01T17:50:05Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 1191
+      },
+      "stargazers": {
+        "totalCount": 33616
+      },
+      "forkCount": 4615,
+      "issues": {
+        "totalCount": 330
+      }
+    },
+    "NecolasNormalizeCss": {
+      "name": "normalize.css",
+      "nameWithOwner": "necolas/normalize.css",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-02-11T15:53:41Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 1562
+      },
+      "stargazers": {
+        "totalCount": 31962
+      },
+      "forkCount": 6517,
+      "issues": {
+        "totalCount": 11
+      }
+    },
+    "GoogleMaterialDesignLite": {
+      "name": "material-design-lite",
+      "nameWithOwner": "google/material-design-lite",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2017-06-27T21:19:00Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 1347
+      },
+      "stargazers": {
+        "totalCount": 30491
+      },
+      "forkCount": 5239,
+      "issues": {
+        "totalCount": 336
+      }
+    },
+    "JgthmsBulma": {
+      "name": "bulma",
+      "nameWithOwner": "jgthms/bulma",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-08-02T08:34:25Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 665
+      },
+      "stargazers": {
+        "totalCount": 28937
+      },
+      "forkCount": 2286,
+      "issues": {
+        "totalCount": 348
+      }
+    },
+    "ZurbFoundationSites": {
+      "name": "foundation-sites",
+      "nameWithOwner": "zurb/foundation-sites",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-08-09T21:56:39Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 1469
+      },
+      "stargazers": {
+        "totalCount": 27527
+      },
+      "forkCount": 5818,
+      "issues": {
+        "totalCount": 334
+      }
+    },
+    "PureCssPure": {
+      "name": "pure",
+      "nameWithOwner": "pure-css/pure",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-08-05T20:13:43Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 825
+      },
+      "stargazers": {
+        "totalCount": 18910
+      },
+      "forkCount": 2025,
+      "issues": {
+        "totalCount": 35
+      }
+    },
+    "DhgSkeleton": {
+      "name": "Skeleton",
+      "nameWithOwner": "dhg/Skeleton",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2014-12-29T18:29:28Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 536
+      },
+      "stargazers": {
+        "totalCount": 15883
+      },
+      "forkCount": 2788,
+      "issues": {
+        "totalCount": 64
+      }
+    },
+    "UikitUikit": {
+      "name": "uikit",
+      "nameWithOwner": "uikit/uikit",
+      "defaultBranchRef": {
+        "target": {
+          "committedDate": "2018-08-10T10:09:33Z"
+        }
+      },
+      "watchers": {
+        "totalCount": 716
+      },
+      "stargazers": {
+        "totalCount": 12919
+      },
+      "forkCount": 1970,
+      "issues": {
+        "totalCount": 438
+      }
+    }
+  }
+}
