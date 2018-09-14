@@ -81,7 +81,7 @@ Materialize, a CSS Framework based on Material Design.
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![PureCSS](https://img.shields.io/badge/PureCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
@@ -151,7 +151,7 @@ used JavaScript plugins, and full accessibility support.
 ### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![PureCSS](https://img.shields.io/badge/PureCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
@@ -168,7 +168,7 @@ making it look cookie-cutter.
 ### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![PureCSS](https://img.shields.io/badge/PureCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
@@ -185,7 +185,7 @@ necessary. **It's no longer maintained**.
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![SASSandLESS](https://img.shields.io/badge/SASSandLESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS and LESS](https://img.shields.io/badge/SASS%20and%20LESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
