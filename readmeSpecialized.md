@@ -130,7 +130,7 @@ tufte-css brings that style to HTML documents.
 ### [typebase.css](https://github.com/devinhunt/typebase.css) - [Official Site](http://devinhunt.github.io/typebase.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![SASS and LESS and Rework](https://img.shields.io/badge/SASS%20and%20LESSand%20Rework-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS and LESS and Rework](https://img.shields.io/badge/SASS%20and%20LESS%20and%20Rework-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
@@ -149,6 +149,7 @@ projects evolve and grow, and plays nice with
 ### [Wireframe CSS](https://github.com/agauniyal/wireframe) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
