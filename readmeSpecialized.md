@@ -9,6 +9,7 @@
 ### [Gutenberg](https://github.com/BafS/Gutenberg) - [Official Site](http://bafs.github.io/Gutenberg/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
@@ -22,6 +23,7 @@ Modern framework to print web pages correctly.
 ### [Lightning Design System](https://github.com/salesforce-ux/design-system) - [Official Site](https://www.lightningdesignsystem.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
@@ -37,6 +39,7 @@ in UIs that reflect the Salesforce Lightning look and feel.
 ### [PaperCSS](https://github.com/rhyneav/papercss) - [Official Site](https://www.getpapercss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
@@ -54,6 +57,7 @@ page should instantly paper-ize it.
 ### [Synergy](https://github.com/esr360/Synergy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
@@ -69,6 +73,7 @@ create configurable modules in Sass, JavaScript and/or React.
 ### [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) - [Official Site](https://tailwindcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
@@ -91,6 +96,7 @@ just what you're looking for.
 ### [Trashy.css](https://github.com/t7/trashy.css) - [Official Site](https://t7.github.io/trashy.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
@@ -107,6 +113,7 @@ use semantic HTML.
 ### [Tufte CSS](https://github.com/edwardtufte/tufte-css) - [Official Site](https://edwardtufte.github.io/tufte-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
@@ -123,6 +130,7 @@ tufte-css brings that style to HTML documents.
 ### [typebase.css](https://github.com/devinhunt/typebase.css) - [Official Site](http://devinhunt.github.io/typebase.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![SASS and LESS and Rework](https://img.shields.io/badge/SASS%20and%20LESSand%20Rework-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
