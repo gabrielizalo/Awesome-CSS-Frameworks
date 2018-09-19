@@ -88,6 +88,22 @@ implementing a custom design with its own identity, Tailwind might be
 just what you're looking for.
 
 
+### [Trashy.css](https://github.com/t7/trashy.css) - [Official Site](https://t7.github.io/trashy.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
+
+The throwaway CSS library with no class. This is just a silly idea, a 
+CSS "library" that styles tags directly — as opposed to using class 
+names as style hooks — to help people become more familiar with how to 
+use semantic HTML. 
+
+
 ### [Tufte CSS](https://github.com/edwardtufte/tufte-css) - [Official Site](https://edwardtufte.github.io/tufte-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
