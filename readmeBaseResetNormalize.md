@@ -76,6 +76,22 @@ provides you with a solid architectural baseline upon which to complete
 your own work.
 
 
+### [Marx](https://github.com/mblode/marx) - [Official Site](https://mblode.github.io/marx/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mblode/marx.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mblode/marx.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mblode/marx.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mblode/marx.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/mblode/marx.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mblode/marx.css.svg?style=flat-square&maxAge=5184000)]()
+
+The classless CSS reset (perfect for Communists). No JavaScript. No Classes. Just raw CSS. Marx is a CSS stylesheet to 
+be used in any projects (namely small ones). If you don't need the weight of heavy frameworks or you would just like to 
+make an edible website quickly, Marx is perfect for you. It can be used out of the minified box but it can also be 
+customised and styled through the use of HTML classes.
+
+
 ### [minireset.css](https://github.com/jgthms/minireset.css) - [Official Site](https://jgthms.com/minireset.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
