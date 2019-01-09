@@ -22,6 +22,20 @@ Free, no jQuery but with a wide range of features: Grids, Sliders, Menus, Animat
 Easy, Light, Fast, Flexible.
 
 
+### [awsm.css](https://github.com/igoradamenko/awsm.css) - [Official Site](https://igoradamenko.github.io/awsm.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
+
+awsm.css makes your HTML beautiful. It is a CSS library for beautify semantic HTML markup without classes, attributes, 
+etc. Use tags only. The library is the best choice for blog, your homepage or site about project.
+
+
 ### [Base](https://github.com/matthewhartman/base) - [Official Site](http://getbase.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
