@@ -22,44 +22,30 @@ Free, no jQuery but with a wide range of features: Grids, Sliders, Menus, Animat
 Easy, Light, Fast, Flexible.
 
 
-### [awsm.css](https://github.com/igoradamenko/awsm.css) - [Official Site](https://igoradamenko.github.io/awsm.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/igoradamenko/awsm.css.svg?style=flat-square&maxAge=5184000)]()
-
-awsm.css makes your HTML beautiful. It is a CSS library for beautify semantic HTML markup without classes, attributes, 
-etc. Use tags only. The library is the best choice for blog, your homepage or site about project.
-
-
-### [Base](https://github.com/matthewhartman/base) - [Official Site](http://getbase.org/)
+### [Base](https://github.com/getbase/base) - [Official Site](http://getbase.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/matthewhartman/base.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/getbase/base.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/getbase/base.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/getbase/base.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/getbase/base.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/getbase/base.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/getbase/base.svg?style=flat-square&maxAge=5184000)]()
 
 A Rock Solid, Responsive CSS Framework built to work on all devices big 
 and small. Lightweight and minimal code. Spend less time overriding
 styles and focus more time on creating beautiful website applications.
 
 
-### [Biomatic UI](https://github.com/BioMaRu/biomatic) - [Official Site](https://biomatic-ui.com/)
+### [Biomatic UI](https://github.com/moonrhythm/biomatic) - [Official Site](https://biomatic-ui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/BioMaRu/biomatic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
 
 A Flexible Atomic-Focused CSS Framework. It's Atomic-Focus, carefully 
 naming, configurable, pure CSS, fun and it has basic components included
@@ -213,22 +199,6 @@ and themeing on projects easily. It uses simple and descriptive class
 names, and yet generic enough to be understood easily.
 
 
-### [Fluent Kit](https://github.com/nespero/fluent-kit) - [Official Site](https://nespero.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-
-Fluent Kit is a Fluent Design inspired UI kit based on the latest
-Bootstrap. A library introducing Fluent Design to the Web, built on top
-of the most popular frameworks to keep the development process as simple
-as possible.
-
-
 ### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -330,19 +300,6 @@ or code decisions; it does require fluency and proficiency with latest
 HTML and CSS technologies, though.
 
 
-### [Lighter](https://github.com/amine1107/lighter) - [Official Site](https://amine1107.github.io/lighter/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/amine1107/lighter.svg?style=flat-square&maxAge=5184000)]()
-
-Lighter is a flexible Css micro framework based on the visual aspect, the framework offers you a clean and easy work.
-
-
 ### [Look](https://github.com/box2unlock/look) - [Official Site](https://rawgit.com/box2unlock/look/master/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -406,32 +363,30 @@ easily utilize in your web projects. Petal is fully coded on LESS from
 scratch.
 
 
-### [Primer](https://github.com/primer/primer-css) - [Official Site](https://primer.github.io/)
+### [Primer](https://github.com/primer/primer) - [Official Site](https://primer.style/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/primer/primer-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/primer/primer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/primer/primer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/primer/primer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/primer/primer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/primer/primer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/primer/primer.svg?style=flat-square&maxAge=5184000)]()
 
-Primer is the design system that powers GitHub. Primer includes 23 
-packages that are grouped into 3 core meta-packages for easy install.
-Each package and meta-package is independently versioned and distributed
-via npm, so it's easy to include all or part of Primer within your own
-project.
+The CSS design system that powers GitHub. Resources, tooling, and design guidelines for building interfaces with 
+GitHub’s design system
 
 
-### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
-  
+### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
+
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 
 A set of small, responsive CSS modules that you can use in every web
 project. Pure is meant to be a starting point for every website or web
@@ -439,15 +394,15 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
-### [Renaissance CSS](https://github.com/CREATORSNEVERDIE/renaissancecss) - [Official Site](https://renaissancecss.com/)
+### [Renaissance CSS](https://github.com/dillonraphael/renaissancecss) - [Official Site](https://renaissancecss.com/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/CREATORSNEVERDIE/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 
 The Freshest CSS Framework. We got the basics down: Mobile First,
 Flexbox Grids, BEM methodology, Beautiful Forms, Useful components,
@@ -528,6 +483,20 @@ devices. Semantic is production ready and partnered with frameworks such
 as React, Angular, Meteor, and Ember, which means you can integrate it
 with any of these frameworks to organize your UI layer alongside your
 application logic.
+
+
+### [Stylizer](https://github.com/amine1107/Stylizer) - [Official Site](https://amine1107.github.io/getstylizer/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
+
+Stylizer is a Open-source CSS Framework that make web design flat, is based on the visual aspect, the framework offers 
+you a clean and easy work
 
 
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)

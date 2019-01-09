@@ -147,15 +147,15 @@ browsers render all elements more consistently and in line with modern
 standards. It precisely targets only the styles that need normalizing.
 
 
-### [Pure](https://github.com/yahoo/pure/) - [Official Site](https://purecss.io/)
+### [Pure](https://github.com/pure-css/pure) - [Official Site](https://purecss.io/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/yahoo/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 
 A set of small, responsive CSS modules that you can use in every web
 project. Pure is meant to be a starting point for every website or web

@@ -139,15 +139,15 @@ The only framework that makes responsive email easy. MJML redefines the
 way you code responsive email. 
 
 
-### [Pine Framework](https://github.com/ThemeMountain/tm-pine) - [Official Site](https://thememountain.github.io/pine/)
+### [Pine Framework](https://github.com/ThemeMountain/pine) - [Official Site](https://docs.thememountain.com/pine/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ThemeMountain/tm-pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
 
 A lightweight, responsive email framework. Pine is a responsive email
 framework made for email developers. With a focus on clean code,

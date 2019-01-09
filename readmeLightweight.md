@@ -81,15 +81,15 @@ A small (less than 2 KiB) CSS framework. A beautiful CSS framework under
 2kb (minified and gzip).
 
 
-### [Blaze CSS](https://github.com/BlazeUI/blaze) - [Official Site](http://blazecss.com/)
+### [Blaze CSS](https://github.com/BlazeSoftware/blaze) - [Official Site](http://blazecss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/BlazeUI/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
 
 Blaze is an open source modular toolkit. It provides great structure for
 building websites quickly with a scalable and maintainable foundation.
@@ -180,15 +180,15 @@ design-systems and prototypes by providing a set of non-blocking,
 atomic, utility classes.
 
 
-### [Furtive](https://github.com/johnotander/furtive) - [Official Site](http://furtive.co/)
+### [Furtive](https://github.com/johno/furtive) - [Official Site](http://furtive.co/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/johnotander/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
 
 A forward-thinking, CSS micro-framework. Furtive is truly mobile-first
 and nearly all dimensions are done in rem. It also has a small

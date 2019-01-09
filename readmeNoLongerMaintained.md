@@ -75,6 +75,22 @@ features globally-sized columns which are truly nestable. It is
 inline-block element based, meaning there are no floats, clears or rows. 
 
 
+### [Fluent Kit](https://github.com/nespero/fluent-kit) - [Official Site](https://nespero.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
+
+Fluent Kit is a Fluent Design inspired UI kit based on the latest
+Bootstrap. A library introducing Fluent Design to the Web, built on top
+of the most popular frameworks to keep the development process as simple
+as possible.
+
+
 ### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

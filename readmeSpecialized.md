@@ -6,6 +6,21 @@
 ## Specialized: Other
 
 
+### [construct.css](https://github.com/t7/construct.css) - [Official Site](https://t7.github.io/construct.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+
+Focus on the content and structure of your HTML. This is just a silly idea, a CSS "library" that styles tags directly — 
+as opposed to using class names as style hooks — to help people become more familiar with how to use semantic HTML.
+
+
 ### [Gutenberg](https://github.com/BafS/Gutenberg) - [Official Site](http://bafs.github.io/Gutenberg/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -36,16 +51,16 @@ apps: Using the Lightning Design System markup and CSS framework results
 in UIs that reflect the Salesforce Lightning look and feel.
 
 
-### [PaperCSS](https://github.com/rhyneav/papercss) - [Official Site](https://www.getpapercss.com/)
+### [PaperCSS](https://github.com/papercss/papercss) - [Official Site](https://www.getpapercss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/rhyneav/papercss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 
 The less formal CSS framework. The goal of PaperCSS is to be as minimal 
 as possible when adding classes. For example, a button should just look
@@ -91,23 +106,6 @@ a menu of predesigned widgets to build your site with, Tailwind might
 not be the right framework for you. But if you want a huge head start
 implementing a custom design with its own identity, Tailwind might be
 just what you're looking for.
-
-
-### [Trashy.css](https://github.com/t7/trashy.css) - [Official Site](https://t7.github.io/trashy.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/t7/trashy.css.svg?style=flat-square&maxAge=5184000)]()
-
-The throwaway CSS library with no class. This is just a silly idea, a 
-CSS "library" that styles tags directly — as opposed to using class 
-names as style hooks — to help people become more familiar with how to 
-use semantic HTML. 
 
 
 ### [Tufte CSS](https://github.com/edwardtufte/tufte-css) - [Official Site](https://edwardtufte.github.io/tufte-css/)
