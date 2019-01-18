@@ -199,18 +199,18 @@ and themeing on projects easily. It uses simple and descriptive class
 names, and yet generic enough to be understood easily.
 
 
-### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
+### [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - [Official Site](https://fomantic-ui.com/)
 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
 
-Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
-for creating quick & responsive projects on the web, powered by Flexbox. 
+Fomantic-UI is a community fork of Semantic-UI. Fomantic was created to continue active development of Semantic-UI and 
+has the intent to be merged back into the master repository once active development can restart. 
 
 
 ### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
@@ -228,6 +228,20 @@ world. Quickly go from prototype to production, building sites or apps
 that work on any kind of device with Foundation. Includes a fully
 customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
+
+
+### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+
+Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
+for creating quick & responsive projects on the web, powered by Flexbox. 
 
 
 ### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
