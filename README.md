@@ -94,6 +94,22 @@ browsers render all elements more consistently and in line with modern
 standards. It precisely targets only the styles that need normalizing.
 
 
+### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
+
+Bulma is a free and open source CSS framework based on Flexbox. It's
+100% Responsive (Designed for mobile first), Modular (Just import what
+you need) and Modern (Built with Flexbox).
+
+
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -112,22 +128,6 @@ offer an experience that is immediately accessible. Material Design Lite
 is now in limited support, with development having moved to the
 [Material Components for the web](MaterialDesign/README.md#material-components-web)
 repository.
-
-
-### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-
-Bulma is a free and open source CSS framework based on Flexbox. It's
-100% Responsive (Designed for mobile first), Modular (Just import what
-you need) and Modern (Built with Flexbox).
 
 
 ### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
