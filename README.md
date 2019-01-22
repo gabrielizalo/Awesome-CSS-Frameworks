@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 
 ## Categories
 
-* [The Big Ones (10)](#the-big-ones)
+* [The Big Ones (11)](#the-big-ones)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
 * [Lightweight (25)](Lightweight/README.md)
 * [General Purpose (43)](GeneralPurpose/README.md)
@@ -195,6 +195,24 @@ necessary. **It's no longer maintained**.
 
 A lightweight and modular front-end framework for developing fast and 
 powerful web interfaces.
+
+
+### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+
+Material Components for the web (MDC-Web) helps developers execute 
+Material Design. Developed by a core team of engineers and UX designers
+at Google, these components enable a reliable development workflow to
+build beautiful and functional web projects. Material Components for the
+web is the successor to
+[Material Design Lite](MaterialDesign/#material-design-lite---official-site).
 
 
 
