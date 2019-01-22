@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## No Longer Maintained
@@ -140,7 +140,7 @@ your websites. It doesn’t rely on any JavaScript frameworks and aims to
 optimize for cross-device use, gracefully degrade in older browsers, and
 offer an experience that is immediately accessible. Material Design Lite
 is now in limited support, with development having moved to the
-[Material Components for the web](readmeMaterialDesign.md#material-components-web---official-site)
+[Material Components for the web](MaterialDesign/README.md#material-components-web---official-site)
 repository.
 
 
@@ -174,4 +174,4 @@ necessary.
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

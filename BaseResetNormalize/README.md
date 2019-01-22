@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## Base / Reset / Normalize
@@ -232,4 +232,4 @@ project.
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

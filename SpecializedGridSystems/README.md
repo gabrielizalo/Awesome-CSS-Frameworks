@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## Specialized: Grid Systems
@@ -274,4 +274,4 @@ an infinite number of layouts, including responsive, adaptive, fluid and fixed-w
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

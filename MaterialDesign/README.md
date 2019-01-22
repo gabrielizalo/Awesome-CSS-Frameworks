@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## Material Design
@@ -99,4 +99,4 @@ minified and Gzipped. 100% CSS only. Absolutely zero Javascript. As of
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

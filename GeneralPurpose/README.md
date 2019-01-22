@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## General Purpose
@@ -691,4 +691,4 @@ building your site or app all the while remaining really easy to use.
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

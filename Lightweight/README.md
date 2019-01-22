@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## Lightweight
@@ -415,4 +415,4 @@ project.
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

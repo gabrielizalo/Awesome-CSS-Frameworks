@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## Specialized: Email
@@ -171,4 +171,4 @@ platforms and smartphones.
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)

@@ -7,14 +7,14 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 ## Categories
 
 * [The Big Ones (10)](#the-big-ones)
-* [Base / Reset / Normalize (14)](readmeBaseResetNormalize.md)
-* [Lightweight (25)](readmeLightweight.md)
-* [General Purpose (43)](readmeGeneralPurpose.md)
-* [Material Design (6)](readmeMaterialDesign.md)
-* [Specialized: Email (11)](readmeSpecializedEmail.md)
-* [Specialized: Grid Systems (18)](readmeSpecializedGridSystems.md)
-* [Specialized: Other (8)](readmeSpecialized.md)
-* [No Longer Maintained (9)](readmeNoLongerMaintained.md)
+* [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
+* [Lightweight (25)](Lightweight/README.md)
+* [General Purpose (43)](GeneralPurpose/README.md)
+* [Material Design (6)](MaterialDesign/README.md)
+* [Specialized: Email (11)](SpecializedEmail/README.md)
+* [Specialized: Grid Systems (18)](SpecializedGridSystems/README.md)
+* [Specialized: Other (8)](Specialized/README.md)
+* [No Longer Maintained (9)](NoLongerMaintained/README.md)
 
 
 
@@ -110,7 +110,7 @@ your websites. It doesn’t rely on any JavaScript frameworks and aims to
 optimize for cross-device use, gracefully degrade in older browsers, and
 offer an experience that is immediately accessible. Material Design Lite
 is now in limited support, with development having moved to the
-[Material Components for the web](readmeMaterialDesign.md#material-components-web)
+[Material Components for the web](MaterialDesign/README.md#material-components-web)
 repository.
 
 

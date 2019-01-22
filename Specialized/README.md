@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](../README.md)
 
 
 ## Specialized: Other
@@ -141,7 +141,7 @@ both _less_ and _sass_ versions so it can easily be modified and merged into
 modern web projects. It provides all the necessary scaffolding for good
 typography without adding any aesthetics. It is built to be modified as
 projects evolve and grow, and plays nice with
-[normalize.css](readmeBaseResetNormalize.md#normalize.css).
+[normalize.css](BaseResetNormalize/README.md#normalize.css).
 
 
 ### [Wireframe CSS](https://github.com/agauniyal/wireframe) - No Official Site
@@ -159,4 +159,4 @@ A minimal CSS framework for wireframing.
 
 
 
-[**Return to Categories**](readme.md)
+[_Return to Categories_](../README.md)
