@@ -395,6 +395,21 @@ no layouts. Just design plain and simple web pages compliant with HTML5
 and they will look OK.
 
 
+### [Tarminal.css](https://github.com/Gioni06/terminal.css) - [Official Site](https://terminalcss.xyz/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
+
+A modern and minimal CSS framework for terminal lovers. Terminal CSS has 
+no overhead and is lightweight (~ 3k gzip). The source is written in 
+pure css to be accessible for everybody and easy to contribute.
+
+
 ### [Wing](https://github.com/kbrsh/wing) - [Official Site](https://kbrsh.github.io/wing)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
