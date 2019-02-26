@@ -24,6 +24,25 @@ provides building blocks for you to handpick and integrate into your
 workflow.
 
 
+### [CSS Remedy](https://github.com/mozdevs/cssremedy) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+
+Start your project with a remedy for the technical debt of CSS. A gift 
+to you from Mozilla Developer Outreach. Browsers these days are consistent 
+in how they render CSS. But there are limitations on how far browsers can 
+improve their User Agent Stylesheet. The defaults for the web have to 
+be consistent with the past. You, however, don't have to stay in the past. 
+You can override the UA styles with more modern ideas of how CSS should 
+work by default. Introducing CSS Remedy.
+
+
 ### [Furtive](https://github.com/johno/furtive) - [Official Site](http://furtive.co/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
