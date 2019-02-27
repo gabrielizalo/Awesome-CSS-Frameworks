@@ -151,6 +151,21 @@ between normalize.css and a full blown framework, meet Cutestrap.
 Cutestrap is only 8kb of CSS.
 
 
+### [Flat Remix CSS library](https://github.com/daniruiz/Flat-Remix-CSS-library) - [Official Site](https://drasite.com/flat-remix-css)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/daniruiz/Flat-Remix-CSS-library.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/daniruiz/Flat-Remix-CSS-library.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/daniruiz/Flat-Remix-CSS-library.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/daniruiz/Flat-Remix-CSS-library.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/daniruiz/Flat-Remix-CSS-library.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/daniruiz/Flat-Remix-CSS-library.svg?style=flat-square&maxAge=5184000)]()
+
+A lightweight CSS library that provides a set of predesigned elements 
+for a fast web development. It follows a modern "flat" design using 
+high contrasts and sharp borders.
+
+
 ### [Fluidity](https://github.com/mrmrs/fluidity) - [Official Site](http://fluidity.sexy/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
