@@ -242,6 +242,19 @@ to maintain all of the features that Skeleton and other similar
 frameworks offer, while working on older browsers as well.
 
 
+### [lotus.css](https://github.com/goatslacker/lotus.css) - [Official Site](http://goatslacker.github.io/lotus.css/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
+
+A minimalist's typography focused and responsive framework for the web.
+
+
 ### [Milligram](https://github.com/milligram/milligram) - [Official Site](http://milligram.io/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
