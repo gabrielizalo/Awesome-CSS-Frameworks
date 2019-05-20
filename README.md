@@ -12,7 +12,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 * [General Purpose (45)](GeneralPurpose/README.md)
 * [Material Design (6)](MaterialDesign/README.md)
 * [Specialized: Email (11)](SpecializedEmail/README.md)
-* [Specialized: Grid Systems (18)](SpecializedGridSystems/README.md)
+* [Specialized: Grid Systems (19)](SpecializedGridSystems/README.md)
 * [Specialized: Other (8)](Specialized/README.md)
 * [No Longer Maintained (9)](NoLongerMaintained/README.md)
 
