@@ -24,15 +24,15 @@ web is the successor to
 [Material Design Lite](#material-design-lite---official-site).
 
 
-### [Material Foundation](https://github.com/eucalyptuss/material-foundation) - [Official Site](http://materialfoundation.mikolajdobrucki.com/)
+### [Material Foundation](https://github.com/mikolajdobrucki/material-foundation) - [Official Site](http://materialfoundation.mikolajdobrucki.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/eucalyptuss/material-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/eucalyptuss/material-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/eucalyptuss/material-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/eucalyptuss/material-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/eucalyptuss/material-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/eucalyptuss/material-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
 
 Material Design version of Foundation for Sites by Zurb
 
