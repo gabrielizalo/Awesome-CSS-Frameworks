@@ -339,6 +339,22 @@ invasive CSS library to get your style started.
 A minimal classless css framework / theme.
 
 
+### [Shine CSS](https://github.com/rmmfree/shine_css) - [Official Site](http://rmmfree.github.io/shine_css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/rmmfree/shine_css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/rmmfree/shine_css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/rmmfree/shine_css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/rmmfree/shine_css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/rmmfree/shine_css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/rmmfree/shine_css.svg?style=flat-square&maxAge=5184000)]()
+
+This is an easy to use CSS framework created to boost your web design 
+productivity. It provides a solid base of elements that can be used for any 
+kind of design and it doesn't contain complex rules or elements, so it's 
+quite easy to customize and to add new personal improvements.
+
+
 ### [Siimple](https://github.com/siimple/siimple) - [Official Site](https://www.siimple.xyz/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
