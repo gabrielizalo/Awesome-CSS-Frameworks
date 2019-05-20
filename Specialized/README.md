@@ -69,16 +69,16 @@ paper-button. Because of this, adding PaperCSS to a markdown generated
 page should instantly paper-ize it.
 
 
-### [Synergy](https://github.com/esr360/Synergy) - No Official Site
+### [Synergy](hhttps://github.com/One-Nexus/Synergy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/esr360/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 
 Synergy is a front-end framework for creating modular, configurable and 
 scalable UI components. Synergy provides powerful APIs to help you 
