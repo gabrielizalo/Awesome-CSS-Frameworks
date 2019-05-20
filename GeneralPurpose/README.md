@@ -389,6 +389,23 @@ Together they form a powerful framework for building responsive websites
 with modular and configurable components.
 
 
+### [Pavilion CSS](https://github.com/getpavilion/pavilion) - [Official Site](http://www.pavilion.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
+
+Pavilion CSS Framework. A solid starting point without the bloat. 
+Pavilion is a simple CSS framework for developers who tend to never use 
+the countless pre-defined UI components other frameworks ship with. If 
+you are looking for a a simple, lightweight and customizable CSS 
+starting point without the bloat, Pavilion might be for you.
+
+
 ### [Petal](https://github.com/shakrmedia/petal/) - [Official Site](https://shakrmedia.github.io/petal/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
