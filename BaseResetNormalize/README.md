@@ -215,15 +215,15 @@ future CSS syntax. It’s easy to use and highly customizable. Bootstrap
 users will find it familiar, yet refreshing.
 
 
-### [Vanilla Framework](https://github.com/vanilla-framework/vanilla-framework) - [Official Site](https://vanillaframework.io/)
+### [Vanilla Framework](https://github.com/canonical-web-and-design/vanilla-framework) - [Official Site](https://vanillaframework.io/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/vanilla-framework/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
 
 Vanilla is a simple extensible CSS framework, written in Sass, by the 
 Ubuntu Web Team. Vanilla Framework is a simple extensible CSS framework, 
