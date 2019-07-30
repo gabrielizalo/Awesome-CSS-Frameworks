@@ -225,15 +225,15 @@ point to get your project up and running.
 Simplicity done right. The CSS framework built for any kind of task.
 
 
-### [Layers CSS](https://github.com/Eiskis/layers-css) - [Official Site](http://labs.jerryjappinen.com/layers/)
+### [Layers CSS](https://github.com/jerryjappinen/layers-css) - [Official Site](http://labs.jerryjappinen.com/layers/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/Eiskis/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/Eiskis/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Eiskis/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/Eiskis/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/Eiskis/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/Eiskis/layers-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
 
 A lightweight, unobtrusive and style-agnostic, CSS framework aimed 
 for practical use cases. Comes with a small footprint and zero bullshit.
