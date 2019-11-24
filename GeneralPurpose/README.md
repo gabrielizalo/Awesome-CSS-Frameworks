@@ -544,8 +544,22 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
+### [Spectrum CSS](https://github.com/adobe/spectrum-css) - [Official Site](https://opensource.adobe.com/spectrum-css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
+
+Spectrum CSS provides a standard CSS implementation of the Spectrum 
+design language for internal and 3rd party use on Adobe's platforms.
+
+
 ### [Stylizer](https://github.com/amine1107/Stylizer) - [Official Site](https://amine1107.github.io/getstylizer/)
-  
+
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
