@@ -183,6 +183,27 @@ styles for native HTML elements. Components and utilities are provided
 as optional add-ons, Concise UI and Concise Utils, respectively.
 
 
+### [Denali CSS](https://github.com/denali-design/denali-css) - [Official Site](https://denali-design.github.io/denali-css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
+
+The Denali System Language was created by the Platforms and Technology 
+Design team at Verizon Media as a scalable method for designing and 
+developing visually consistent and functional internal products. 
+Denali’s CSS framework allows developers to implement the Denali System 
+Language in their projects. The framework is lightweight and flexible. 
+It supports theming through custom variables which means the visual 
+appearance of Denali’s components can be easily adapted to fit the 
+visual style of any brand. Additionally, components are framework 
+independent allowing you to take what you need and leave the rest.
+
+
 ### [FICTOAN](https://github.com/sujan-s/fictoan) - [Official Site](https://sujan-s.github.io/fictoan/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
