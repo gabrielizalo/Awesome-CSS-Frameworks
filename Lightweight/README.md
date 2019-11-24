@@ -483,6 +483,22 @@ no overhead and is lightweight (~ 3k gzip). The source is written in
 pure css to be accessible for everybody and easy to contribute.
 
 
+### [Water.css](https://github.com/kognise/water.css) - [Official Site](https://watercss.netlify.com/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+
+Water.css is a just-add-css collection of styles to make simple websites 
+like this just a little bit nicer. Now you can write your simple static 
+site with nice semantic html, and Water.css will manage the styling for 
+you.
+
+
 ### [Wing](https://github.com/kbrsh/wing) - [Official Site](https://kbrsh.github.io/wing)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
