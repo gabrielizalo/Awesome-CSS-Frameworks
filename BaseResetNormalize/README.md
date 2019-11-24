@@ -250,5 +250,20 @@ with Wing, as it's designed to be a boilerplate stylesheet for any
 project.
 
 
+### [Wipe.css](https://github.com/danilowoz/wipe.css) -  - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+
+Dear Dev, stop suffering and resetting styles for every new project. 
+Wipe.css is a library to reset default styles with some opinionated and 
+great changes, that you'll love or not.
+
+
 
 [_Return to Categories_](../README.md)
