@@ -6,6 +6,18 @@
 ## General Purpose
 
 
+### [98.css](https://github.com/jdan/98.css) - [Official Site](https://jdan.github.io/98.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jdan/98.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jdan/98.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jdan/98.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jdan/98.css.svg?style=flat-square&maxAge=5184000)]()
+
+A design system for building faithful recreations of old UIs. 98.css is a CSS file that takes semantic HTML and makes 
+it look pretty. It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
+
+
 ### [ALUX](https://github.com/afmarchetti/alux) - [Official Site](http://afmarchetti.github.io/alux/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
