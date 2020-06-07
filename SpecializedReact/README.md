@@ -16,6 +16,17 @@
 An enterprise-class UI design language and React UI library.
 
 
+### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to 
+build your React applications.
+
+
 ### [Material-UI](https://github.com/mui-org/material-ui) - [Official Site](https://material-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
