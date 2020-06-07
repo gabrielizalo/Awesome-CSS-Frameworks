@@ -614,18 +614,5 @@ semantic HTML and makes it look pretty. It does not ship with any JavaScript, so
 framework of choice.
 
 
-### [XP.css](https://github.com/botoxparty/XP.css) - [Official Site](https://botoxparty.github.io/XP.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/botoxparty/XP.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/botoxparty/XP.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/botoxparty/XP.css.svg?style=flat-square&maxAge=5184000)]()
-
-A design system for building faithful recreations of old UIs. XP.css is an extension of 98.css. A CSS file that takes 
-semantic HTML and makes it look pretty. It does not ship with any JavaScript, so it is compatible with your frontend 
-framework of choice.
-
-
 
 [_Return to Categories_](../README.md)
