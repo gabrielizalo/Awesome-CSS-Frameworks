@@ -160,6 +160,17 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
+### [ress](https://github.com/filipelinhares/ress) - [Official Site](https://ress-css.surge.sh/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/filipelinhares/ress.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/filipelinhares/ress.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/filipelinhares/ress.svg?style=flat-square&maxAge=5184000)]()
+
+A modern CSS reset.
+
+
 ### [sanitize.css](https://github.com/csstools/sanitize.css) - [Official Site](https://csstools.github.io/sanitize.css/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
