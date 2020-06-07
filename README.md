@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (15)](#the-big-ones)
+* [The Big Ones (18)](#the-big-ones)
 * [Base / Reset / Normalize (17)](BaseResetNormalize/README.md)
 * [Lightweight (29)](Lightweight/README.md)
 * [General Purpose (45)](GeneralPurpose/README.md)
@@ -39,6 +39,26 @@ source toolkit for developing with HTML, CSS, and JS. Quickly prototype
 your ideas or build your entire app with our Sass variables and mixins,
 responsive grid system, extensive prebuilt components, and powerful
 plugins built on jQuery.
+
+
+### [Ant Design](https://github.com/ant-design/ant-design/) - [Official Site](https://ant.design/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+
+An enterprise-class UI design language and React UI library.
+
+
+### [Material-UI](https://github.com/mui-org/material-ui) - [Official Site](https://material-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
+
+React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
@@ -186,6 +206,16 @@ a UI framework. Quick to start with zero compiling or installing
 necessary. **It's no longer maintained**.
 
 
+### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap components built with React.
+
+
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -238,6 +268,16 @@ web is the successor to
 
 The only framework that makes responsive email easy. MJML redefines the
 way you code responsive email. 
+
+
+Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+
+The official Semantic-UI-React integration.
 
 
 ### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
