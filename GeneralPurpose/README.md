@@ -566,5 +566,16 @@ just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
 
 
+### [Water.css](https://github.com/kognise/water.css) - [Official Site](https://watercss.kognise.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+
+A drop-in collection of CSS styles to make simple websites just a little nicer.
+
+
 
 [_Return to Categories_](../README.md)
