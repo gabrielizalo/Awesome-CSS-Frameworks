@@ -9,7 +9,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 * [The Big Ones (15)](#the-big-ones)
 * [Base / Reset / Normalize (16)](BaseResetNormalize/README.md)
 * [Lightweight (29)](Lightweight/README.md)
-* [General Purpose (40)](GeneralPurpose/README.md)
+* [General Purpose (41)](GeneralPurpose/README.md)
 * [Material Design (6)](MaterialDesign/README.md)
 * [Specialized: Email (11)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (14)](SpecializedGridSystems/README.md)
@@ -201,6 +201,7 @@ powerful web interfaces.
 ### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![SASS](https://img.shields.io/badge/SASS%20and%20LESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
@@ -212,6 +213,7 @@ NES.css is a NES-style(8bit-like) CSS Framework.
 ### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
@@ -240,6 +242,7 @@ way you code responsive email.
 ### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()

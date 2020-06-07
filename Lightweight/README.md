@@ -326,6 +326,7 @@ built in SASS/SCSS and provides a clean starting point for your web design.
 ### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
