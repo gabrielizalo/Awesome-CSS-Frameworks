@@ -8,7 +8,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 
 * [The Big Ones (15)](#the-big-ones)
 * [Base / Reset / Normalize (16)](BaseResetNormalize/README.md)
-* [Lightweight (28)](Lightweight/README.md)
+* [Lightweight (29)](Lightweight/README.md)
 * [General Purpose (40)](GeneralPurpose/README.md)
 * [Material Design (6)](MaterialDesign/README.md)
 * [Specialized: Email (11)](SpecializedEmail/README.md)
