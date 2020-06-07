@@ -10,7 +10,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 * [Base / Reset / Normalize (17)](BaseResetNormalize/README.md)
 * [Lightweight (29)](Lightweight/README.md)
 * [General Purpose (46)](GeneralPurpose/README.md)
-* [Material Design (6)](MaterialDesign/README.md)
+* [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (11)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (13)](SpecializedGridSystems/README.md)
 * [Specialized: Other (10)](Specialized/README.md)
