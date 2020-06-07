@@ -24,8 +24,9 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 Frameworks with more than ~10K GitHub Stars.
 
 
-### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com) [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=for-the-badge&maxAge=5184000)]()
+### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
@@ -41,8 +42,9 @@ responsive grid system, extensive prebuilt components, and powerful
 plugins built on jQuery.
 
 
-### [Ant Design](https://github.com/ant-design/ant-design/) - [Official Site](https://ant.design/) [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=for-the-badge&logo=react&maxAge=5184000)]()
+### [Ant Design](https://github.com/ant-design/ant-design/) - [Official Site](https://ant.design/)
 
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
