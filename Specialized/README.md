@@ -61,7 +61,7 @@ paper-button. Because of this, adding PaperCSS to a markdown generated
 page should instantly paper-ize it.
 
 
-### [Synergy](hhttps://github.com/One-Nexus/Synergy) - No Official Site
+### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
