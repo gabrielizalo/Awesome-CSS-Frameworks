@@ -1,6 +1,6 @@
-# Gabo's Awesome CSS Frameworks/UI Libraries
+# Gabo's Awesome CSS Frameworks and UI Libraries
 
-An extensive list of Awesome CSS Frameworks/UI Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
+An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
 
 
