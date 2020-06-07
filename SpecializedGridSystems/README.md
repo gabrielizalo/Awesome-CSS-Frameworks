@@ -35,17 +35,6 @@ CSS (SCSS) grid, base on CSS grid layout with @supports fallback to
 flexbox (partial support).
 
 
-### [Dead Simple Grid](https://github.com/mourner/dead-simple-grid) - [Official Site](http://mourner.github.io/dead-simple-grid/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/mourner/dead-simple-grid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/mourner/dead-simple-grid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/mourner/dead-simple-grid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/mourner/dead-simple-grid.svg?style=flat-square&maxAge=5184000)]() 
- 
-Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
-
-
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -120,20 +109,6 @@ for the web. A responsive, flexible and dynamic grid system based off
 inline-block columns. 
 
 
-### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/sehmaschine/mueller.svg?style=flat-square&maxAge=5184000)]() 
- 
-MUELLER is a modular grid system for responsive/adaptive and 
-non-responsive layouts, based on **Compass**. You have full 
-control over column width, gutter width, baseline grid and 
-media–queries. 
- 
- 
 ### [Neat](https://github.com/thoughtbot/neat) - [Official Site](https://neat.bourbon.io/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -145,19 +120,6 @@ media–queries.
 A lightweight and flexible Sass grid made to with [Bourbon](https://www.bourbon.io/)
  
  
-### [Pills](https://github.com/rohitkrai03/pills) - [Official Site](http://arkpod.in/pills/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/rohitkrai03/pills.svg?style=flat-square&maxAge=5184000)]()
-
-A simple, responsive, and tiny CSS grid for humans. 4kb, Mobile First 
-Grid System, HTML5 Boilerplate Head, Inspired by Simplicity and Control,
-IE8+, Firefox, Chrome, Safari, Opera, Free to use and Abuse.
-
-
 ### [RAGrid](https://github.com/argyleink/ragrid) - [Official Site](https://argyleink.github.io/ragrid/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -180,17 +142,6 @@ Works like auto-layout by aligning and distributing. Capable of
 
 Strawberry is a new flexbox based CSS micro-framework. A set of common 
 flexbox's utilities focused on making your life easier and faster with nested flexboxes.
-
- 
-### [Toast](https://github.com/daneden/toast) - [Official Site](http://daneden.github.io/Toast/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/daneden/toast.svg?style=flat-square&maxAge=5184000)]()
-
-A highly-customizable, responsive (S)CSS grid.
 
  
 ### [unlimitedGrid](https://github.com/PixelT/unlimitedGrid) - [Official Site](http://pixelt.github.io/unlimitedGrid/) 
@@ -233,19 +184,6 @@ columns, it's entirely based on percentages.
 
 An easy to use flexbox grid system. Light weight, Responsive and 
 Customisable.
-
-
-### [Zen Grids](https://github.com/JohnAlbin/zen-grids) - [Official Site](http://zengrids.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/JohnAlbin/zen-grids.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/JohnAlbin/zen-grids.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/JohnAlbin/zen-grids.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/JohnAlbin/zen-grids.svg?style=flat-square&maxAge=5184000)]()
-
-Zen Grids is an intuitive, flexible grid system that leverages the natural source order of your content to make it 
-easier to create fluid responsive designs. With an easy-to-use Sass mixin set, the Zen Grids system can be applied to 
-an infinite number of layouts, including responsive, adaptive, fluid and fixed-width layouts.
 
 
 

@@ -22,18 +22,6 @@ The library is the best choice for blog, your homepage or site about
 project.
 
 
-### [Base](https://github.com/agency/base) - [Official Site](http://base.gs/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/agency/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/agency/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/agency/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/agency/base.svg?style=flat-square&maxAge=5184000)]()
-
-Base is a semantic, lightweight and extensible framework to power the
-next generation of responsive websites.
-
-
 ### [BassCSS](https://github.com/basscss/basscss) - [Official Site](http://basscss.com)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -57,18 +45,6 @@ Beauter provides a minimal range of beautiful elements and styles in
 pure vanilla CSS which makes it easier to start with a cleaner and 
 faster development. It's Mobile First, responsive across various devices 
 with a very small footprint, 6kb gzipped!, which makes it faster. 
-
-
-### [Bijou](https://github.com/andhart/bijou) - [Official Site](http://andhart.github.io/bijou/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/andhart/bijou.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/andhart/bijou.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/andhart/bijou.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/andhart/bijou.svg?style=flat-square&maxAge=5184000)]()
-
-A small (less than 2 KiB) CSS framework. A beautiful CSS framework under
-2kb (minified and gzip).
 
 
 ### [Blaze CSS](https://github.com/BlazeSoftware/blaze) - [Official Site](http://blazecss.com/)
@@ -146,18 +122,6 @@ for a fast web development. It follows a modern "flat" design using
 high contrasts and sharp borders.
 
 
-### [Fluidity](https://github.com/mrmrs/fluidity) - [Official Site](http://fluidity.sexy/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/mrmrs/fluidity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/mrmrs/fluidity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/mrmrs/fluidity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/mrmrs/fluidity.svg?style=flat-square&maxAge=5184000)]()
-
-HTML is **almost** 100% responsive by default. These 247 bytes of css
-fix the 'almost' part. 
-
-
 ### [fractures](https://github.com/fractures/fractures) - [Official Site](https://fractures.space/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -222,17 +186,6 @@ minified). This is the result of me playing css "code golf" with
 [Skeleton](#skeleton---official-site). As such, this framework strives
 to maintain all of the features that Skeleton and other similar
 frameworks offer, while working on older browsers as well.
-
-
-### [lotus.css](https://github.com/goatslacker/lotus.css) - [Official Site](http://goatslacker.github.io/lotus.css/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
-
-A minimalist's typography focused and responsive framework for the web.
 
 
 ### [Milligram](https://github.com/milligram/milligram) - [Official Site](http://milligram.io/)
@@ -355,23 +308,6 @@ quite easy to customize and to add new personal improvements.
 A flat, minimal and different CSS framework. siimple is a light, responsive 
 and open source framework for design flat and clean websites. It has been 
 built in SASS/SCSS and provides a clean starting point for your web design.
-
-
-### [Spark](https://github.com/twistedpixel/spark) - [Official Site](http://www.codewithspark.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/twistedpixel/spark.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/twistedpixel/spark.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/twistedpixel/spark.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/twistedpixel/spark.svg?style=flat-square&maxAge=5184000)]()
-
-Spark is a lightweight web design framework based on the mobile-first
-approach to responsive web design. Using media queries powering a
-responsive grid, Spark makes it easy to build professional looking pages
-in minutes. It's designed to be simple to use with intuitive class names
-and easy to customize with a nonintrusive approach: with the exception
-of some basic styling and resets, you only add Spark classes to the
-elements you actually need styled.
 
 
 ### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)

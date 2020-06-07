@@ -233,39 +233,6 @@ Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
 for creating quick & responsive projects on the web, powered by Flexbox. 
 
 
-### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-
-Create responsive web interfaces quick and efficiently. Ink is an 
-interface kit for quick development of web interfaces, simple to use and
-expand on. It uses a combination of HTML, CSS and JavaScript to offer
-modern solutions for building layouts, display common interface elements
-and implement interactive features that are content-centric and user
-friendly for both your audience and your designers & developers.
-
-
-### [InvisCss](https://github.com/cmroanirgo/inviscss) - [Official Site](https://cmroanirgo.github.io/inviscss/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
-
-InvisCSS is designed to bring you the core of a good Css library without
-the cruft. That is, it's not filled with styles that are only used by
-developers and designers for their own websites. The default styling is
-minimal so that it's easier to extend and modify, by you. Unlike
-bootstrap and most CSS templates, which requires a developer to
-excessively 'opt-in' by specifying classes all over the place, InvisCSS
-uses a few simple 'opt-in' classes at the base of an HTML branch. 
-
-
 ### [Kouto Swiss](https://github.com/leny/kouto-swiss) - [Official Site](http://kouto-swiss.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -293,21 +260,6 @@ serious cutting edge, future-proof web development. Kube is a wireframe,
 a skeleton for your project, in a way. It doesn’t impose design styles
 or code decisions; it does require fluency and proficiency with latest
 HTML and CSS technologies, though.
-
-
-### [Look](https://github.com/box2unlock/look) - [Official Site](https://rawgit.com/box2unlock/look/master/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-
-Minimalistic CSS framework. A set of CSS rules & basic user-interface
-components. Built primarily for my site
-[box2unlock.com](https://box2unlock.com/) but released publicly as it
-might be useful as a foundation for other projects out there. Plain and
-simple.
 
 
 ### [Metro 4](https://github.com/olton/Metro-UI-CSS) - [Official Site](https://metroui.org.ua/)
@@ -358,21 +310,6 @@ One-Nexus is a front-end boilerplate and UI toolkit built using the
 Synergy framework, combined with a custom grid system; Kayzen-GS.
 Together they form a powerful framework for building responsive websites
 with modular and configurable components.
-
-
-### [Pavilion CSS](https://github.com/getpavilion/pavilion) - [Official Site](http://www.pavilion.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
-
-Pavilion CSS Framework. A solid starting point without the bloat. 
-Pavilion is a simple CSS framework for developers who tend to never use 
-the countless pre-defined UI components other frameworks ship with. If 
-you are looking for a a simple, lightweight and customizable CSS 
-starting point without the bloat, Pavilion might be for you.
 
 
 ### [Petal](https://github.com/shakrmedia/petal/) - [Official Site](https://shakrmedia.github.io/petal/)
@@ -452,19 +389,6 @@ responsive websites.
 A simple responsive CSS boilerplate.
 
 
-### [Schema](https://github.com/danmalarkey/schema) - [Official Site](http://danmalarkey.github.io/schema/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
-
-A modular, front end framework to easily and quickly help you jumpstart
-your process in building complex interfaces for the web right out the
-box. Light. Responsive. Ready.
-
-
 ### [Scooter](https://github.com/dropbox/scooter) - [Official Site](http://dropbox.github.io/scooter/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -532,23 +456,6 @@ Functional css for humans. Create fast loading, highly readable, and
 designing.
 
 
-### [Taffy](https://github.com/lodog23/Taffy-CSS-Framework) - [Official Site](http://www.taffy.logancarlile23.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
-
-Open source, lightweight, modern CSS framework built with Flexbox. A 
-fresh new take on a Flexbox CSS framework built with only the
-essentials, so you can get started with web design! A framework unlike
-Bootstrap or Foundation, that includes WAY too many components you will
-never use and will bloat up and slow down your website. No, this
-framework is built to be lightweight, easy to use, and only built with
-the essentials you will need!
-
-
 ### [TentCSS](https://github.com/sitetent/tentcss) - [Official Site](https://css.sitetent.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -577,23 +484,6 @@ inspiration from outdoor survival, Tent CSS is unglamorously simple and
 robust. The framework is designed to be used as a foundation for
 building websites. We'll leave application and kitchen sink development
 to other frameworks.
-
-
-### [Topcoat](https://github.com/topcoat/topcoat) - [Official Site](http://topcoat.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
-
-CSS for clean and fast web apps. Performance is our #1 goal. Every 
-component we design is benchmarked for performance. We have the building
-blocks to get you up and running fast. Our growing set of components
-were born from CSS. We love our theme, but we don’t want to hit your
-brand over the head with it. Just add colors and voila! We are basing
-our architecture on BEM make your apps faster, less contextual and
-easier to manage.
 
 
 ### [TurretCSS](https://github.com/turretcss/turretcss) - [Official Site](http://turretcss.com/)
@@ -660,18 +550,6 @@ just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 [![GitHub issues](https://img.shields.io/github/issues/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
 
 W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
-
-
-### [Webplate](https://github.com/chrishumboldt/Webplate) - [Official Site](http://getwebplate.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
-
-Webplate is an awesome front-end framework that lets you stay focused on
-building your site or app all the while remaining really easy to use. 
 
 
 
