@@ -11,9 +11,7 @@
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/InterNations/antwort.svg?style=flat-square&maxAge=5184000)]()
 
 Beautiful responsive email templates with code as beautiful as email
@@ -28,9 +26,7 @@ desktop that automatically become rows on mobile.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/Slicejack/bojler.svg?style=flat-square&maxAge=5184000)]()
 
 Bojler is an email framework for developing responsive and lightweight 
@@ -43,9 +39,7 @@ popular email clients.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/TedGoas/Cerberus.svg?style=flat-square&maxAge=5184000)]()
 
 A few simple, but solid patterns for responsive HTML emails. Even in
@@ -57,9 +51,7 @@ Outlook and Gmail.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
 
 The email boilerplate for sending out nicely formatted messages. 
@@ -70,9 +62,7 @@ The email boilerplate for sending out nicely formatted messages.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
 
 Build responsive email templates confidently. The HTML email framework
@@ -87,9 +77,7 @@ clients and has been thoroughly tested using Litmus.com.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-emails.svg?style=flat-square&maxAge=5184000)]()
 
 Formerly Ink. Quickly create responsive HTML emails that work. Even on
@@ -101,9 +89,7 @@ Outlook.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
 
 Quickly craft clean, responsive emails. HEML is an open source markup
@@ -117,9 +103,7 @@ building emails as easy as building websites.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
 
 Responsive HTML Email Templates.  
@@ -130,9 +114,7 @@ Responsive HTML Email Templates.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 
 The only framework that makes responsive email easy. MJML redefines the
@@ -144,9 +126,7 @@ way you code responsive email.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
 
 A lightweight, responsive email framework. Pine is a responsive email
@@ -161,9 +141,7 @@ has solid email client compatibility.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
 
 Responsive HTML email template designed to work on all major email 

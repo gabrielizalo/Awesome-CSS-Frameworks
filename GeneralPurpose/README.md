@@ -11,9 +11,7 @@
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
 
 ALUX the Fast HTML5 Framework for Awesome Light User Experience. ALUX is a Lightweight Framework (25K) for Creating 
@@ -27,9 +25,7 @@ Easy, Light, Fast, Flexible.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/getbase/base.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/getbase/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/getbase/base.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/getbase/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/getbase/base.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/getbase/base.svg?style=flat-square&maxAge=5184000)]()
 
 A Rock Solid, Responsive CSS Framework built to work on all devices big 
@@ -42,9 +38,7 @@ styles and focus more time on creating beautiful website applications.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
 
 A Flexible Atomic-Focused CSS Framework. It's Atomic-Focus, carefully 
@@ -57,9 +51,7 @@ and a clean responsive grid.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/twbs/bootstrap.svg?style=flat-square&maxAge=5184000)]()
 
 The most popular HTML, CSS, and JavaScript framework for developing
@@ -75,9 +67,7 @@ plugins built on jQuery.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/pinecreativelabs/Brutalist-Framework.svg?style=flat-square&maxAge=5184000)]()
 
 An open source framework for the brutalist web design trend.
@@ -88,9 +78,7 @@ An open source framework for the brutalist web design trend.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/jgthms/bulma.svg?style=flat-square&maxAge=5184000)]()
 
 Bulma is a free and open source CSS framework based on Flexbox. It's
@@ -103,9 +91,7 @@ you need) and Modern (Built with Flexbox).
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
 
 BuddyCSS is a CSS/JS framework. BuddyCSS is a simple CSS framework to 
@@ -117,9 +103,7 @@ build awesome websites easily.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/carbon-design-system/carbon.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/carbon-design-system/carbon.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/carbon-design-system/carbon.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/carbon-design-system/carbon.svg?style=flat-square&maxAge=5184000)]()
 
 The component library behind the Carbon Design System of IBM.
@@ -130,9 +114,7 @@ The component library behind the Carbon Design System of IBM.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
 
 Centurion is a web-based framework for rapid prototyping and building 
@@ -151,9 +133,7 @@ a new project easily without the need to override every little piece.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
 
 UX guidelines, HTML/CSS framework, and Angular components working
@@ -166,9 +146,7 @@ built for developers. From prototype to product, faster and better.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
 
 Give up the bloat. Stop tripping over your classes. Be Concise. Concise 
@@ -188,9 +166,7 @@ as optional add-ons, Concise UI and Concise Utils, respectively.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
 
 The Denali System Language was created by the Platforms and Technology 
@@ -209,9 +185,7 @@ independent allowing you to take what you need and leave the rest.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
 
 FICTOAN is an intuitive, minimalist, responsive HTML+CSS boilerplate. It 
@@ -225,9 +199,7 @@ names, and yet generic enough to be understood easily.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/fomantic/Fomantic-UI.svg?style=flat-square&maxAge=5184000)]()
 
 Fomantic-UI is a community fork of Semantic-UI. Fomantic was created to continue active development of Semantic-UI and 
@@ -239,9 +211,7 @@ has the intent to be merged back into the master repository once active developm
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 
 Foundation is the most advanced responsive front-end framework in the
@@ -256,9 +226,7 @@ used JavaScript plugins, and full accessibility support.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
 
 Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
@@ -270,9 +238,7 @@ for creating quick & responsive projects on the web, powered by Flexbox.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
 
 Create responsive web interfaces quick and efficiently. Ink is an 
@@ -288,9 +254,7 @@ friendly for both your audience and your designers & developers.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/cmroanirgo/inviscss.svg?style=flat-square&maxAge=5184000)]()
 
 InvisCSS is designed to bring you the core of a good Css library without
@@ -307,9 +271,7 @@ uses a few simple 'opt-in' classes at the base of an HTML branch.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
 
 A complete CSS framework for Stylus.
@@ -320,9 +282,7 @@ A complete CSS framework for Stylus.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
 
 Kube ("kyu:b") is a web framework for professional developers and 
@@ -340,9 +300,7 @@ HTML and CSS technologies, though.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
 
 Minimalistic CSS framework. A set of CSS rules & basic user-interface
@@ -357,9 +315,7 @@ simple.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/olton/Metro-UI-CSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/olton/Metro-UI-CSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/olton/Metro-UI-CSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/olton/Metro-UI-CSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/olton/Metro-UI-CSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/olton/Metro-UI-CSS.svg?style=flat-square&maxAge=5184000)]()
 
 Metro 4 is an open source toolkit for developing with HTML, CSS, and JS. 
@@ -372,9 +328,7 @@ system, extensive prebuilt components, and powerful plugins built on jQuery.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
 
 A clean CSS framework made to be dark, responsive and easy to build 
@@ -386,9 +340,7 @@ with.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 
 NES.css is a NES-style(8bit-like) CSS Framework.
@@ -399,9 +351,7 @@ NES.css is a NES-style(8bit-like) CSS Framework.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
 
 One-Nexus is a front-end boilerplate and UI toolkit built using the 
@@ -415,9 +365,7 @@ with modular and configurable components.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/getpavilion/pavilion.svg?style=flat-square&maxAge=5184000)]()
 
 Pavilion CSS Framework. A solid starting point without the bloat. 
@@ -432,9 +380,7 @@ starting point without the bloat, Pavilion might be for you.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
 
 A modern, light CSS UI framework developed at Shakr. Petal aims to 
@@ -448,9 +394,7 @@ scratch.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/primer/css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/primer/css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/primer/css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/primer/css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/primer/css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/primer/css.svg?style=flat-square&maxAge=5184000)]()
 
 The CSS design system that powers GitHub. Resources, tooling, and design guidelines for building interfaces with 
@@ -463,9 +407,7 @@ GitHub’s design system
 [![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 
 A set of small, responsive CSS modules that you can use in every web
@@ -479,9 +421,7 @@ making it look cookie-cutter.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
 
 The Freshest CSS Framework. We got the basics down: Mobile First,
@@ -494,9 +434,7 @@ Autoprefixed...
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
 
 A powerful, accessible, developer friendly framework for building
@@ -508,9 +446,7 @@ responsive websites.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/im4aLL/roolith-css.svg?style=flat-square&maxAge=5184000)]()
 
 A simple responsive CSS boilerplate.
@@ -521,9 +457,7 @@ A simple responsive CSS boilerplate.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/danmalarkey/schema.svg?style=flat-square&maxAge=5184000)]()
 
 A modular, front end framework to easily and quickly help you jumpstart
@@ -536,9 +470,7 @@ box. Light. Responsive. Ready.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
 
 An SCSS framework & UI library for Dropbox Web.  
@@ -549,9 +481,7 @@ An SCSS framework & UI library for Dropbox Web.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 
 Semantic is a UI component framework based around useful principles from
@@ -570,9 +500,7 @@ application logic.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/adobe/spectrum-css.svg?style=flat-square&maxAge=5184000)]()
 
 Spectrum CSS provides a standard CSS implementation of the Spectrum 
@@ -584,9 +512,7 @@ design language for internal and 3rd party use on Adobe's platforms.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
 
 Stylizer is a Open-source CSS Framework that make web design flat, is based on the visual aspect, the framework offers 
@@ -598,9 +524,7 @@ you a clean and easy work
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
 
 Functional css for humans. Create fast loading, highly readable, and 
@@ -613,9 +537,7 @@ designing.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/lodog23/Taffy-CSS-Framework.svg?style=flat-square&maxAge=5184000)]()
 
 Open source, lightweight, modern CSS framework built with Flexbox. A 
@@ -632,9 +554,7 @@ the essentials you will need!
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
 
 A CSS survival kit. Includes only the essentials to make camp. Pulling 
@@ -649,9 +569,7 @@ to other frameworks.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/fortrabbit/teutonic-css.svg?style=flat-square&maxAge=5184000)]()
 
 A CSS survival kit. Includes only the essentials to make camp. Pulling 
@@ -666,9 +584,7 @@ to other frameworks.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/topcoat/topcoat.svg?style=flat-square&maxAge=5184000)]()
 
 CSS for clean and fast web apps. Performance is our #1 goal. Every 
@@ -685,9 +601,7 @@ easier to manage.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
 
 Turret is a styles and browser behaviour normalisation framework for 
@@ -699,9 +613,7 @@ rapid development of responsive and accessible websites.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
 
 A lightweight and modular front-end framework for developing fast and 
@@ -713,9 +625,7 @@ powerful web interfaces.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
 
 A colorful css framework made by a human not an Ai. Unnamed is a simple
@@ -729,9 +639,7 @@ prototype.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/doximity/vital.svg?style=flat-square&maxAge=5184000)]()
 
 A minimally invasive CSS framework for modern web applications. Vital is
@@ -748,9 +656,7 @@ just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
 
 W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
@@ -761,9 +667,7 @@ W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/chrishumboldt/Webplate.svg?style=flat-square&maxAge=5184000)]()
 
 Webplate is an awesome front-end framework that lets you stay focused on

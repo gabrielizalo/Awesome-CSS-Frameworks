@@ -12,9 +12,7 @@
 [![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
 
 Focus on the content and structure of your HTML. This is just a silly idea, a CSS "library" that styles tags directly — 
@@ -27,9 +25,7 @@ as opposed to using class names as style hooks — to help people become more fa
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 
 Modern framework to print web pages correctly.
@@ -41,9 +37,7 @@ Modern framework to print web pages correctly.
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 
 Salesforce Lightning Design System. Tailored for building Salesforce
@@ -57,9 +51,7 @@ in UIs that reflect the Salesforce Lightning look and feel.
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 
 The less formal CSS framework. The goal of PaperCSS is to be as minimal 
@@ -75,9 +67,7 @@ page should instantly paper-ize it.
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 
 Synergy is a front-end framework for creating modular, configurable and 
@@ -91,9 +81,7 @@ create configurable modules in Sass, JavaScript and/or React.
 [![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 
 A Utility-First CSS Framework for Rapid UI Development. Tailwind is 
@@ -114,9 +102,7 @@ just what you're looking for.
 [![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 
 Style your webpage like Edward Tufte’s handouts. Edward Tufte uses a 
@@ -131,9 +117,7 @@ tufte-css brings that style to HTML documents.
 [![SASS and LESS and Rework](https://img.shields.io/badge/SASS%20and%20LESS%20and%20Rework-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 
 Typebase.css is a minimal, customizable typography stylesheet. It has
@@ -150,9 +134,7 @@ projects evolve and grow, and plays nice with
 [![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 
 A minimal CSS framework for wireframing.

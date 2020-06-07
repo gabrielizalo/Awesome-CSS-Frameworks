@@ -14,9 +14,7 @@ longer maintained.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/joshuaclayton/blueprint-css.svg?style=flat-square&maxAge=5184000)]()
 
 Blueprint is a CSS framework, which aims to cut down on your development
@@ -30,9 +28,7 @@ a stylesheet for printing.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/Compass/compass.svg?style=flat-square&maxAge=5184000)]()
 
 Compass is no longer actively maintained. Compass is a Stylesheet 
@@ -45,9 +41,7 @@ implement and easier to maintain.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub watchers](https://img.shields.io/github/watchers/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub stars](https://img.shields.io/github/stars/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub forks](https://img.shields.io/github/forks/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub issues](https://img.shields.io/github/issues/dazzyweb/cute-grids.svg?style=flat-square&maxAge=5184000)]() 
  
 Responsive Grid System. No Bull, Just Cute. Clean Base for your
@@ -63,9 +57,7 @@ lazy.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub tag](https://img.shields.io/github/tag/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub watchers](https://img.shields.io/github/watchers/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub stars](https://img.shields.io/github/stars/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub forks](https://img.shields.io/github/forks/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
 [![GitHub issues](https://img.shields.io/github/issues/lmc-eu/emerald.svg?style=flat-square&maxAge=5184000)]() 
  
 Emerald is an opinionated responsive grid system written in LESS.
@@ -80,9 +72,7 @@ inline-block element based, meaning there are no floats, clears or rows.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/nespero/fluent-kit.svg?style=flat-square&maxAge=5184000)]()
 
 Fluent Kit is a Fluent Design inspired UI kit based on the latest
@@ -96,9 +86,7 @@ as possible.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
 
 Say hello to responsive design made easy. GroundworkCSS is a fully
@@ -112,9 +100,7 @@ that work on virtually any device.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/mailchimp/Email-Blueprints.svg?style=flat-square&maxAge=5184000)]()
 
 HTML Email Layouts by MailChimp. Email Blueprints is a collection of
@@ -130,9 +116,7 @@ MailChimp.
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 
 Material Design Lite lets you add a Material Design look and feel to 
@@ -149,9 +133,7 @@ repository.
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/powertoweb/powertocss.svg?style=flat-square&maxAge=5184000)]()
 
 A versatile CSS Framework. Simple, light and responsive!
@@ -162,9 +144,7 @@ A versatile CSS Framework. Simple, light and responsive!
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 
 A dead simple, responsive boilerplate. Light as a feather at ~400 lines 
