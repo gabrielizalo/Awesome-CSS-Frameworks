@@ -26,5 +26,15 @@ React components for faster and easier web development. Build your own design sy
 Bootstrap components built with React.
 
 
+### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+
+The official Semantic-UI-React integration.
+
+
 
 [_Return to Categories_](../README.md)
