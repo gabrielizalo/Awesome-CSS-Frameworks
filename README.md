@@ -166,7 +166,7 @@ used JavaScript plugins, and full accessibility support.
 
 ### [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) - [Official Site](https://tailwindcss.com/)
 
-[![Category](https://img.shields.io/badge/-Specialized:%20Other-FAF2A1.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-Specialized:%20Other-FFB400.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
@@ -277,7 +277,7 @@ web is the successor to
 
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
 
-[![Category](https://img.shields.io/badge/-Specialized:%20Email-E2ADF2.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-Specialized:%20Email-6883BA.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
