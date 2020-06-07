@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks based on **[Awesome CSS Frameworks](
 
 ## Categories
 
-* [The Big Ones (12)](#the-big-ones)
+* [The Big Ones (15)](#the-big-ones)
 * [Base / Reset / Normalize (16)](BaseResetNormalize/README.md)
 * [Lightweight (28)](Lightweight/README.md)
 * [General Purpose (40)](GeneralPurpose/README.md)
@@ -134,6 +134,27 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
+### [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) - [Official Site](https://tailwindcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+
+A Utility-First CSS Framework for Rapid UI Development. Tailwind is 
+different from frameworks like Bootstrap, Foundation, or Bulma in that
+it's not a UI kit. It doesn't have a default theme, and there are no
+built-in UI components. On the flip side, it also has no opinion about
+how your site should look and doesn't impose design decisions that you
+have to fight to undo. If you're looking for a framework that comes with
+a menu of predesigned widgets to build your site with, Tailwind might
+not be the right framework for you. But if you want a huge head start
+implementing a custom design with its own identity, Tailwind might be
+just what you're looking for.
+
+
 ### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -202,6 +223,35 @@ at Google, these components enable a reliable development workflow to
 build beautiful and functional web projects. Material Components for the
 web is the successor to
 [Material Design Lite](MaterialDesign/#material-design-lite---official-site).
+
+
+### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
+
+The only framework that makes responsive email easy. MJML redefines the
+way you code responsive email. 
+
+
+### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+
+A Lightweight, Responsive and Modern CSS Framework. It's a Lightweight 
+(~10KB gzipped) starting point for your projects, it's Flexbox-based,
+responsive and mobile-friendly layout and it's Elegantly designed and
+developed elements and components. Spectre provides basic styles for
+typography and elements, flexbox based responsive layout system, pure
+CSS components and utilities with best practice coding and consistent
+design language.
 
 
 
