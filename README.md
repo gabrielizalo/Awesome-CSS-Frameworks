@@ -25,6 +25,7 @@ Frameworks with more than ~10K GitHub Stars.
 
 
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
+[![Category](https://img.shields.io/badge/-General Purpose-67E0A3.svg?style=flat-square&maxAge=5184000)]()
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
