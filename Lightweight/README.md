@@ -262,6 +262,18 @@ on desktop.
 A starter CSS framework that actually looks good.
 
 
+### [new.css](https://github.com/xz/new.css) - [Official Site](https://newcss.net/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+
+A classless CSS framework to write modern websites using only HTML. It weighs 4.8kb. All it does is set some sensible 
+defaults and styles your HTML to look reasonable.
+
+
 ### [Picnic CSS](https://github.com/franciscop/picnic) - [Official Site](https://picnicss.com/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
