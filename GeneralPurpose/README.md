@@ -218,13 +218,13 @@ Fomantic-UI is a community fork of Semantic-UI. Fomantic was created to continue
 has the intent to be merged back into the master repository once active development can restart. 
 
 
-### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
+### [Foundation](https://github.com/foundation/foundation-sites) - [Official Site](http://foundation.zurb.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 
 Foundation is the most advanced responsive front-end framework in the
 world. Quickly go from prototype to production, building sites or apps

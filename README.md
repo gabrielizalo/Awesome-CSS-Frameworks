@@ -147,15 +147,15 @@ is now in limited support, with development having moved to the
 repository.
 
 
-### [Foundation](https://github.com/zurb/foundation-sites) - [Official Site](http://foundation.zurb.com/)
+### [Foundation](https://github.com/foundation/foundation-sites) - [Official Site](http://foundation.zurb.com/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/zurb/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
 
 Foundation is the most advanced responsive front-end framework in the
 world. Quickly go from prototype to production, building sites or apps

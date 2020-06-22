@@ -116,7 +116,7 @@
     },
     "ZurbFoundationSites": {
       "name": "foundation-sites",
-      "nameWithOwner": "zurb/foundation-sites",
+      "nameWithOwner": "foundation/foundation-sites",
       "defaultBranchRef": {
         "target": {
           "committedDate": "2018-08-09T21:56:39Z"
