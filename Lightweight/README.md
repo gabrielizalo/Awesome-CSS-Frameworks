@@ -5,7 +5,7 @@
 
 ## Lightweight
 
-Frameworks that are smaller than ~10KB.
+Frameworks smaller than ~10KB.
 
 
 ### [awsm.css](https://github.com/igoradamenko/awsm.css) - [Official Site](https://igoradamenko.github.io/awsm.css/)
@@ -249,6 +249,19 @@ or use the plugin as a standalone css library. Mobi.css focus on the
 details and provides the best user experience, especially for
 content-rich webpage. It's designed for mobile, but also works awesome
 on desktop.
+
+
+### [mono/color](https://github.com/asvvvad/mono-color) - [Official Site](http://monocolor.asvvvad.eu.org/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+
+mono/color is a very small yet full-featured, simple and beautiful CSS-only framework built with responsivity, 
+readability, modularity, and a dual-theme in mind. It's perfect for a blog or a documentation site and can be used for 
+anything else as well. It's very responsive and looks neat on any resolution.
 
 
 ### [Mustard UI](https://github.com/kylelogue/mustard-ui) - [Official Site](https://mustard-ui.com/)
