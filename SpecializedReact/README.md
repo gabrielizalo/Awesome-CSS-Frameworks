@@ -57,6 +57,17 @@ Bootstrap components built with React.
 Bootstrap components built with React.
 
 
+### [React Suite](https://github.com/rsuite/rsuite) - [Official Site](https://rsuitejs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
+
+React Suite is a set of react component libraries for enterprise system products. It is a well-thought-out and 
+developer-friendly UI framework.
+
+
 ### [React Toolbox](https://github.com/react-toolbox/react-toolbox) - [Official Site](http://react-toolbox.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/react-toolbox/react-toolbox.svg?style=flat-square&maxAge=5184000)]()
