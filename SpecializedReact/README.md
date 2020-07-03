@@ -27,6 +27,18 @@ Chakra UI is a simple, modular and accessible component library that gives you a
 build your React applications.
 
 
+### [grommet](https://github.com/grommet/grommet) - [Official Site](https://grommet.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
+
+Streamline the way you develop apps. Build responsive and accessible mobile-first projects for the web with an easy to 
+use component library. A react-based framework that provides accessibility, modularity, responsiveness, and theming in 
+a tidy package. 
+
+
 ### [Material-UI](https://github.com/mui-org/material-ui) - [Official Site](https://material-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
