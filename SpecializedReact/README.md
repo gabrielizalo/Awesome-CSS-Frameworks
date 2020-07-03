@@ -28,6 +28,17 @@ Rating, TextInput, Button, Card, Select and soon many more. All of the component
 & desktop devices.
 
 
+### [Blueprint](https://github.com/palantir/blueprint) - [Official Site](https://blueprintjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+
+Blueprint is a React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for 
+desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
+
+
 ### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
