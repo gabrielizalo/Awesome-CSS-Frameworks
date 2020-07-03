@@ -37,6 +37,17 @@ build your React applications.
 React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 
+### [Prime React](https://github.com/primefaces/primereact) - [Official Site](https://primefaces.org/primereact/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/primereact.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/primefaces/primereact.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/primefaces/primereact.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/primefaces/primereact.svg?style=flat-square&maxAge=5184000)]()
+
+The Most Complete React UI Component Library. The ultimate collection of design-agnostic, flexible and accessible React 
+UI Components.
+
+
 ### [React + Foundation](https://github.com/digiaonline/react-foundation) - [Official Site](https://react.foundation/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
