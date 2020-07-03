@@ -160,6 +160,16 @@ implements Google Material Design specification. It's built on top of some the t
 customizable and very flexible.
 
 
+### [Reakit](https://github.com/reakit/reakit) - [Official Site](https://reakit.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/reakit/reakit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/reakit/reakit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/reakit/reakit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/reakit/reakit.svg?style=flat-square&maxAge=5184000)]()
+
+Build accessible rich web apps with React. Toolkit for building accessible rich web apps with React.
+
+
 ### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
