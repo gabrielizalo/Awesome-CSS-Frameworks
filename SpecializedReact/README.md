@@ -60,6 +60,17 @@ build your React applications.
 A flexible and beautiful UI framework for React.js. A UI Toolkit for React.js Websites and Apps. 
 
 
+### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+
+A set of React components for building Microsoft web experiences. Fluent UI React is a collection of robust React-based 
+components designed to make it simple for you to create consistent web experiences using the Fluent Design Language.
+
+
 ### [grommet](https://github.com/grommet/grommet) - [Official Site](https://grommet.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
