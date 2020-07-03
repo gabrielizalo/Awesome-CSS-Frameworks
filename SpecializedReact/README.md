@@ -50,6 +50,16 @@ Chakra UI is a simple, modular and accessible component library that gives you a
 build your React applications.
 
 
+### [Elemental UI](https://github.com/elementalui/elemental) - [Official Site](https://elemental-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+
+A flexible and beautiful UI framework for React.js. A UI Toolkit for React.js Websites and Apps. 
+
+
 ### [grommet](https://github.com/grommet/grommet) - [Official Site](https://grommet.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
