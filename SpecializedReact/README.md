@@ -60,6 +60,17 @@ build your React applications.
 A flexible and beautiful UI framework for React.js. A UI Toolkit for React.js Websites and Apps. 
 
 
+### [Evergreen](https://github.com/segmentio/evergreen) - [Official Site](https://evergreen.segment.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+
+Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by 
+[Segment](https://segment.com/). Works out of the box, Flexible & composable and Enterprise-grade.
+
+
 ### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
