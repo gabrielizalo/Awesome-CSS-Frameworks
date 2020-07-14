@@ -216,7 +216,7 @@ higher productivity with fewer properties to reset resulting in cleaner
 code. Hope you enjoy!
 
 
-### [mini.css](https://github.com/Chalarangelo/mini.css) - [Official Site](http://minicss.org/)
+### [mini.css](https://github.com/Chalarangelo/mini.css) - [Official Site](https://minicss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Chalarangelo/mini.css.svg?style=flat-square&maxAge=5184000)]()

@@ -353,7 +353,7 @@ framework is built to be lightweight, easy to use, and only built with
 the essentials you will need!
 
 
-### [Toast](https://github.com/daneden/toast) - [Official Site](http://daneden.github.io/Toast/)
+### [Toast](https://github.com/daneden/toast) - [Official Site](https://daneden.github.io/Toast/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/daneden/toast.svg?style=flat-square&maxAge=5184000)]()

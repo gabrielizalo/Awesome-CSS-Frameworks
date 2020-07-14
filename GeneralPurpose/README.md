@@ -32,7 +32,7 @@ Free, no jQuery but with a wide range of features: Grids, Sliders, Menus, Animat
 Easy, Light, Fast, Flexible.
 
 
-### [Base](https://github.com/getbase/base) - [Official Site](http://getbase.org/)
+### [Base](https://github.com/getbase/base) - [Official Site](https://getbase.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/getbase/base.svg?style=flat-square&maxAge=5184000)]()
