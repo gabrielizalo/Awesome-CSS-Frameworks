@@ -182,6 +182,17 @@ A frontend Framework for building B2B applications running in the browser on top
 and Material Design
 
 
+### [React Desktop](https://github.com/gabrielbull/react-desktop) - [Official Site](http://reactdesktop.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+
+react-desktop is a JavaScript library built on top of Facebook's React library, which aims to bring a native desktop 
+experience to the web, featuring many macOS Sierra and Windows 10 components. 
+
+
 ### [React Suite](https://github.com/rsuite/rsuite) - [Official Site](https://rsuitejs.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
