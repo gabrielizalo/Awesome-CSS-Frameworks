@@ -94,6 +94,18 @@ use component library. A react-based framework that provides accessibility, modu
 a tidy package. 
 
 
+### [Material Kit React](https://github.com/creativetimofficial/material-kit-react) - [Official Site](https://www.creative-tim.com/product/material-kit-react)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/material-kit-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/creativetimofficial/material-kit-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/material-kit-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/creativetimofficial/material-kit-react.svg?style=flat-square&maxAge=5184000)]()
+
+Material Kit React is a Free Material-UI@4.1.0 Kit with a fresh, new design inspired by Google's material design. 
+Material Kit React makes use of light, surface and movement. It uses a deliberate color choice, edge-to-edge imagery 
+and large scale typography.
+
+
 ### [Material-UI](https://github.com/mui-org/material-ui) - [Official Site](https://material-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
