@@ -83,6 +83,19 @@ Evergreen is a React UI Framework for building ambitious products on the web. Br
 [Segment](https://segment.com/). Works out of the box, Flexible & composable and Enterprise-grade.
 
 
+### [Fast](https://github.com/microsoft/fast) - [Official Site](https://fast.design/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fast.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/microsoft/fast.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/fast.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/fast.svg?style=flat-square&maxAge=5184000)]()
+
+The adaptive interface system for modern web experiences. Interfaces built with FAST adapt to your design system and 
+can be used with any modern UI Framework by leveraging industry standard Web Components. FAST is a collection of 
+JavaScript packages centered around web standards, designed to help you efficiently tackle some of the most common 
+challenges in website and application design and development.
+
+
 ### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
