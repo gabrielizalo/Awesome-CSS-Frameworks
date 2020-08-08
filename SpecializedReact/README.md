@@ -186,27 +186,6 @@ UI Components.
 Bootstrap components built with React.
 
 
-### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-
-Bootstrap components built with React.
-
-
-### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-
-A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React 
-and Material Design
-
-
 ### [React Desktop](https://github.com/gabrielbull/react-desktop) - [Official Site](http://reactdesktop.js.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
@@ -250,6 +229,27 @@ customizable and very flexible.
 [![GitHub issues](https://img.shields.io/github/issues/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
 
 React components for efficiently rendering large lists and tabular data. 
+
+
+### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap components built with React.
+
+
+### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+
+A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React 
+and Material Design
 
 
 ### [reactstrap](https://github.com/reactstrap/reactstrap) - [Official Site](https://reactstrap.github.io/)
