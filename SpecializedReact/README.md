@@ -241,6 +241,19 @@ React components for efficiently rendering large lists and tabular data.
 Bootstrap components built with React.
 
 
+### [react-md](https://github.com/mlaursen/react-md) - [Official Site](https://react-md.dev/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mlaursen/react-md.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mlaursen/react-md.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mlaursen/react-md.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mlaursen/react-md.svg?style=flat-square&maxAge=5184000)]()
+
+React material design - An accessible React component library built from the Material Design guidelines in Sass.
+This project's goal is to create fully accessible React components following the accessibility guidelines from 
+[www.w3.org](https://www.w3.org/) that will also be easily customizable with sensible defaults following the 
+[Material Design](https://material.io/design/) principals.
+
+
 ### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
