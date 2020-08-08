@@ -107,6 +107,18 @@ A set of React components for building Microsoft web experiences. Fluent UI Reac
 components designed to make it simple for you to create consistent web experiences using the Fluent Design Language.
 
 
+### [Garden](https://github.com/zendeskgarden/react-components) - [Official Site](https://garden.zendesk.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/zendeskgarden/react-components.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/zendeskgarden/react-components.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/zendeskgarden/react-components.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/zendeskgarden/react-components.svg?style=flat-square&maxAge=5184000)]()
+
+Garden React provides consistent styling and behavior for Garden components. React components are maintained following 
+a multi-package approach where components are packaged and published individually, but combined under this single 
+repository.
+
+
 ### [grommet](https://github.com/grommet/grommet) - [Official Site](https://grommet.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
