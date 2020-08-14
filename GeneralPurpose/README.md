@@ -258,6 +258,19 @@ Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
 for creating quick & responsive projects on the web, powered by Flexbox. 
 
 
+### [Halfmoon](https://github.com/halfmoonui/halfmoon) - [Official Site](https://www.gethalfmoon.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/halfmoonui/halfmoon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/halfmoonui/halfmoon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/halfmoonui/halfmoon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/halfmoonui/halfmoon.svg?style=flat-square&maxAge=5184000)]()
+
+Halfmoon is a responsive front-end framework, designed for quickly building beautiful dashboards and product pages. 
+Built-in dark mode, optional JavaScript library (no jQuery), Bootstrap like classes, and cross-browser compatibility 
+(including IE11).
+
+
 ### [Ivory](https://github.com/ivory-ui/ivory) - [Official Site](http://ivoryui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
