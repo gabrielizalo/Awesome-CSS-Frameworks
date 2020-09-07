@@ -16,6 +16,18 @@
 An enterprise-class UI design language and React UI library.
 
 
+### [Arwes](https://github.com/arwes/arwes) - [Official Site](https://arwes.dev/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/arwes/arwes.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/arwes/arwes.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/arwes/arwes.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/arwes/arwes.svg?style=flat-square&maxAge=5184000)]()
+
+Arwes is a web framework to build user interfaces for web applications based on futuristic science fiction and cyberpunk
+styles, animations, and sound effects. The concepts behind are opinionated and try to inspire advanced space technology 
+and alien influence. It is built on top of React, JSS, Anime, and Howler.
+
+
 ### [Argon Design System React](https://github.com/creativetimofficial/argon-design-system-react) - [Official Site](https://www.creative-tim.com/product/argon-design-system-react)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/argon-design-system-react.svg?style=flat-square&maxAge=5184000)]()
