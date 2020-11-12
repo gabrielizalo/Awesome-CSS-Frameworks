@@ -63,6 +63,17 @@ Blueprint is a React-based UI toolkit for the web. It is optimized for building 
 desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
 
 
+### [Brix UI](https://github.com/uStudioTeam/brix-ui) - [Official Site](https://ustudioteam.github.io/brix-ui/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Minimal UI framework for React built with TypeScript and styled-components.
+The library of reusable UI components for React, made in minimalistic and light style, adopting modern technologies and approaches.
+
+
 ### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
