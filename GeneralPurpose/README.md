@@ -575,6 +575,20 @@ building websites. We'll leave application and kitchen sink development
 to other frameworks.
 
 
+### [TuiCss](https://github.com/vinibiavatti1/TuiCss) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/vinibiavatti1/TuiCss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/vinibiavatti1/TuiCss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/vinibiavatti1/TuiCss.svg?style=flat-square&maxAge=5184000)]()
+
+Text-based user interface CSS framework focused to create web 
+applications using an interface based in ASCII table, like MS-DOS 
+applications. This kind of interface is very eligible because the 
+ultra-contrast colors used and the less effects of the elements. 
+
+
 ### [TurretCSS](https://github.com/turretcss/turretcss) - [Official Site](http://turretcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
