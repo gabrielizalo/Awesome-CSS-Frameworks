@@ -203,6 +203,17 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
+### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap components built with React.
+
+
 ### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
 
 [![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
@@ -217,17 +228,6 @@ A dead simple, responsive boilerplate. Light as a feather at ~400 lines
 & built with mobile in mind. Styles designed to be a starting point, not
 a UI framework. Quick to start with zero compiling or installing
 necessary. **It's no longer maintained**.
-
-
-### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-
-Bootstrap components built with React.
 
 
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
@@ -287,6 +287,17 @@ web is the successor to
 [Material Design Lite](MaterialDesign/#material-design-lite---official-site).
 
 
+### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
+
+The official Semantic-UI-React integration.
+
+
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20Email-6883BA.svg?style=flat-square&maxAge=5184000)]()
@@ -298,17 +309,6 @@ web is the successor to
 
 The only framework that makes responsive email easy. MJML redefines the
 way you code responsive email. 
-
-
-### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-
-The official Semantic-UI-React integration.
 
 
 ### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
