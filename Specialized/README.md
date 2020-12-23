@@ -6,6 +6,21 @@
 ## Specialized: Other
 
 
+### [Charts.css](https://github.com/ChartsCSS/charts.css) - [Official Site](https://chartscss.org/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
+
+Charts.css is an open source CSS framework for data visualization.
+Visualization help end-users understand data. Charts.css help frontend 
+developers turn data into beautiful charts and graphs using simple CSS 
+classes.
+
+
 ### [construct.css](https://github.com/t7/construct.css) - [Official Site](https://t7.github.io/construct.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
