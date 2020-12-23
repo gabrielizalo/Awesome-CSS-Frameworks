@@ -415,6 +415,17 @@ easily utilize in your web projects. Petal is fully coded on LESS from
 scratch.
 
 
+### [Potion](https://github.com/mvoloskov/potion) - [Official Site](https://miloslav.website/potion/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mvoloskov/potion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mvoloskov/potion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mvoloskov/potion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mvoloskov/potion.svg?style=flat-square&maxAge=5184000)]()
+
+Make websites that look like famous note taking app: Notion. 
+
+
 ### [Primer](https://github.com/primer/css) - [Official Site](https://primer.style/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
