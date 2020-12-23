@@ -111,13 +111,13 @@ Bulma is a free and open source CSS framework based on Flexbox. It's
 you need) and Modern (Built with Flexbox).
 
 
-### [BuddyCSS](https://github.com/BuddyCSS/BuddyCSS) - [Official Site](https://buddycss.com/)
+### [BuddyCSS](https://github.com/longvv112/BuddyCSS) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/BuddyCSS/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
 
 BuddyCSS is a CSS/JS framework. BuddyCSS is a simple CSS framework to 
 build awesome websites easily.
