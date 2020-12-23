@@ -73,10 +73,10 @@ for the most common browsers.
 ### [HTML5 Boilerplate Main.css](https://github.com/h5bp/main.css) - [Official Site](https://html5boilerplate.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/h5bp/main.css.scss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/h5bp/main.css.scss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/h5bp/main.css.scss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/h5bp/main.css.scss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/h5bp/main.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/h5bp/main.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/h5bp/main.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/h5bp/main.css.svg?style=flat-square&maxAge=5184000)]()
 
 A repository for the development of the HTML5 Boilerplate CSS file, main.css.
 
