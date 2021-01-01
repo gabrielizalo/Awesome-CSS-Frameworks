@@ -109,6 +109,18 @@ building emails as easy as building websites.
 Responsive HTML Email Templates.  
 
 
+### [Maizzle](https://github.com/maizzle/maizzle) - [Official Site](https://maizzle.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/maizzle/maizzle.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/maizzle/maizzle.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/maizzle/maizzle.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/maizzle/maizzle.svg?style=flat-square&maxAge=5184000)]()
+
+Maizzle is a framework that helps you quickly build HTML emails with 
+Tailwind CSS.
+
+
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
