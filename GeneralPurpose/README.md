@@ -519,6 +519,20 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
+### [Simple.css]https://github.com/kevquirk/simple.css) - [Official Site](https://simplecss.org/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/kevquirk/simple.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kevquirk/simple.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kevquirk/simple.css.svg?style=flat-square&maxAge=5184000)]()
+
+Simple.css is a classless CSS template that allows you to make a good 
+looking website really quickly. By classless I mean that there are no 
+CSS classes anywhere in the CSS or the HTML. So your website can look 
+just like this using plain old vanilla HTML.
+
+
 ### [Spectrum CSS](https://github.com/adobe/spectrum-css) - [Official Site](https://opensource.adobe.com/spectrum-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
