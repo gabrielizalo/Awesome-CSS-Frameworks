@@ -533,6 +533,21 @@ CSS classes anywhere in the CSS or the HTML. So your website can look
 just like this using plain old vanilla HTML.
 
 
+### [Skelet](https://github.com/selekkt/skelet) - [Official Site](https://selekkt.dk/skelet/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/selekkt/skelet.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/selekkt/skelet.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/selekkt/skelet.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/selekkt/skelet.svg?style=flat-square&maxAge=5184000)]()
+
+Skelet. is a contemporary CSS framework which gives you the foundations
+to start building your next project right away. Skelet. provides a
+simple, minimal yet solid starting point for websites. Get started
+quickly with the HTML5 template, or just include skelet.css in your own
+project.
+
+
 ### [Spectrum CSS](https://github.com/adobe/spectrum-css) - [Official Site](https://opensource.adobe.com/spectrum-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
