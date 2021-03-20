@@ -231,7 +231,7 @@ Fomantic-UI is a community fork of Semantic-UI. Fomantic was created to continue
 has the intent to be merged back into the master repository once active development can restart. 
 
 
-### [Foundation](https://github.com/foundation/foundation-sites) - [Official Site](http://foundation.zurb.com/)
+### [Foundation](https://github.com/foundation/foundation-sites) - [Official Site](https://get.foundation/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/foundation/foundation-sites.svg?style=flat-square&maxAge=5184000)]()
