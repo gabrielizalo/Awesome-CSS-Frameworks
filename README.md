@@ -164,7 +164,7 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
-### [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) - [Official Site](https://tailwindcss.com/)
+### [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - [Official Site](https://tailwindcss.com/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20Other-FFB400.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
