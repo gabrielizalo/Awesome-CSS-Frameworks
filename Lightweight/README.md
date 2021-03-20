@@ -47,7 +47,7 @@ faster development. It's Mobile First, responsive across various devices
 with a very small footprint, 6kb gzipped!, which makes it faster. 
 
 
-### [Blaze CSS](https://github.com/BlazeSoftware/blaze) - [Official Site](http://blazecss.com/)
+### [Blaze CSS](https://github.com/BlazeSoftware/atoms) - [Official Site](https://www.blazeui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
