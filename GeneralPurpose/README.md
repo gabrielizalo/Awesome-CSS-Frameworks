@@ -519,7 +519,7 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
-### [Simple.css]https://github.com/kevquirk/simple.css) - [Official Site](https://simplecss.org/)
+### [Simple.css](https://github.com/kevquirk/simple.css) - [Official Site](https://simplecss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/kevquirk/simple.css.svg?style=flat-square&maxAge=5184000)]()
