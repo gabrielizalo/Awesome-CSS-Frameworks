@@ -6,6 +6,21 @@
 ## Material Design
 
 
+### [Material 2](https://github.com/djibe/material) - [Official Site](https://djibe.github.io/material/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/djibe/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/djibe/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/djibe/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/djibe/material.svg?style=flat-square&maxAge=5184000)]()
+
+Djibe's Material UI 2 is a cross-platform and fully responsive front-end 
+interface based on Google Material Design 2 developed by Google. It is 
+the active fork of the abandonned Daemonite Material UI (until Daemonite 
+comes back).
+
+
 ### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
