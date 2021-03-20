@@ -9,7 +9,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 * [The Big Ones (19)](#the-big-ones)
 * [Base / Reset / Normalize (19)](BaseResetNormalize/README.md)
 * [Lightweight (32)](Lightweight/README.md)
-* [General Purpose (52)](GeneralPurpose/README.md)
+* [General Purpose (51)](GeneralPurpose/README.md)
 * [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (12)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (15)](SpecializedGridSystems/README.md)
@@ -85,7 +85,7 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
-### [Bulma](https://github.com/jgthms/bulma) - [Official Site](http://bulma.io/)
+### [Bulma](https://github.com/jgthms/bulma) - [Official Site](https://bulma.io/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
