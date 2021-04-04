@@ -40,6 +40,18 @@ features many components that can help you create amazing websites. Argon Design
 individual components, giving you the freedom of choosing and combining.
 
 
+### [Atomize React](https://github.com/proksh/atomize) - [Official Site](https://atomizecode.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/proksh/atomize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/proksh/atomize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/proksh/atomize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/proksh/atomize.svg?style=flat-square&maxAge=5184000)]()
+
+Start your development with a Design System for Bootstrap 4, React and Reactstrap. It is open source, free and it 
+features many components that can help you create amazing websites. Argon Design System React is built with over 100 
+individual components, giving you the freedom of choosing and combining.
+
+
 ### [Belle](https://github.com/nikgraf/belle/) - [Official Site](https://nikgraf.github.io/belle/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nikgraf/belle.svg?style=flat-square&maxAge=5184000)]()
