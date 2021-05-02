@@ -179,7 +179,7 @@ a multi-package approach where components are packaged and published individuall
 repository.
 
 
-### [grommet](https://github.com/grommet/grommet) - [Official Site](https://grommet.io/)
+### [grommet](https://github.com/grommet/grommet) - [Official Site](https://v2.grommet.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/grommet/grommet.svg?style=flat-square&maxAge=5184000)]()
