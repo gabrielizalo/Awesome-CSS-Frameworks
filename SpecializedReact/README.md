@@ -355,6 +355,22 @@ Build accessible rich web apps with React. Toolkit for building accessible rich 
 React primitive UI components built with styled-system. 
 
 
+### [Rimble](https://github.com/ConsenSysMesh/rimble-ui) - [Official Site](https://rimble.consensys.design/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Rimble is an open-source library of React components and guides to help 
+you make dApps everyone can use. Decentralized applications (dApps) 
+require users to learn new patterns and they present new hurdles for 
+designers and front-end developers. Rimble is here to make life easier 
+for everyone. As an open source project, Rimble aims to create common 
+dapp UX patterns, validated through user research, and built for 
+developers.
+
+
 ### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
