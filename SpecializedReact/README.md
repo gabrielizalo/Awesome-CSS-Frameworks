@@ -97,6 +97,19 @@ Chakra UI is a simple, modular and accessible component library that gives you a
 build your React applications.
 
 
+### [Elastic UI Framework](https://github.com/elastic/eui) - [Official Site](https://elastic.github.io/eui/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/elastic/eui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/elastic/eui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/elastic/eui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/elastic/eui.svg?style=flat-square&maxAge=5184000)]()
+
+The framework powering the Elastic Stack. The Elastic UI framework (EUI) 
+is a design library in use at Elastic to build internal products that 
+need to share our aesthetics. It distributes UI React components and 
+static assets for use in building web layouts. 
+
+
 ### [Elemental UI](https://github.com/elementalui/elemental) - [Official Site](https://elemental-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
