@@ -257,6 +257,19 @@ react-desktop is a JavaScript library built on top of Facebook's React library, 
 experience to the web, featuring many macOS Sierra and Windows 10 components. 
 
 
+### [React Spectrum](https://github.com/adobe/react-spectrum) - [Official Site](https://react-spectrum.adobe.com/react-spectrum/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/adobe/react-spectrum.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/adobe/react-spectrum.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/adobe/react-spectrum.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/adobe/react-spectrum.svg?style=flat-square&maxAge=5184000)]()
+
+A collection of libraries and tools that help you build adaptive, 
+accessible, and robust user experiences. A React implementation of 
+Spectrum, Adobe’s design system. Spectrum provides adaptive, accessible, 
+and cohesive experiences for all Adobe applications.
+
+
 ### [React Suite](https://github.com/rsuite/rsuite) - [Official Site](https://rsuitejs.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
