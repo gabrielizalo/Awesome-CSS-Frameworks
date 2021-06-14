@@ -193,6 +193,17 @@ making it look cookie-cutter.
 A modern CSS reset.
 
 
+### [Reseter.css](https://github.com/krishdevdb/reseter.css) - [Official Site](https://krishdevdb.github.io/reseter.css/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/krishdevdb/reseter.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/krishdevdb/reseter.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/krishdevdb/reseter.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/krishdevdb/reseter.css.svg?style=flat-square&maxAge=5184000)]()
+
+A Futuristic Alternative To Normalize.css And CSS Resets
+
+
 ### [sanitize.css](https://github.com/csstools/sanitize.css) - [Official Site](https://csstools.github.io/sanitize.css/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

@@ -7,7 +7,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 ## Categories
 
 * [The Big Ones (19)](#the-big-ones)
-* [Base / Reset / Normalize (19)](BaseResetNormalize/README.md)
+* [Base / Reset / Normalize (20)](BaseResetNormalize/README.md)
 * [Lightweight (33)](Lightweight/README.md)
 * [General Purpose (52)](GeneralPurpose/README.md)
 * [Material Design (9)](MaterialDesign/README.md)
