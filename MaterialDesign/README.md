@@ -18,6 +18,22 @@
 The most tasty, lightweight and easy css framework that you've seen!
 
 
+### [Daemonite's Material UI](https://github.com/daemonite/material) - [Official Site](http://daemonite.github.io/material/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
+
+Daemonite's Material UI is a cross-platform and fully responsive 
+front-end interface based on Google Material Design developed using 
+Bootstrap 4. The basic idea behind this project is to combine the 
+front-end technology of the popular Bootstrap framework with the visual 
+language of Google Material Design.
+
+
 ### [Material 2](https://github.com/djibe/material) - [Official Site](https://djibe.github.io/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
