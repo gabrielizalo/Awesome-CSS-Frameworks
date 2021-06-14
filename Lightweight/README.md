@@ -64,10 +64,10 @@ with a very small footprint, 6kb gzipped!, which makes it faster.
 ### [Blaze CSS](https://github.com/BlazeSoftware/atoms) - [Official Site](https://www.blazeui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/BlazeSoftware/blaze.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/BlazeSoftware/atoms.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/BlazeSoftware/atoms.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/BlazeSoftware/atoms.svg?style=flat-square&maxAge=5184000)]()
 
 Blaze is an open source modular toolkit. It provides great structure for
 building websites quickly with a scalable and maintainable foundation.
