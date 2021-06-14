@@ -22,13 +22,13 @@ provides building blocks for you to handpick and integrate into your
 workflow.
 
 
-### [CSS Remedy](https://github.com/mozdevs/cssremedy) - No Official Site
+### [CSS Remedy](https://github.com/jensimmons/cssremedy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/mozdevs/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
 
 Start your project with a remedy for the technical debt of CSS. A gift 
 to you from Mozilla Developer Outreach. Browsers these days are consistent 
