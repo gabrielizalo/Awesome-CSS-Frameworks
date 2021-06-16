@@ -421,7 +421,7 @@ no layouts. Just design plain and simple web pages compliant with HTML5
 and they will look OK.
 
 
-### [Tarminal.css](https://github.com/Gioni06/terminal.css) - [Official Site](https://terminalcss.xyz/)
+### [Terminal.css](https://github.com/Gioni06/terminal.css) - [Official Site](https://terminalcss.xyz/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Gioni06/terminal.css.svg?style=flat-square&maxAge=5184000)]()
