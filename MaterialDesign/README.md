@@ -34,6 +34,22 @@ front-end technology of the popular Bootstrap framework with the visual
 language of Google Material Design.
 
 
+### [Gestalt](https://github.com/pinterest/gestalt) - [Official Site](https://gestalt.netlify.app/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
+
+Gestalt is a set of React UI components that enforces Pinterest’s design 
+language. We use it to streamline communication between designers and 
+developers by enforcing a bunch of fundamental UI components. This 
+common set of components helps raise the bar for UX & accessibility 
+across Pinterest.
+
+
 ### [Material 2](https://github.com/djibe/material) - [Official Site](https://djibe.github.io/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
