@@ -191,6 +191,17 @@ use component library. A react-based framework that provides accessibility, modu
 a tidy package. 
 
 
+### [Mantine](https://github.com/mantinedev/mantine) - [Official Site](https://mantine.dev/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+
+Mantine is a MIT licensed open source react components and hooks library 
+with focus on usability, accessibility and developer experience.
+
+
 ### [Material Kit React](https://github.com/creativetimofficial/material-kit-react) - [Official Site](https://www.creative-tim.com/product/material-kit-react)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/material-kit-react.svg?style=flat-square&maxAge=5184000)]()
