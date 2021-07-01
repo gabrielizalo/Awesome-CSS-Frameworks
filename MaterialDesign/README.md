@@ -33,6 +33,17 @@ Bootstrap 4. The basic idea behind this project is to combine the
 front-end technology of the popular Bootstrap framework with the visual 
 language of Google Material Design.
 
+### [Tronic247 Material](https://github.com/Tronic247/material) - [Official Site](https://www.tronic247.com/material/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tronic247/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tronic247/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tronic247/material.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tronic247/material.svg?style=flat-square&maxAge=5184000)]()
+
+This framework is not like other frameworks. It's a framework that is highly inspired by [Material Design Guidelines](https://material.io/design/)
+
 
 ### [Gestalt](https://github.com/pinterest/gestalt) - [Official Site](https://gestalt.netlify.app/)
 
