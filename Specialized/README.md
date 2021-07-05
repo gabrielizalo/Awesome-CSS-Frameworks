@@ -143,6 +143,21 @@ projects evolve and grow, and plays nice with
 [normalize.css](BaseResetNormalize/README.md#normalize.css).
 
 
+### [Windi CSS](https://github.com/windicss/windicss) - [Official Site](https://windicss.org/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
+
+Next generation utility-first CSS framework. If you are already familiar 
+with Tailwind CSS, think about Windi CSS as an on-demanded alternative 
+to Tailwind, which provides faster load times, fully compatible with 
+Tailwind v2.0 and with a bunch of additional cool features.
+
+
 ### [Wireframe CSS](https://github.com/agauniyal/wireframe) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

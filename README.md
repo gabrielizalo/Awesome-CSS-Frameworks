@@ -14,7 +14,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 * [Specialized: Email (12)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (15)](SpecializedGridSystems/README.md)
 * [Specialized: For React (37)](SpecializedReact/README.md)
-* [Specialized: Other (11)](Specialized/README.md)
+* [Specialized: Other (12)](Specialized/README.md)
 * [No Longer Maintained (29)](NoLongerMaintained/README.md)
 
 
