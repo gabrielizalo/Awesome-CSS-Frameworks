@@ -224,6 +224,19 @@ and large scale typography.
 React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 
+### [Metro 4 for React](https://github.com/olton/Metro4-React) - [Official Site](https://react.metroui.org.ua/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/olton/Metro4-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/olton/Metro4-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/olton/Metro4-React.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/olton/Metro4-React.svg?style=flat-square&maxAge=5184000)]()
+
+Metro 4 Components Library for React. Sleek, intuitive, and powerful 
+front-end framework for faster and easier web development. Build 
+responsive, mobile-first projects on the web with the first front-end 
+component library in Metro Style.
+
+
 ### [Onsen UI](https://github.com/OnsenUI/OnsenUI) - [Official Site](https://onsen.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/OnsenUI/OnsenUI.svg?style=flat-square&maxAge=5184000)]()
