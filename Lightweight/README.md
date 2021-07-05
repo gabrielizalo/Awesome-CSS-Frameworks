@@ -325,6 +325,19 @@ Lightweight and beautiful library. Unpack your meal and get coding. An
 invasive CSS library to get your style started.
 
 
+### [Pico.css](https://github.com/picocss/pico) - [Official Site](https://picocss.com/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/picocss/pico.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/picocss/pico.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/picocss/pico.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/picocss/pico.svg?style=flat-square&maxAge=5184000)]()
+
+Graceful & Minimal CSS design system in pure semantic HTML. Elegant 
+styles for all natives HTML elements without .classes and dark mode 
+automatically enabled.
+
+
 ### [RelaxCSS](https://github.com/Ziyadsk/relaxCSS) - [Official Site](https://ziyadsk.github.io/relaxCSS/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
