@@ -233,6 +233,19 @@ future CSS syntax. It’s easy to use and highly customizable. Bootstrap
 users will find it familiar, yet refreshing.
 
 
+### [The New CSS Reset](https://github.com/elad2412/the-new-css-reset) - [Official Site](https://elad2412.github.io/the-new-css-reset/)
+  
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/elad2412/the-new-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/elad2412/the-new-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/elad2412/the-new-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/elad2412/the-new-css-reset.svg?style=flat-square&maxAge=5184000)]()
+
+This CSS reset is built from the understanding we don't want to use the 
+default style we are getting from the browsers, except the 'display' 
+property. 
+
+
 ### [Vanilla Framework](https://github.com/canonical-web-and-design/vanilla-framework) - [Official Site](https://vanillaframework.io/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
