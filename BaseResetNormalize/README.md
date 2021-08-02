@@ -121,13 +121,13 @@ customised and styled through the use of HTML classes.
 Tiny modern CSS reset.
 
 
-### [modern-css-reset](https://github.com/hankchizljaw/modern-css-reset) - [Official Site](https://hankchizljaw.com/wrote/a-modern-css-reset/)
+### [modern-css-reset](https://github.com/andy-piccalilli/modern-css-reset) - [Official Site](https://piccalil.li/blog/a-modern-css-reset/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/hankchizljaw/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/hankchizljaw/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/hankchizljaw/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/andy-piccalilli/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/andy-piccalilli/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/andy-piccalilli/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/andy-piccalilli/modern-css-reset.svg?style=flat-square&maxAge=5184000)]()
 
 A bare-bones CSS reset for modern web development. A tiny little reset that you can use as the basis of your CSS projects.
 
