@@ -429,6 +429,18 @@ Shards React is a free, beautiful and modern React UI kit based on [Shards](http
 
 
 
+### [VechaiUI](https://github.com/vechai/vechaiui) - [Official Site](https://www.vechaiui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+
+A set of high-quality accessible React UI components with the built-in 
+dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
+
+
+
 ### [windy](https://github.com/webeetle/windy) - [Official Site](https://windy-docs.vercel.app/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
