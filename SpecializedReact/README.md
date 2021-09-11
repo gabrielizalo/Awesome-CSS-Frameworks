@@ -429,4 +429,15 @@ Shards React is a free, beautiful and modern React UI kit based on [Shards](http
 
 
 
+### [windy](https://github.com/webeetle/windy) - [Official Site](https://windy-docs.vercel.app/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+
+A React UI Kit powered by Tailwind.
+
+
+
 [_Return to Categories_](../README.md)
