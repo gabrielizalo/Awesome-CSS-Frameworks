@@ -237,6 +237,19 @@ responsive, mobile-first projects on the web with the first front-end
 component library in Metro Style.
 
 
+### [NextUI](https://github.com/nextui-org/nextui) - [Official Site](https://nextui.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautiful, fast and modern React UI library. NextUI allows you make
+beautiful, modern, and fast websites/applications regardless of your
+design experience, created with React.js and styled-jsx, based on
+GeistUI and inspired by Vuesax.
+
+
 ### [Onsen UI](https://github.com/OnsenUI/OnsenUI) - [Official Site](https://onsen.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/OnsenUI/OnsenUI.svg?style=flat-square&maxAge=5184000)]()
