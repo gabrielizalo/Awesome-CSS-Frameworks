@@ -199,6 +199,17 @@ styles for native HTML elements. Components and utilities are provided
 as optional add-ons, Concise UI and Concise Utils, respectively.
 
 
+### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+
+Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
+
+
 ### [Denali CSS](https://github.com/denali-design/denali-css) - [Official Site](https://denali-design.github.io/denali-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
