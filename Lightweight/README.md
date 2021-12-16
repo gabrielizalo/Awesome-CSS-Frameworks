@@ -177,6 +177,17 @@ Furtive is intended to be just that, furtive. It's the perfect starting
 point to get your project up and running.
 
 
+### [high-IQ CSS](https://github.com/jonathanharrell/hiq) - [Official Site](https://jonathanharrell.github.io/hiq/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jonathanharrell/hiq.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jonathanharrell/hiq.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jonathanharrell/hiq.svg?style=flat-square&maxAge=5184000)]()
+
+A simple CSS foundation with responsive typography and input styling, built with PostCSS.
+
+
 ### [kernel.css](https://github.com/ionogy/kernel.css) - [Official Site](https://ionogy.github.io/kernel.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
