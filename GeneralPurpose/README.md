@@ -153,7 +153,7 @@ create a seamless framework that could allow web developers to start up
 a new project easily without the need to override every little piece.
 
 
-### [Cirrus.CSS](https://github.com/Spiderpig86/Cirrus/) - [Official Site](https://spiderpig86.github.io/Cirrus/)
+### [Cirrus.CSS](https://github.com/Spiderpig86/Cirrus/) - [Official Site](https://cirrus-ui.netlify.app/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Spiderpig86/Cirrus.svg?style=flat-square&maxAge=5184000)]()
