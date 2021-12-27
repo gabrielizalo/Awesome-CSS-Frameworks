@@ -52,6 +52,17 @@ features many components that can help you create amazing websites. Argon Design
 individual components, giving you the freedom of choosing and combining.
 
 
+### [Base Web React UI framework](https://github.com/uber/baseweb) - [Official Site](https://baseweb.design/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/uber/baseweb.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uber/baseweb.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uber/baseweb.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uber/baseweb.svg?style=flat-square&maxAge=5184000)]()
+
+Base is a design system comprised of modern, responsive, living components. Base Web is the React implementation of Base.
+Base Web is a foundation for initiating, evolving, and unifying web products.
+
+
 ### [Belle](https://github.com/nikgraf/belle/) - [Official Site](https://nikgraf.github.io/belle/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nikgraf/belle.svg?style=flat-square&maxAge=5184000)]()
