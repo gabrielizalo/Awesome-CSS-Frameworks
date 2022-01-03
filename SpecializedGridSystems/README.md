@@ -23,18 +23,6 @@ production environment. There are printable sketch sheets, design
 layouts, and a CSS file that have identical measurements. 
 
 
-### [Atomic Bulldog Grid](https://github.com/vinceumo/atomic-bulldog-grid) - [Official Site](https://vinceumo.github.io/atomic-bulldog-grid/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/vinceumo/atomic-bulldog-grid.svg?style=flat-square&maxAge=5184000)]() 
- 
-CSS (SCSS) grid, base on CSS grid layout with @supports fallback to
-flexbox (partial support).
-
-
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
