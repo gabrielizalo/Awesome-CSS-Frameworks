@@ -442,17 +442,6 @@ responsive websites.
 A simple responsive CSS boilerplate.
 
 
-### [Scooter](https://github.com/dropbox/scooter) - [Official Site](http://dropbox.github.io/scooter/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/dropbox/scooter.svg?style=flat-square&maxAge=5184000)]()
-
-An SCSS framework & UI library for Dropbox Web.  
-
-
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
