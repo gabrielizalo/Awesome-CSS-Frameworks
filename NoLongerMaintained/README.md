@@ -73,6 +73,18 @@ PSD Download. It provides a faster, easier and less repetitive way for web devel
 web apps.
 
 
+### [BuddyCSS](https://github.com/longvv112/BuddyCSS) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/longvv112/BuddyCSS.svg?style=flat-square&maxAge=5184000)]()
+
+BuddyCSS is a CSS/JS framework. BuddyCSS is a simple CSS framework to
+build awesome websites easily.
+
+
 ### [Compass](https://github.com/Compass/compass) - [Official Site](http://compass-style.org)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
