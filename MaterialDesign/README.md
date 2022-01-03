@@ -88,17 +88,6 @@ The most popular UI KIT for building responsive, mobile-first websites and apps 
 Available jQuery, Angular, React and Vue versions.
 
 
-### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
-
-Materialize, a CSS Framework based on Material Design.
-
-
 ### [Materialize Fork](https://github.com/materializecss/materialize) - [Official Site](https://materializecss.github.io/materialize/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -106,6 +95,17 @@ Materialize, a CSS Framework based on Material Design.
 [![GitHub tag](https://img.shields.io/github/tag/materializecss/materialize.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/materializecss/materialize.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/materializecss/materialize.svg?style=flat-square&maxAge=5184000)]()
+
+Materialize, a CSS Framework based on Material Design.
+
+
+### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
 
 Materialize, a CSS Framework based on Material Design.
 
