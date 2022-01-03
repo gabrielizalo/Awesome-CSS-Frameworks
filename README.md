@@ -64,6 +64,28 @@ An enterprise-class UI design language and React UI library.
 React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 
+### [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - [Official Site](https://tailwindcss.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20Other-FFB400.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
+
+A Utility-First CSS Framework for Rapid UI Development. Tailwind is
+different from frameworks like Bootstrap, Foundation, or Bulma in that
+it's not a UI kit. It doesn't have a default theme, and there are no
+built-in UI components. On the flip side, it also has no opinion about
+how your site should look and doesn't impose design decisions that you
+have to fight to undo. If you're looking for a framework that comes with
+a menu of predesigned widgets to build your site with, Tailwind might
+not be the right framework for you. But if you want a huge head start
+implementing a custom design with its own identity, Tailwind might be
+just what you're looking for.
+
+
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
@@ -85,6 +107,21 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
+### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
+
+[![Category](https://img.shields.io/badge/-Base%20/%20Reset%20/%20Normalize-574AE2.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+
+A modern, HTML5-ready alternative to CSS resets. Normalize.css makes
+browsers render all elements more consistently and in line with modern
+standards. It precisely targets only the styles that need normalizing.
+
+
 ### [Bulma](https://github.com/jgthms/bulma) - [Official Site](https://bulma.io/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
@@ -98,21 +135,6 @@ application logic.
 Bulma is a free and open source CSS framework based on Flexbox. It's
 100% Responsive (Designed for mobile first), Modular (Just import what
 you need) and Modern (Built with Flexbox).
-
-
-### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
-  
-[![Category](https://img.shields.io/badge/-Base%20/%20Reset%20/%20Normalize-574AE2.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-
-A modern, HTML5-ready alternative to CSS resets. Normalize.css makes 
-browsers render all elements more consistently and in line with modern
-standards. It precisely targets only the styles that need normalizing.
 
 
 ### [Materialize](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
@@ -164,28 +186,6 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
-### [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - [Official Site](https://tailwindcss.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20Other-FFB400.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
-
-A Utility-First CSS Framework for Rapid UI Development. Tailwind is 
-different from frameworks like Bootstrap, Foundation, or Bulma in that
-it's not a UI kit. It doesn't have a default theme, and there are no
-built-in UI components. On the flip side, it also has no opinion about
-how your site should look and doesn't impose design decisions that you
-have to fight to undo. If you're looking for a framework that comes with
-a menu of predesigned widgets to build your site with, Tailwind might
-not be the right framework for you. But if you want a huge head start
-implementing a custom design with its own identity, Tailwind might be
-just what you're looking for.
-
-
 ### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![Category](https://img.shields.io/badge/-Base%20/%20Reset%20/%20Normalize-574AE2.svg?style=flat-square&maxAge=5184000)]()
@@ -230,20 +230,6 @@ a UI framework. Quick to start with zero compiling or installing
 necessary. **It's no longer maintained**.
 
 
-### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
-
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![SASS and LESS](https://img.shields.io/badge/SASS%20and%20LESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight and modular front-end framework for developing fast and 
-powerful web interfaces.
-
-
 ### [Blueprint](https://github.com/palantir/blueprint) - [Official Site](https://blueprintjs.com/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
@@ -267,6 +253,20 @@ desktop applications which run in modern browsers and IE11. This is not a mobile
 [![GitHub issues](https://img.shields.io/github/issues/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 
 NES.css is a NES-style(8bit-like) CSS Framework.
+
+
+### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![SASS and LESS](https://img.shields.io/badge/SASS%20and%20LESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
+
+A lightweight and modular front-end framework for developing fast and
+powerful web interfaces.
 
 
 ### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
