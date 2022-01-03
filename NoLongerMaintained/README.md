@@ -60,6 +60,19 @@ with an easy-to-use grid, sensible typography, useful plugins, and even
 a stylesheet for printing.
 
 
+### [Bootflat](https://github.com/bootflat/bootflat.github.io) - [Official Site](http://bootflat.github.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
+
+BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. And, for the designers, we offer a free
+PSD Download. It provides a faster, easier and less repetitive way for web developers or designers to create elegant
+web apps.
+
+
 ### [Compass](https://github.com/Compass/compass) - [Official Site](http://compass-style.org)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

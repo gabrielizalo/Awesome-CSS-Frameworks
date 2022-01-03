@@ -45,19 +45,6 @@ and small. Lightweight and minimal code. Spend less time overriding
 styles and focus more time on creating beautiful website applications.
 
 
-### [Bootflat](https://github.com/bootflat/bootflat.github.io) - [Official Site](http://bootflat.github.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/bootflat/bootflat.github.io.svg?style=flat-square&maxAge=5184000)]()
-
-BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. And, for the designers, we offer a free 
-PSD Download. It provides a faster, easier and less repetitive way for web developers or designers to create elegant 
-web apps.
-
-
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
