@@ -39,21 +39,6 @@ You can override the UA styles with more modern ideas of how CSS should
 work by default. Introducing CSS Remedy.
 
 
-### [Furtive](https://github.com/johno/furtive) - [Official Site](http://furtive.co/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-
-A forward-thinking, CSS micro-framework. Furtive is truly mobile-first
-and nearly all dimensions are done in rem. It also has a small
-footprint, cutting down on the bandwidth necessary for downloading CSS.
-Furtive is intended to be just that, furtive. It's the perfect starting
-point to get your project up and running.
-
-
 ### [Hoisin.scss](https://github.com/Cyber-Duck/hoisin.scss) - [Official Site](http://cyber-duck.github.io/hoisin.scss/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
