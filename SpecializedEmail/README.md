@@ -54,20 +54,6 @@ Formerly Ink. Quickly create responsive HTML emails that work. Even on
 Outlook.
 
 
-### [HEML](https://github.com/SparkPost/heml) - [Official Site](https://heml.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
-
-Quickly craft clean, responsive emails. HEML is an open source markup
-language for building responsive email. It gives you the native power of
-HTML without having to deal with all of the email quirks. HEML makes
-building emails as easy as building websites. 
-
-
 ### [HTML Email](https://github.com/leemunroe/htmlemail) - [Official Site](https://htmlemail.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

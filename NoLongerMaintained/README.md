@@ -219,6 +219,20 @@ GroundworkCSS, you can rapidly prototype and create accessible web apps
 that work on virtually any device.
 
 
+### [HEML](https://github.com/SparkPost/heml) - [Official Site](https://heml.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/SparkPost/heml.svg?style=flat-square&maxAge=5184000)]()
+
+Quickly craft clean, responsive emails. HEML is an open source markup
+language for building responsive email. It gives you the native power of
+HTML without having to deal with all of the email quirks. HEML makes
+building emails as easy as building websites.
+
+
 ### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
