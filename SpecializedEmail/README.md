@@ -42,21 +42,6 @@ Outlook and Gmail.
 The email boilerplate for sending out nicely formatted messages. 
 
 
-### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/g13nn/Email-Framework.svg?style=flat-square&maxAge=5184000)]()
-
-Build responsive email templates confidently. The HTML email framework
-developed to help you build responsive HTML email templates using the
-pre-built grid options and basic components you need to build responsive
-HTML email templates. This HTML email framework support's over 60+ email
-clients and has been thoroughly tested using Litmus.com.
-
-
 ### [Foundation for Emails 2 - Formerly Ink](https://github.com/zurb/foundation-emails) - [Official Site](https://foundation.zurb.com/emails.html)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
