@@ -280,24 +280,6 @@ It gives you all the basic integrants to build your pages faster and easier.
 A complete CSS framework for Stylus.
 
 
-### [Kube](https://github.com/imperavi/kube) - [Official Site](https://imperavi.com/kube/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/imperavi/kube.svg?style=flat-square&maxAge=5184000)]()
-
-Kube ("kyu:b") is a web framework for professional developers and 
-designers alike. Kube is built and designed to provide the most flexible
-yet powerful CSS framework to the community. Unlike many other web
-frameworks, Kube is great for both super-fast bootstrapping and for a
-serious cutting edge, future-proof web development. Kube is a wireframe,
-a skeleton for your project, in a way. It doesn’t impose design styles
-or code decisions; it does require fluency and proficiency with latest
-HTML and CSS technologies, though.
-
-
 ### [Metro 4](https://github.com/olton/Metro-UI-CSS) - [Official Site](https://metroui.org.ua/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
