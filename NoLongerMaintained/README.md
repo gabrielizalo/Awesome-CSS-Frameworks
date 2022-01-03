@@ -254,6 +254,24 @@ is now in limited support, with development having moved to the
 repository.
 
 
+### [Mobi.css](https://github.com/mobi-css/mobi.css) - [Official Site](http://getmobicss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mobi-css/mobi.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mobi-css/mobi.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mobi-css/mobi.css.svg?style=flat-square&maxAge=5184000)]()
+
+Lightweight, scalable, mobile-first CSS framework. The default bundle of
+Mobi.css provides the basic styles to build clean and elegant webpages.
+It's only 2.6kb after gzipped, and it's very easy to get started. Plugin
+system makes css scalable. You can import plugins to enhance Mobi.css,
+or use the plugin as a standalone css library. Mobi.css focus on the
+details and provides the best user experience, especially for
+content-rich webpage. It's designed for mobile, but also works awesome
+on desktop.
+
+
 ### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
