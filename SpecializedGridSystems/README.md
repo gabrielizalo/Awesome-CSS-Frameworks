@@ -47,34 +47,6 @@ A dead simple, customisable, flexbox-based griddd. It's Responsive,
 Lightweight and Customisable.
 
 
-### [Katana.scss](https://github.com/vladocar/Katana) - [Official Site](https://vladocar.github.io/Katana/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/vladocar/Katana.svg?style=flat-square&maxAge=5184000)]()
-
-Katana is sharp CSS Layout System made with Flexbox. Katana is ultra 
-minimal CSS Framework made with few lines of Sass. Default parameters 
-are: 12 columns, 15px margin and 94% main width. But you can 
-personalise anything, just change the numbers. Plus you have ultra cool 
-fluid column. 
-
-
-### [Kayzen-GS](https://github.com/esr360/Kayzen-GS) - [Official Site](http://esr360.github.io/Kayzen-GS/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/esr360/Kayzen-GS.svg?style=flat-square&maxAge=5184000)]()
-
-Kayzen-GS is a powerful framework for building responsive grid systems 
-for the web. A responsive, flexible and dynamic grid system based off 
-inline-block columns. 
-
-
 ### [lyt](https://github.com/ColinEspinas/lyt) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
