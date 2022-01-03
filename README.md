@@ -86,7 +86,7 @@ just what you're looking for.
 
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
@@ -106,7 +106,7 @@ application logic.
 
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
 
-[![Category](https://img.shields.io/badge/-Base%20/%20Reset%20/%20Normalize-574AE2.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
@@ -146,7 +146,7 @@ Materialize, a CSS Framework based on Material Design.
 
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
 
-[![Category](https://img.shields.io/badge/-Material%20Design-AB81CD.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/google/material-design-lite.svg?style=flat-square&maxAge=5184000)]()
@@ -178,7 +178,30 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
-### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
+### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to
+build your React applications.
+
+
+### [react virtualized](https://github.com/bvaughn/react-virtualized) - [Official Site](https://bvaughn.github.io/react-virtualized/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
+
+React components for efficiently rendering large lists and tabular data.
+
+
+### [Pure](https://github.om/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![Category](https://img.shields.io/badge/-Base%20/%20Reset%20/%20Normalize-574AE2.svg?style=flat-square&maxAge=5184000)]()
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
@@ -203,6 +226,18 @@ making it look cookie-cutter.
 [![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
 
 Bootstrap components built with React.
+
+
+### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+
+A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
+and Material Design
 
 
 ### [Blueprint](https://github.com/palantir/blueprint) - [Official Site](https://blueprintjs.com/)
@@ -274,6 +309,18 @@ web is the successor to
 [Material Design Lite](MaterialDesign/#material-design-lite---official-site).
 
 
+### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+
+A set of React components for building Microsoft web experiences. Fluent UI React is a collection of robust React-based
+components designed to make it simple for you to create consistent web experiences using the Fluent Design Language.
+
+
 ### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20Email-6883BA.svg?style=flat-square&maxAge=5184000)]()
@@ -296,6 +343,18 @@ way you code responsive email.
 [![GitHub issues](https://img.shields.io/github/issues/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
 
 The official Semantic-UI-React integration.
+
+
+### [Evergreen](https://github.com/segmentio/evergreen) - [Official Site](https://evergreen.segment.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
+
+Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by
+[Segment](https://segment.com/). Works out of the box, Flexible & composable and Enterprise-grade.
 
 
 ### [Primer](https://github.com/primer/css) - [Official Site](https://primer.style/)
