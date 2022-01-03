@@ -442,25 +442,6 @@ responsive websites.
 A simple responsive CSS boilerplate.
 
 
-### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Semantic is a UI component framework based around useful principles from
-natural language. Semantic allows developers to build beautiful websites
-fast, with concise HTML, intuitive javascript, and simplified debugging,
-helping make front-end development a delightful experience. Semantic is
-responsively designed allowing your website to scale on multiple
-devices. Semantic is production ready and partnered with frameworks such
-as React, Angular, Meteor, and Ember, which means you can integrate it
-with any of these frameworks to organize your UI layer alongside your
-application logic.
-
-
 ### [Simple.css](https://github.com/kevquirk/simple.css) - [Official Site](https://simplecss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
