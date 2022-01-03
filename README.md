@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (21)](#the-big-ones)
+* [The Big Ones (22)](#the-big-ones)
 * [Base / Reset / Normalize (19)](BaseResetNormalize/README.md)
 * [Lightweight (31)](Lightweight/README.md)
 * [General Purpose (44)](GeneralPurpose/README.md)
@@ -327,6 +327,19 @@ developed elements and components. Spectre provides basic styles for
 typography and elements, flexbox based responsive layout system, pure
 CSS components and utilities with best practice coding and consistent
 design language.
+
+
+### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
+
+Functional css for humans. Create fast loading, highly readable, and
+100% responsive interfaces with as little css as possible. Built for
+designing.
 
 
 
