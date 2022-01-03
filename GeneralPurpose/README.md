@@ -483,18 +483,6 @@ Spectrum CSS provides a standard CSS implementation of the Spectrum
 design language for internal and 3rd party use on Adobe's platforms.
 
 
-### [Stylizer](https://github.com/amine1107/Stylizer) - [Official Site](https://amine1107.github.io/getstylizer/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/amine1107/Stylizer.svg?style=flat-square&maxAge=5184000)]()
-
-Stylizer is a Open-source CSS Framework that make web design flat, is based on the visual aspect, the framework offers 
-you a clean and easy work
-
-
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
