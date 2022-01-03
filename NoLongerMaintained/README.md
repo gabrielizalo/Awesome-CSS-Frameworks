@@ -266,8 +266,21 @@ media–queries.
 [![GitHub issues](https://img.shields.io/github/issues/thoughtbot/neat.svg?style=flat-square&maxAge=5184000)]() 
  
 A lightweight and flexible Sass grid made to with [Bourbon](https://www.bourbon.io/)
- 
- 
+
+
+### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+
+A modern, HTML5-ready alternative to CSS resets. Normalize.css makes
+browsers render all elements more consistently and in line with modern
+standards. It precisely targets only the styles that need normalizing.
+
+
 ### [Pavilion CSS](https://github.com/getpavilion/pavilion) - [Official Site](http://www.pavilion.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
