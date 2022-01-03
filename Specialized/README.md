@@ -34,6 +34,18 @@ Focus on the content and structure of your HTML. This is just a silly idea, a CS
 as opposed to using class names as style hooks — to help people become more familiar with how to use semantic HTML.
 
 
+### [Doodle CSS](https://github.com/chr15m/DoodleCSS) - [Official Site](https://chr15m.github.io/DoodleCSS/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
+
+Doodle CSS is a simple hand drawn HTML/CSS theme.
+
+
 ### [Gutenberg](https://github.com/BafS/Gutenberg) - [Official Site](http://bafs.github.io/Gutenberg/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
