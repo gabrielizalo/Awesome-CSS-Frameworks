@@ -320,7 +320,6 @@ styling for HTML elements. No class names, no framework to learn.
 ### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![SASS](https://img.shields.io/badge/SASS%20and%20LESS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
@@ -409,7 +408,6 @@ GitHub’s design system
 ### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()

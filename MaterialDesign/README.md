@@ -9,7 +9,6 @@
 ### [Beer css](https://github.com/beercss/beercss) - [Official Site](https://www.beercss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/beercss/beercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/beercss/beercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/beercss/beercss.svg?style=flat-square&maxAge=5184000)]()
@@ -21,7 +20,6 @@ The most tasty, lightweight and easy css framework that you've seen!
 ### [Daemonite's Material UI](https://github.com/daemonite/material) - [Official Site](http://daemonite.github.io/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/daemonite/material.svg?style=flat-square&maxAge=5184000)]()
@@ -36,7 +34,6 @@ language of Google Material Design.
 ### [Gestalt](https://github.com/pinterest/gestalt) - [Official Site](https://gestalt.netlify.app/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/pinterest/gestalt.svg?style=flat-square&maxAge=5184000)]()
@@ -52,7 +49,6 @@ across Pinterest.
 ### [Material 2](https://github.com/djibe/material) - [Official Site](https://djibe.github.io/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/djibe/material.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/djibe/material.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/djibe/material.svg?style=flat-square&maxAge=5184000)]()
@@ -67,7 +63,6 @@ comes back).
 ### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
@@ -171,7 +166,6 @@ minified and Gzipped. 100% CSS only. Absolutely zero Javascript. As of
 ### [Tronic247 Material](https://github.com/Tronic247/material) - [Official Site](https://www.tronic247.com/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tronic247/material.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tronic247/material.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/tronic247/material.svg?style=flat-square&maxAge=5184000)]()

@@ -9,7 +9,6 @@
 ### [Charts.css](https://github.com/ChartsCSS/charts.css) - [Official Site](https://chartscss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/ChartsCSS/charts.css.svg?style=flat-square&maxAge=5184000)]()
@@ -24,7 +23,6 @@ classes.
 ### [construct.css](https://github.com/t7/construct.css) - [Official Site](https://t7.github.io/construct.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
@@ -37,7 +35,6 @@ as opposed to using class names as style hooks — to help people become more fa
 ### [Doodle CSS](https://github.com/chr15m/DoodleCSS) - [Official Site](https://chr15m.github.io/DoodleCSS/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/chr15m/DoodleCSS.svg?style=flat-square&maxAge=5184000)]()
@@ -49,7 +46,6 @@ Doodle CSS is a simple hand drawn HTML/CSS theme.
 ### [Gutenberg](https://github.com/BafS/Gutenberg) - [Official Site](http://bafs.github.io/Gutenberg/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
@@ -61,7 +57,6 @@ Modern framework to print web pages correctly.
 ### [Lightning Design System](https://github.com/salesforce-ux/design-system) - [Official Site](https://www.lightningdesignsystem.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
@@ -75,7 +70,6 @@ in UIs that reflect the Salesforce Lightning look and feel.
 ### [PaperCSS](https://github.com/papercss/papercss) - [Official Site](https://www.getpapercss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/papercss/papercss.svg?style=flat-square&maxAge=5184000)]()
@@ -91,7 +85,6 @@ page should instantly paper-ize it.
 ### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![SASS](https://img.shields.io/badge/SASS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
@@ -105,7 +98,6 @@ create configurable modules in Sass, JavaScript and/or React.
 ### [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) - [Official Site](https://tailwindcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![PostCSS](https://img.shields.io/badge/PostCSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=flat-square&maxAge=5184000)]()
@@ -126,7 +118,6 @@ just what you're looking for.
 ### [Tufte CSS](https://github.com/edwardtufte/tufte-css) - [Official Site](https://edwardtufte.github.io/tufte-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=flat-square&maxAge=5184000)]()
@@ -141,7 +132,6 @@ tufte-css brings that style to HTML documents.
 ### [typebase.css](https://github.com/devinhunt/typebase.css) - [Official Site](http://devinhunt.github.io/typebase.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![SASS and LESS and Rework](https://img.shields.io/badge/SASS%20and%20LESS%20and%20Rework-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
@@ -158,7 +148,6 @@ projects evolve and grow, and plays nice with
 ### [Windi CSS](https://github.com/windicss/windicss) - [Official Site](https://windicss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/windicss/windicss.svg?style=flat-square&maxAge=5184000)]()
@@ -173,7 +162,6 @@ Tailwind v2.0 and with a bunch of additional cool features.
 ### [Wireframe CSS](https://github.com/agauniyal/wireframe) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
@@ -185,7 +173,6 @@ A minimal CSS framework for wireframing.
 ### [YACSS](https://github.com/FlorianWoelki/YACSS) - [Official Site](https://florianwoelki.github.io/YACSS/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![Pure CSS](https://img.shields.io/badge/Pure%20CSS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
