@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (20)](#the-big-ones)
+* [The Big Ones (21)](#the-big-ones)
 * [Base / Reset / Normalize (19)](BaseResetNormalize/README.md)
 * [Lightweight (31)](Lightweight/README.md)
 * [General Purpose (44)](GeneralPurpose/README.md)
@@ -296,6 +296,19 @@ The official Semantic-UI-React integration.
 
 The only framework that makes responsive email easy. MJML redefines the
 way you code responsive email. 
+
+
+### [Primer](https://github.com/primer/css) - [Official Site](https://primer.style/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/primer/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/primer/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/primer/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/primer/css.svg?style=flat-square&maxAge=5184000)]()
+
+The CSS design system that powers GitHub. Resources, tooling, and design guidelines for building interfaces with
+GitHub’s design system
 
 
 ### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
