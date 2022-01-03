@@ -164,6 +164,16 @@ lazy.
 Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
 
 
+### [Elemental UI](https://github.com/elementalui/elemental) - [Official Site](https://elemental-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/elementalui/elemental.svg?style=flat-square&maxAge=5184000)]()
+
+A flexible and beautiful UI framework for React.js. A UI Toolkit for React.js Websites and Apps.
+
+
 ### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
