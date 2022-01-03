@@ -9,13 +9,13 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 * [The Big Ones (19)](#the-big-ones)
 * [Base / Reset / Normalize (19)](BaseResetNormalize/README.md)
 * [Lightweight (31)](Lightweight/README.md)
-* [General Purpose (50)](GeneralPurpose/README.md)
+* [General Purpose (49)](GeneralPurpose/README.md)
 * [Material Design (12)](MaterialDesign/README.md)
 * [Specialized: Email (12)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (15)](SpecializedGridSystems/README.md)
 * [Specialized: For React (43)](SpecializedReact/README.md)
 * [Specialized: Other (13)](Specialized/README.md)
-* [No Longer Maintained (38)](NoLongerMaintained/README.md)
+* [No Longer Maintained (39)](NoLongerMaintained/README.md)
 
 
 
