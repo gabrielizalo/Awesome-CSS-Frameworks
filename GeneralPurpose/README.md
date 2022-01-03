@@ -595,17 +595,6 @@ for easy and consistent scaling. Light as a feather: At a total size of
 just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 
 
-### [W3.CSS](https://github.com/JaniRefsnes/w3css) - [Official Site](https://www.w3schools.com/w3css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
-
-W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
-
-
 ## [XP.css](https://github.com/botoxparty/XP.css) - [Official Site](https://botoxparty.github.io/XP.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

@@ -562,6 +562,17 @@ brand over the head with it. Just add colors and voila! We are basing
 our architecture on BEM make your apps faster, less contextual and
 easier to manage.
 
+### [W3.CSS](https://github.com/JaniRefsnes/w3css) - [Official Site](https://www.w3schools.com/w3css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
+
+W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
+
+
 
 ### [Webplate](https://github.com/chrishumboldt/Webplate) - No Official Site
 
