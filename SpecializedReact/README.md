@@ -452,6 +452,17 @@ Shards React is a free, beautiful and modern React UI kit based on [Shards](http
 
 
 
+### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+
+Synergy is a framework for building modular, configurable and scalable UI components for React-DOM projects.
+
+
 ### [VechaiUI](https://github.com/vechai/vechaiui) - [Official Site](https://www.vechaiui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()

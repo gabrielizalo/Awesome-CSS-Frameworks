@@ -69,19 +69,6 @@ paper-button. Because of this, adding PaperCSS to a markdown generated
 page should instantly paper-ize it.
 
 
-### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-
-Synergy is a front-end framework for creating modular, configurable and 
-scalable UI components. Synergy provides powerful APIs to help you 
-create configurable modules in Sass, JavaScript and/or React. 
-
-
 ### [Tailwind CSS](https://github.com/tailwindcss/tailwindcss) - [Official Site](https://tailwindcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
