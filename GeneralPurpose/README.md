@@ -280,6 +280,20 @@ It gives you all the basic integrants to build your pages faster and easier.
 A complete CSS framework for Stylus.
 
 
+### [Liquid](https://github.com/emdgroup-liquid/liquid) - [Official Site](https://emdgroup-liquid.github.io/liquid/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/emdgroup-liquid/liquid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/emdgroup-liquid/liquid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/emdgroup-liquid/liquid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/emdgroup-liquid/liquid.svg?style=flat-square&maxAge=5184000)]()
+
+Liquid is a UI component library based on the [Liquid Design System](https://www.figma.com/file/8GYcAOePm8Tt9qqJ7Gnv99/Liquid-Oxygen-(Share)?node-id=3%3A14310),
+focusing on accessibility and interoperability. It is built with [Stencil.js](https://stenciljs.com/) and contains,
+inter alia, CSS Components and Web Components, bundled in several bundle formats,  which you can use in a wide veriaty
+of plattforms and projects.
+
+
 ### [Metro 4](https://github.com/olton/Metro-UI-CSS) - [Official Site](https://metroui.org.ua/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
