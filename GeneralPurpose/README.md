@@ -595,6 +595,17 @@ for easy and consistent scaling. Light as a feather: At a total size of
 just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 
 
+## [Webpixels CSS](https://github.com/webpixels/css) - [Official Site](https://webpixels.io/docs/css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/webpixels/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/webpixels/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/webpixels/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/webpixels/css.svg?style=flat-square&maxAge=5184000)]()
+
+Utility and component-centric Design System based on Bootstrap 5 for fast, responsive UI development.
+
+
 ## [XP.css](https://github.com/botoxparty/XP.css) - [Official Site](https://botoxparty.github.io/XP.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
