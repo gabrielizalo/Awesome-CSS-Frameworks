@@ -261,6 +261,17 @@ SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform m
 and provides bindings for Angular 1, 2, React and Vue.js.
 
 
+### [Polaris](https://github.com/Shopify/polaris-react) - [Official Site](https://polaris.shopify.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/polaris-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Shopify/polaris-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Shopify/polaris-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Shopify/polaris-react.svg?style=flat-square&maxAge=5184000)]()
+
+Polaris React is a component library designed to help developers create the best experience for merchants who use
+Shopify. Visit the Polaris style guide to learn more.
+
+
 ### [Prime React](https://github.com/primefaces/primereact) - [Official Site](https://primefaces.org/primereact/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/primereact.svg?style=flat-square&maxAge=5184000)]()
