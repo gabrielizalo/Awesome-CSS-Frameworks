@@ -54,19 +54,6 @@ Doodle CSS is a simple hand drawn HTML/CSS theme.
 Modern framework to print web pages correctly.
 
 
-### [Lightning Design System](https://github.com/salesforce-ux/design-system) - [Official Site](https://www.lightningdesignsystem.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
-
-Salesforce Lightning Design System. Tailored for building Salesforce
-apps: Using the Lightning Design System markup and CSS framework results
-in UIs that reflect the Salesforce Lightning look and feel.
-
-
 ### [PaperCSS](https://github.com/papercss/papercss) - [Official Site](https://www.getpapercss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

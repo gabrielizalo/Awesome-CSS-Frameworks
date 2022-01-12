@@ -280,6 +280,19 @@ It gives you all the basic integrants to build your pages faster and easier.
 A complete CSS framework for Stylus.
 
 
+### [Lightning Design System](https://github.com/salesforce-ux/design-system) - [Official Site](https://www.lightningdesignsystem.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/salesforce-ux/design-system.svg?style=flat-square&maxAge=5184000)]()
+
+Salesforce Lightning Design System. Tailored for building Salesforce
+apps: Using the Lightning Design System markup and CSS framework results
+in UIs that reflect the Salesforce Lightning look and feel.
+
+
 ### [Liquid](https://github.com/emdgroup-liquid/liquid) - [Official Site](https://emdgroup-liquid.github.io/liquid/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
