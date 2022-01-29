@@ -141,6 +141,18 @@ together to craft exceptional experiences. Designed for designers and
 built for developers. From prototype to product, faster and better. 
 
 
+### [clay.css](https://github.com/codeAdrian/clay.css) - [Official Site](https://codeadrian.github.io/clay.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
+
+Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible
+with CSS variables. SASS mixin is also included for even more styling options.
+
+
 ### [Concise CSS](https://github.com/ConciseCSS/concise.css) - [Official Site](http://concisecss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
