@@ -462,6 +462,19 @@ Shards React is a free, beautiful and modern React UI kit based on [Shards](http
 Synergy is a framework for building modular, configurable and scalable UI components for React-DOM projects.
 
 
+### [Supabase UI](https://github.com/supabase/ui) - [Official Site](https://ui.supabase.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+
+Supabase UI is a React UI library. An open-source UI component library inspired by Tailwind and AntDesign.
+Supabase UI is a high-level UI component library with a focus on creating beautiful apps quickly and efficiently.
+Supabase UI is designed to be used with Tailwind CSS utility classes.
+
+
 ### [UI-Neumorphism](https://github.com/AKAspanion/ui-neumorphism) - [Official Site](https://akaspanion.github.io/ui-neumorphism/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/AKAspanion/ui-neumorphism.svg?style=flat-square&maxAge=5184000)]()
