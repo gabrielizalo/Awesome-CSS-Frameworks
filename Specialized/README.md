@@ -57,10 +57,10 @@ Modern framework to print web pages correctly.
 ### [Open Props](https://github.com/argyleink/open-props) - [Official Site](https://open-props.style/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/argyleink/open-props?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/argyleink/open-props?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/argyleink/open-props?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/argyleink/open-props?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/argyleink/open-props.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/argyleink/open-props.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/argyleink/open-props.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/argyleink/open-props.svg?style=flat-square&maxAge=5184000)]()
 
 CSS custom properties to help accelerate adaptive and consistent design.
 
