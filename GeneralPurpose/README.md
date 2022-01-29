@@ -634,6 +634,17 @@ for easy and consistent scaling. Light as a feather: At a total size of
 just 23 KB minified or 6 KB gzipped, Vital loads and renders quickly.
 
 
+## [Wanda Design System](https://github.com/wonderflow-bv/wanda) - [Official Site](https://design.wonderflow.ai/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/wonderflow-bv/wanda.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/wonderflow-bv/wanda.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/wonderflow-bv/wanda.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/wonderflow-bv/wanda.svg?style=flat-square&maxAge=5184000)]()
+
+Wanda is Wonderflow’s open-source design system built for digital products and experiences.
+
+
 ## [Webpixels CSS](https://github.com/webpixels/css) - [Official Site](https://webpixels.io/docs/css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
