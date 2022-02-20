@@ -6,6 +6,17 @@
 ## Specialized: For React
 
 
+### [Amplify UI](https://github.com/aws-amplify/amplify-ui) - [Official Site](https://ui.docs.amplify.aws/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/aws-amplify/amplify-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/aws-amplify/amplify-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/aws-amplify/amplify-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/aws-amplify/amplify-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Amplify UI is an open-source design system with cloud-connected components and primitives that simplify building
+accessible, performant, and beautiful applications in React, Angular, and Vue (more coming soon).
+
+
 ### [Ant Design](https://github.com/ant-design/ant-design/) - [Official Site](https://ant.design/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
