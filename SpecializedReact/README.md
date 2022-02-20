@@ -526,6 +526,16 @@ Supabase UI is a high-level UI component library with a focus on creating beauti
 Supabase UI is designed to be used with Tailwind CSS utility classes.
 
 
+### [Tail-kit](https://github.com/Charlie85270/tail-kit) - [Official Site](https://www.tailwind-kit.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Charlie85270/tail-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Charlie85270/tail-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Charlie85270/tail-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Charlie85270/tail-kit.svg?style=flat-square&maxAge=5184000)]()
+
+Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
+
+
 ### [UI-Neumorphism](https://github.com/AKAspanion/ui-neumorphism) - [Official Site](https://akaspanion.github.io/ui-neumorphism/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/AKAspanion/ui-neumorphism.svg?style=flat-square&maxAge=5184000)]()
