@@ -6,6 +6,17 @@
 ## Specialized: For React
 
 
+### [AgnosticUI](https://github.com/agnosticui/agnosticui) - [Official Site](http://www.agnosticui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/agnosticui/agnosticui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/agnosticui/agnosticui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/agnosticui/agnosticui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/agnosticui/agnosticui.svg?style=flat-square&maxAge=5184000)]()
+
+AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components
+are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.
+
+
 ### [Amplify UI](https://github.com/aws-amplify/amplify-ui) - [Official Site](https://ui.docs.amplify.aws/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/aws-amplify/amplify-ui.svg?style=flat-square&maxAge=5184000)]()
