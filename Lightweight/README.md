@@ -244,6 +244,18 @@ focuses of the project. The framework is written using Sass, while most
 of its components are based on Flexbox.
 
 
+### [minstyle.io](https://github.com/Airmime/minstyle.io) - [Official Site](https://minstyle.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Airmime/minstyle.io.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Airmime/minstyle.io.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Airmime/minstyle.io.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Airmime/minstyle.io.svg?style=flat-square&maxAge=5184000)]()
+
+minstyle.io is a simple and light open source CSS framework. It integrates a set of pre-designed HTML elements, allowing
+the rapid and simple development of interfaces for all devices.
+
+
 ### [mono/color](https://github.com/asvvvad/mono-color) - [Official Site](http://monocolor.asvvvad.eu.org/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
