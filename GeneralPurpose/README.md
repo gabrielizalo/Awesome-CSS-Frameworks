@@ -32,6 +32,20 @@ Free, no jQuery but with a wide range of features: Grids, Sliders, Menus, Animat
 Easy, Light, Fast, Flexible.
 
 
+### [Amigo CSS](https://github.com/amiamigo97/amigocss) - [Official Site](https://amigocss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
+
+Amigo CSS is a simple, custom-first and intuitive CSS framework for CSS lovers. The inspiration to create Amigo CSS came
+from my desire to have a specific set of procedures or a system that would help me to easily create websites. After
+building so many websites you start noticing a trend of the same things you normally do. For example, doing CSS resets,
+coming up with a typography and spacing system, picking specific colors, etc.
+
+
 ### [Base](https://github.com/getbase/base) - [Official Site](https://getbase.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
