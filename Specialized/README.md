@@ -32,6 +32,17 @@ Focus on the content and structure of your HTML. This is just a silly idea, a CS
 as opposed to using class names as style hooks — to help people become more familiar with how to use semantic HTML.
 
 
+### [CSSUI](https://github.com/zetareticoli/cssui) - [Official Site](https://www.cssui.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/zetareticoli/cssui.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/zetareticoli/cssui.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/zetareticoli/cssui.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/zetareticoli/cssui.css.svg?style=flat-square&maxAge=5184000)]()
+
+CSSUI is a library of interactive user interface components realized in pure HTML and CSS.
+
+
 ### [Doodle CSS](https://github.com/chr15m/DoodleCSS) - [Official Site](https://chr15m.github.io/DoodleCSS/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
