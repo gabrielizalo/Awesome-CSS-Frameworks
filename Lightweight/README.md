@@ -423,6 +423,17 @@ no overhead and is lightweight (~ 3k gzip). The source is written in
 pure css to be accessible for everybody and easy to contribute.
 
 
+### [Uimini](https://github.com/uimini/uimini) - [Official Site](https://uimini.github.io/docs/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/uimini/uimini.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uimini/uimini.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uimini/uimini.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uimini/uimini.css.svg?style=flat-square&maxAge=5184000)]()
+
+Uimini modern and lightweight CSS framework.
+
+
 ### [Water.css](https://github.com/kognise/water.css) - [Official Site](https://watercss.netlify.com/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
