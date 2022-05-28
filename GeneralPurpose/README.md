@@ -549,6 +549,19 @@ Spectrum CSS provides a standard CSS implementation of the Spectrum
 design language for internal and 3rd party use on Adobe's platforms.
 
 
+### [Stack Overflow’s Design System](https://github.com/StackExchange/Stacks) - [Official Site](https://stackoverflow.design/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/StackExchange/Stacks.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/StackExchange/Stacks.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/StackExchange/Stacks.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/StackExchange/Stacks.svg?style=flat-square&maxAge=5184000)]()
+
+Stacks is Stack Overflow’s design system. It includes the resources needed to create consistent, predictable interfaces
+and workflows that conform to Stack Overflow’s principles, design language, and best practices.
+Our documentation is built with Stacks itself, using its immutable, atomic classes and components.
+
+
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
