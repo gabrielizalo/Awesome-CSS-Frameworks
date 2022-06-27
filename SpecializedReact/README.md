@@ -314,6 +314,16 @@ Polaris React is a component library designed to help developers create the best
 Shopify. Visit the Polaris style guide to learn more.
 
 
+### [Preline UI](https://github.com/htmlstreamofficial/preline) - [Official Site](https://preline.co/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/htmlstreamofficial/preline.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/htmlstreamofficial/preline.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/htmlstreamofficial/preline.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/htmlstreamofficial/preline.svg?style=flat-square&maxAge=5184000)]()
+
+Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+
+
 ### [Prime React](https://github.com/primefaces/primereact) - [Official Site](https://primefaces.org/primereact/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/primefaces/primereact.svg?style=flat-square&maxAge=5184000)]()
