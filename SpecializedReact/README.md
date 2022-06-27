@@ -255,12 +255,12 @@ Material Kit React makes use of light, surface and movement. It uses a deliberat
 and large scale typography.
 
 
-### [Material-UI](https://github.com/mui-org/material-ui) - [Official Site](https://material-ui.com/)
+### [Material-UI / MUI Core](https://github.com/mui/material-ui) - [Official Site](https://mui.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/mui-org/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mui/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mui/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mui/material-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mui/material-ui.svg?style=flat-square&maxAge=5184000)]()
 
 React components for faster and easier web development. Build your own design system, or start with Material Design.
 
