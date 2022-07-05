@@ -419,22 +419,5 @@ site with nice semantic html, and Water.css will manage the styling for
 you.
 
 
-### [Wing](https://github.com/kbrsh/wing) - [Official Site](https://kbrsh.github.io/wing)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/kbrsh/wing.svg?style=flat-square&maxAge=5184000)]()
-
-A beautiful CSS framework designed for minimalists. Intuitive, 
-Lightweight and Beautiful. Everything you need to create a basic project
-is included, all in a 2kb file (minified + gzipped). On top of that,
-almost everything is styled automatically, without the need for learning
-specific classes. This allows for an intuitive experience developing
-with Wing, as it's designed to be a boilerplate stylesheet for any
-project.
-
-
 
 [_Return to Categories_](../README.md)
