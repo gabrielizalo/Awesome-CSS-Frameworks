@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (27)](#the-big-ones)
+* [The Big Ones (28)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
 * [Lightweight (31)](Lightweight/README.md)
 * [General Purpose (54)](GeneralPurpose/README.md)
@@ -332,6 +332,18 @@ components designed to make it simple for you to create consistent web experienc
 
 The only framework that makes responsive email easy. MJML redefines the
 way you code responsive email.
+
+
+### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+
+Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
 
 
 ### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
