@@ -431,21 +431,6 @@ A lightweight, unobtrusive and style-agnostic, CSS framework aimed
 for practical use cases. Comes with a small footprint and zero bullshit.
 
 
-### [Look](https://github.com/box2unlock/look) - [Official Site](https://rawgit.com/box2unlock/look/master/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-
-Minimalistic CSS framework. A set of CSS rules & basic user-interface
-components. Built primarily for my site
-[box2unlock.com](https://box2unlock.com/) but released publicly as it
-might be useful as a foundation for other projects out there. Plain and
-simple.
-
-
 ### [lotus.css](https://github.com/goatslacker/lotus.css) - [Official Site](http://goatslacker.github.io/lotus.css/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
