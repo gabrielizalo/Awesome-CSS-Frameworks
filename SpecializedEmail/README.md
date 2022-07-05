@@ -54,17 +54,6 @@ Formerly Ink. Quickly create responsive HTML emails that work. Even on
 Outlook.
 
 
-### [HTML Email](https://github.com/leemunroe/htmlemail) - [Official Site](https://htmlemail.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/leemunroe/htmlemail.svg?style=flat-square&maxAge=5184000)]()
-
-Responsive HTML Email Templates.  
-
-
 ### [Maizzle](https://github.com/maizzle/maizzle) - [Official Site](https://maizzle.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

@@ -11,11 +11,11 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 * [Lightweight (31)](Lightweight/README.md)
 * [General Purpose (54)](GeneralPurpose/README.md)
 * [Material Design (11)](MaterialDesign/README.md)
-* [Specialized: Email (9)](SpecializedEmail/README.md)
+* [Specialized: Email (8)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (9)](SpecializedGridSystems/README.md)
 * [Specialized: For React (52)](SpecializedReact/README.md)
 * [Specialized: Other (13)](Specialized/README.md)
-* [No Longer Maintained (59)](NoLongerMaintained/README.md)
+* [No Longer Maintained (60)](NoLongerMaintained/README.md)
 
 
 
@@ -132,7 +132,7 @@ Bulma is a free and open source CSS framework based on Flexbox. It's
 you need) and Modern (Built with Flexbox).
 
 
-### [Materialize](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
+### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
 
 [![Category](https://img.shields.io/badge/-Material%20Design-AB81CD.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
