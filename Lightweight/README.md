@@ -90,23 +90,6 @@ framework. All you need to build build beautifully crafted web
 interfaces with ease.
 
 
-### [Cardinal](https://github.com/cardinalcss/cardinalcss) - [Official Site](http://cardinalcss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/cardinalcss/cardinalcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/cardinalcss/cardinalcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/cardinalcss/cardinalcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/cardinalcss/cardinalcss.svg?style=flat-square&maxAge=5184000)]()
-
-Cardinal is a modular, “mobile-first” CSS framework built with
-performance and scalability in mind. The purpose of this framework is to
-make it easier for front-end web developers to prototype, build, scale,
-and maintain CSS for responsive websites, user interfaces, and
-applications. Cardinal omits many aesthetic design decisions that often
-bog down other CSS frameworks (which are often UI toolkits, not
-frameworks), leaving the design and creativity up to you.
-
-
 ### [Chota](https://github.com/jenil/chota) - [Official Site](https://jenil.github.io/chota/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
