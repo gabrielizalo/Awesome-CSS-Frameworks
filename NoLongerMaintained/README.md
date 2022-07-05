@@ -607,6 +607,19 @@ IE8+, Firefox, Chrome, Safari, Opera, Free to use and Abuse.
 A versatile CSS Framework. Simple, light and responsive!
 
 
+### [React Toolbox](https://github.com/react-toolbox/react-toolbox) - [Official Site](http://react-toolbox.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/react-toolbox/react-toolbox.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/react-toolbox/react-toolbox.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/react-toolbox/react-toolbox.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/react-toolbox/react-toolbox.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap your application with beautiful Material Design Components. React Toolbox is a set of React components that
+implements Google Material Design specification. It's built on top of some the trendiest proposals like CSS Modules
+(written in SASS), Webpack and ES6. The library harmoniously integrates with your Webpack workflow and it's easily
+customizable and very flexible.
+
+
 ### [Renaissance CSS](https://github.com/dillonraphael/renaissancecss) - [Official Site](https://renaissancecss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
