@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (29)](#the-big-ones)
+* [The Big Ones (16)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
 * [Lightweight (31)](Lightweight/README.md)
 * [General Purpose (54)](GeneralPurpose/README.md)
@@ -21,7 +21,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## The Big Ones
 
-Frameworks with more than ~10K GitHub Stars.
+Frameworks with more than ~20K GitHub Stars.
 
 
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
@@ -251,179 +251,6 @@ Bootstrap components built with React.
 
 A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
 and Material Design
-
-
-### [Blueprint](https://github.com/palantir/blueprint) - [Official Site](https://blueprintjs.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
-
-Blueprint is a React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for
-desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
-
-
-### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
-
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-
-NES.css is a NES-style(8bit-like) CSS Framework.
-
-
-### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
-
-[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
-
-A dead simple, responsive boilerplate. Light as a feather at ~400 lines
-& built with mobile in mind. Styles designed to be a starting point, not
-a UI framework. Quick to start with zero compiling or installing
-necessary. **It's no longer maintained**.
-
-
-### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
-
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/uikit/uikit.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight and modular front-end framework for developing fast and
-powerful web interfaces.
-
-
-### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
-
-[![Category](https://img.shields.io/badge/-Material%20Design-AB81CD.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-
-Material Components for the web (MDC-Web) helps developers execute 
-Material Design. Developed by a core team of engineers and UX designers
-at Google, these components enable a reliable development workflow to
-build beautiful and functional web projects. Material Components for the
-web is the successor to
-[Material Design Lite](MaterialDesign/#material-design-lite---official-site).
-
-
-### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
-
-A set of React components for building Microsoft web experiences. Fluent UI React is a collection of robust React-based
-components designed to make it simple for you to create consistent web experiences using the Fluent Design Language.
-
-
-### [MJML](https://github.com/mjmlio/mjml) - [Official Site](https://mjml.io/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20Email-6883BA.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/mjmlio/mjml.svg?style=flat-square&maxAge=5184000)]()
-
-The only framework that makes responsive email easy. MJML redefines the
-way you code responsive email.
-
-
-### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
-
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-
-Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
-
-
-### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
-
-The official Semantic-UI-React integration.
-
-
-### [Evergreen](https://github.com/segmentio/evergreen) - [Official Site](https://evergreen.segment.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/segmentio/evergreen.svg?style=flat-square&maxAge=5184000)]()
-
-Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by
-[Segment](https://segment.com/). Works out of the box, Flexible & composable and Enterprise-grade.
-
-
-### [Primer](https://github.com/primer/css) - [Official Site](https://primer.style/)
-
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/primer/css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/primer/css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/primer/css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/primer/css.svg?style=flat-square&maxAge=5184000)]()
-
-The CSS design system that powers GitHub. Resources, tooling, and design guidelines for building interfaces with
-GitHub’s design system
-
-
-### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
-
-[![Category](https://img.shields.io/badge/-Lightweight-222A68.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-
-A Lightweight, Responsive and Modern CSS Framework. It's a Lightweight 
-(~10KB gzipped) starting point for your projects, it's Flexbox-based,
-responsive and mobile-friendly layout and it's Elegantly designed and
-developed elements and components. Spectre provides basic styles for
-typography and elements, flexbox based responsive layout system, pure
-CSS components and utilities with best practice coding and consistent
-design language.
-
-
-### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/tachyons-css/tachyons.svg?style=flat-square&maxAge=5184000)]()
-
-Functional css for humans. Create fast loading, highly readable, and
-100% responsive interfaces with as little css as possible. Built for
-designing.
 
 
 
