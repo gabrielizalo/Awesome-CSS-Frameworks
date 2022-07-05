@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (28)](#the-big-ones)
+* [The Big Ones (29)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
 * [Lightweight (31)](Lightweight/README.md)
 * [General Purpose (54)](GeneralPurpose/README.md)
@@ -199,6 +199,19 @@ build your React applications.
 [![GitHub issues](https://img.shields.io/github/issues/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
 
 React components for efficiently rendering large lists and tabular data.
+
+
+### [Material Design for Bootstrap v5 & v4](https://github.com/mdbootstrap/mdb-ui-kit) - [Official Site](https://mdbootstrap.com/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mdbootstrap/mdb-ui-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mdbootstrap/mdb-ui-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mdbootstrap/mdb-ui-kit.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap 5 UI KIT - 700+ components, plain JavaScript, MIT license, simple installation.
+MDB is a collection of free Bootstrap templates, themes, design tools & resources.
 
 
 ### [Pure](https://github.om/pure-css/pure/) - [Official Site](https://purecss.io/)
