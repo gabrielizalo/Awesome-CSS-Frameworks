@@ -401,17 +401,6 @@ for the web. A responsive, flexible and dynamic grid system based off
 inline-block columns.
 
 
-### [kernel.css](https://github.com/ionogy/kernel.css) - [Official Site](https://ionogy.github.io/kernel.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ionogy/kernel.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ionogy/kernel.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ionogy/kernel.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ionogy/kernel.css.svg?style=flat-square&maxAge=5184000)]()
-
-Simplicity done right. The CSS framework built for any kind of task.
-
-
 ### [Kube](https://github.com/imperavi/kube) - [Official Site](https://imperavi.com/kube/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
