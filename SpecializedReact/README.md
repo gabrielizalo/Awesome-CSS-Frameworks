@@ -500,16 +500,6 @@ developers.
 The official Semantic-UI-React integration.
 
 
-### [Shards React](https://github.com/designrevision/shards-react) - [Official Site](https://designrevision.com/downloads/shards-react/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/designrevision/shards-react.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/designrevision/shards-react.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/designrevision/shards-react.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/designrevision/shards-react.svg?style=flat-square&maxAge=5184000)]()
-
-Shards React is a free, beautiful and modern React UI kit based on [Shards](https://github.com/designrevision/shards-ui).
-
-
 ### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
