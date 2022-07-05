@@ -620,19 +620,6 @@ implements Google Material Design specification. It's built on top of some the t
 customizable and very flexible.
 
 
-### [Renaissance CSS](https://github.com/dillonraphael/renaissancecss) - [Official Site](https://renaissancecss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/dillonraphael/renaissancecss.svg?style=flat-square&maxAge=5184000)]()
-
-The Freshest CSS Framework. We got the basics down: Mobile First,
-Flexbox Grids, BEM methodology, Beautiful Forms, Useful components,
-Autoprefixed...
-
-
 ### [Schema](https://github.com/danmalarkey/schema) - [Official Site](http://danmalarkey.github.io/schema/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
