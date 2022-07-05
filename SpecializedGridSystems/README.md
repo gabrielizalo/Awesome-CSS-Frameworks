@@ -35,18 +35,6 @@ Simple, clean and no fuss flexbox based grid. With simple and human
 readable class names, you can get up and running with Flexit in no time.
 
 
-### [Griddd](https://github.com/shankariyerr/griddd) - [Official Site](http://griddd.surge.sh/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/shankariyerr/griddd.svg?style=flat-square&maxAge=5184000)]()
-
-A dead simple, customisable, flexbox-based griddd. It's Responsive,
-Lightweight and Customisable.
-
-
 ### [lyt](https://github.com/ColinEspinas/lyt) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
