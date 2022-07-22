@@ -141,6 +141,19 @@ projects evolve and grow, and plays nice with
 [normalize.css](BaseResetNormalize/README.md#normalize.css).
 
 
+### [Uniform CSS](https://github.com/ThinkUniform/uniformcss) - [Official Site](https://uniformcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
+
+A fully configurable utility class generator and CSS framework built for Sass projects.
+Flexible responsive utility class generator and CSS framework designed to help you gain the full power of functional
+CSS without compromising on Sass.
+
+
 ### [Windi CSS](https://github.com/windicss/windicss) - [Official Site](https://windicss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
