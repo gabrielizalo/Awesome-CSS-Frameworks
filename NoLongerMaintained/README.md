@@ -290,14 +290,9 @@ A dead simple, customisable, flexbox-based griddd. It's Responsive,
 Lightweight and Customisable.
 
 
-### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - [Official Site](http://groundworkcss.github.io/)
+### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - No Official Site
 
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/groundworkcss/groundwork.svg?style=flat-square&maxAge=5184000)]()
-
+GroundworkCSS 2 (author removed all about it).
 Say hello to responsive design made easy. GroundworkCSS is a fully
 responsive HTML5, CSS and Javascript toolkit created by @ghepting. Using
 GroundworkCSS, you can rapidly prototype and create accessible web apps
