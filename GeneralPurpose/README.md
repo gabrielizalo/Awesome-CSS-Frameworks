@@ -643,6 +643,19 @@ and workflows that conform to Stack Overflow’s principles, design language, an
 Our documentation is built with Stacks itself, using its immutable, atomic classes and components.
 
 
+### [Stylify](https://github.com/stylify/packages) - [Official Site](https://stylifycss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/stylify/packages.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/stylify/packages.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/stylify/packages.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/stylify/packages.svg?style=flat-square&maxAge=5184000)]()
+
+Stylify is a library that uses CSS-like selectors to generate optimized utility-first CSS dynamically based on what you
+write.
+Don't study framework. Focus on coding.
+
+
 ### [System.css](https://github.com/sakofchit/system.css) - [Official Site](https://sakofchit.github.io/system.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
