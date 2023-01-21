@@ -41,17 +41,6 @@ responsive grid system, extensive prebuilt components, and powerful
 plugins built on jQuery.
 
 
-### [Ant Design](https://github.com/ant-design/ant-design/) - [Official Site](https://ant.design/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
-
-An enterprise-class UI design language and React UI library.
-
-
 ### [Material-UI / MUI Core](https://github.com/mui/material-ui) - [Official Site](https://mui.com/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
@@ -61,6 +50,17 @@ An enterprise-class UI design language and React UI library.
 [![GitHub issues](https://img.shields.io/github/issues/mui/material-ui.svg?style=flat-square&maxAge=5184000)]()
 
 React components for faster and easier web development. Build your own design system, or start with Material Design.
+
+
+### [Ant Design](https://github.com/ant-design/ant-design/) - [Official Site](https://ant.design/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ant-design/ant-design.svg?style=flat-square&maxAge=5184000)]()
+
+An enterprise-class UI design language and React UI library.
 
 
 ### [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - [Official Site](https://tailwindcss.com/)
@@ -162,6 +162,18 @@ is now in limited support, with development having moved to the
 repository.
 
 
+### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to
+build your React applications.
+
+
 ### [Foundation](https://github.com/foundation/foundation-sites) - [Official Site](http://foundation.zurb.com/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
@@ -176,18 +188,6 @@ world. Quickly go from prototype to production, building sites or apps
 that work on any kind of device with Foundation. Includes a fully
 customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
-
-
-### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to
-build your React applications.
 
 
 ### [react virtualized](https://github.com/bvaughn/react-virtualized) - [Official Site](https://bvaughn.github.io/react-virtualized/)
