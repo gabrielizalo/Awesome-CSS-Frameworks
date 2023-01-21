@@ -615,6 +615,21 @@ Spectrum CSS provides a standard CSS implementation of the Spectrum
 design language for internal and 3rd party use on Adobe's platforms.
 
 
+### [SpryCSS](https://github.com/ggedde/spry-css) - [Official Site](https://ggedde.github.io/spry-css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ggedde/spry-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ggedde/spry-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ggedde/spry-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ggedde/spry-css.svg?style=flat-square&maxAge=5184000)]()
+
+SpryCSS aims to be a simple and customizable CSS Toolkit while being as lightweight as possible (Only 12kb gzipped).
+The goal is to remove the messy and tedious task of coming up with class names for elements that just need simple
+layout styles and provide basic components to help you get up and running fast, but not try to do everything which can
+bloat your project. If an element needs more then just the basic utility styles then that element most likely should
+have a custom class name and custom styles in your CSS files.
+
+
 ### [Stack Overflow’s Design System](https://github.com/StackExchange/Stacks) - [Official Site](https://stackoverflow.design/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
