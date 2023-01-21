@@ -6,6 +6,18 @@
 ## General Purpose
 
 
+### [7.css](https://github.com/khang-nd/7.css) - [Official Site](https://khang-nd.github.io/7.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/khang-nd/7.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/khang-nd/7.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/khang-nd/7.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/khang-nd/7.css.svg?style=flat-square&maxAge=5184000)]()
+
+7.css is a CSS framework for building interface components that look like Windows 7. It is built on top of the GUI
+backbone of XP.css, which is an extension of 98.css.
+
+
 ### [98.css](https://github.com/jdan/98.css) - [Official Site](https://jdan.github.io/98.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
