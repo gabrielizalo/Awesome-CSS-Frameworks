@@ -357,6 +357,21 @@ Bootstrap 5 UI KIT - 700+ components, plain JavaScript, MIT license, simple inst
 MDB is a collection of free Bootstrap templates, themes, design tools & resources.
 
 
+### [Mdash/M-](https://github.com/jfbrennan/m-) - [Official Site](https://m-docs.org/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jfbrennan/m-.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jfbrennan/m-.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jfbrennan/m-.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jfbrennan/m-.svg?style=flat-square&maxAge=5184000)]()
+
+A design system that fully embraces web standards.
+Mdash is a new kind of UI library. It's 100% standards-based and it's tiny.
+Mdash components are comprised of standard HTML, custom HTML, and Custom Elements. As such, Mdash works with any
+framework (or no framework) and works with all types of web projects: SSR, SPA, PWA, static site, and even popular
+email clients.
+
+
 ### [Metro 4](https://github.com/olton/Metro-UI-CSS) - [Official Site](https://metroui.org.ua/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
