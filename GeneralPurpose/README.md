@@ -243,6 +243,21 @@ and themeing on projects easily. It uses simple and descriptive class
 names, and yet generic enough to be understood easily.
 
 
+### [Fylgja](https://github.com/fylgja/fylgja) - [Official Site](https://fylgja.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/fylgja/fylgja.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/fylgja/fylgja.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/fylgja/fylgja.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/fylgja/fylgja.svg?style=flat-square&maxAge=5184000)]()
+
+Fylgja is a component based CSS framework. Allowing you to use only what you need.
+Each component is build as foundation for a specific component. So you can style it to your own look. Without having to
+build the base styles every time.
+Fylgja is powered via SCSS. But can also be used via PostCSS or just as plain CSS. Making it easy to include it in your
+exciting project, or in your preferred setup.
+
+
 ### [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - [Official Site](https://fomantic-ui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
