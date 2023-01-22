@@ -140,8 +140,8 @@ Nanoreset is an simple CSS reset intented to be lightweight while still providin
 It differs from other similar projects in that it is subjective to my use cases and preferences. 
 
 
-### [Pure](https://github.com/pure-css/pure) - [Official Site](https://purecss.io/)
-  
+### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
+
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/pure-css/pure.svg?style=flat-square&maxAge=5184000)]()

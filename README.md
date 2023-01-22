@@ -86,7 +86,7 @@ just what you're looking for.
 
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
-[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/semantic-org/semantic-ui.svg?style=flat-square&maxAge=5184000)]()
@@ -214,7 +214,7 @@ Bootstrap 5 UI KIT - 700+ components, plain JavaScript, MIT license, simple inst
 MDB is a collection of free Bootstrap templates, themes, design tools & resources.
 
 
-### [Pure](https://github.om/pure-css/pure/) - [Official Site](https://purecss.io/)
+### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
 
 [![Category](https://img.shields.io/badge/-Base%20/%20Reset%20/%20Normalize-574AE2.svg?style=flat-square&maxAge=5184000)]()
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
