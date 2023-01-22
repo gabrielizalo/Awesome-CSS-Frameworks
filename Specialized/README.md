@@ -137,8 +137,7 @@ Typebase.css is a minimal, customizable typography stylesheet. It has
 both _less_ and _sass_ versions so it can easily be modified and merged into
 modern web projects. It provides all the necessary scaffolding for good
 typography without adding any aesthetics. It is built to be modified as
-projects evolve and grow, and plays nice with
-[normalize.css](BaseResetNormalize/README.md#normalize.css).
+projects evolve and grow, and plays nice with normalize.css.
 
 
 ### [Uniform CSS](https://github.com/ThinkUniform/uniformcss) - [Official Site](https://uniformcss.com/)
