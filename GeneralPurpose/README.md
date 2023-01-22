@@ -321,6 +321,22 @@ Built-in dark mode, optional JavaScript library (no jQuery), Bootstrap like clas
 (including IE11).
 
 
+### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
+
+Create responsive web interfaces quick and efficiently. Ink is an
+interface kit for quick development of web interfaces, simple to use and
+expand on. It uses a combination of HTML, CSS and JavaScript to offer
+modern solutions for building layouts, display common interface elements
+and implement interactive features that are content-centric and user
+friendly for both your audience and your designers & developers.
+
+
 ### [Ivory](https://github.com/ivory-ui/ivory) - [Official Site](http://ivoryui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
