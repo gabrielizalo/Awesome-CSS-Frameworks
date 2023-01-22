@@ -9,6 +9,20 @@ Frameworks with more than ~3 years without updates or officially no
 longer maintained.
 
 
+### [ALUX](https://github.com/afmarchetti/alux) - [Official Site](http://afmarchetti.github.io/alux/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/afmarchetti/alux.svg?style=flat-square&maxAge=5184000)]()
+
+ALUX the Fast HTML5 Framework for Awesome Light User Experience. ALUX is a Lightweight Framework (25K) for Creating
+Super-Fast and Beautifully Responsive Web Apps. The Framework is built with HTML/CSS and pure Javascript.  Dependencies
+Free, no jQuery but with a wide range of features: Grids, Sliders, Menus, Animations, Typography, Forms, Buttons & more.
+Easy, Light, Fast, Flexible.
+
+
 ### [Antwort](https://github.com/InterNations/antwort) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
