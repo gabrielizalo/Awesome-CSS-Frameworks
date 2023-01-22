@@ -399,18 +399,6 @@ or code decisions; it does require fluency and proficiency with latest
 HTML and CSS technologies, though.
 
 
-### [Layers CSS](https://github.com/jerryjappinen/layers-css) - [Official Site](http://labs.jerryjappinen.com/layers/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight, unobtrusive and style-agnostic, CSS framework aimed
-for practical use cases. Comes with a small footprint and zero bullshit.
-
-
 ### [lotus.css](https://github.com/goatslacker/lotus.css) - [Official Site](http://goatslacker.github.io/lotus.css/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
