@@ -478,7 +478,24 @@ repository.
 [![GitHub stars](https://img.shields.io/github/stars/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/mikolajdobrucki/material-foundation.svg?style=flat-square&maxAge=5184000)]()
 
-Material Design version of Foundation for Sites by Zurb
+Material Design version of Foundation for Sites by Zurb.
+
+
+### [mini.css](https://github.com/Chalarangelo/mini.css) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Chalarangelo/mini.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Chalarangelo/mini.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Chalarangelo/mini.css.svg?style=flat-square&maxAge=5184000)]()
+
+Minimal, responsive, style-agnostic CSS framework. mini.css is a
+lightweight CSS framework (under 7KB gzipped) designed with mobile
+devices and modern browsers in mind. Responsiveness, ease of use and
+customization are some of the main features of the framework, while
+accessibility and extensive documentation are some of the secondary
+focuses of the project. The framework is written using Sass, while most
+of its components are based on Flexbox.
 
 
 ### [Mobi.css](https://github.com/mobi-css/mobi.css) - [Official Site](http://getmobicss.com/)
