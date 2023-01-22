@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (16)](#the-big-ones)
+* [The Big Ones (17)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
 * [Lightweight (32)](Lightweight/README.md)
 * [General Purpose (57)](GeneralPurpose/README.md)
@@ -251,6 +251,18 @@ Bootstrap components built with React.
 
 A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
 and Material Design
+
+
+### [Blueprint](https://github.com/palantir/blueprint) - [Official Site](https://blueprintjs.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/palantir/blueprint.svg?style=flat-square&maxAge=5184000)]()
+
+Blueprint is a React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for
+desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
 
 
 
