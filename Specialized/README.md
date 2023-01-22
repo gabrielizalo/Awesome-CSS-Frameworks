@@ -168,17 +168,6 @@ to Tailwind, which provides faster load times, fully compatible with
 Tailwind v2.0 and with a bunch of additional cool features.
 
 
-### [Wireframe CSS](https://github.com/agauniyal/wireframe) - No Official Site
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
-
-A minimal CSS framework for wireframing.
-
-
 ### [YACSS](https://github.com/FlorianWoelki/YACSS) - [Official Site](https://florianwoelki.github.io/YACSS/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
