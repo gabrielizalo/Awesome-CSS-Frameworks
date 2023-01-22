@@ -58,18 +58,6 @@ Works like auto-layout by aligning and distributing. Capable of
 12-column layouts, packery, & masonry. Perfect for components. 
 
 
-### [Strawberry CSS](https://github.com/jfet97/strawberry) - [Official Site](https://jfet97.github.io/strawberry/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
-
-Strawberry is a new flexbox based CSS micro-framework. A set of common 
-flexbox's utilities focused on making your life easier and faster with nested flexboxes.
-
- 
 ### [unlimitedGrid](https://github.com/PixelT/unlimitedGrid) - [Official Site](http://pixelt.github.io/unlimitedGrid/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

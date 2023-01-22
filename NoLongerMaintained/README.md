@@ -741,6 +741,18 @@ of some basic styling and resets, you only add Spark classes to the
 elements you actually need styled.
 
 
+### [Strawberry CSS](https://github.com/jfet97/strawberry) - [Official Site](https://jfet97.github.io/strawberry/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jfet97/strawberry.svg?style=flat-square&maxAge=5184000)]()
+
+Strawberry is a new flexbox based CSS micro-framework. A set of common
+flexbox's utilities focused on making your life easier and faster with nested flexboxes.
+
+
 ### [Stylizer](https://github.com/amine1107/Stylizer) - [Official Site](https://amine1107.github.io/getstylizer/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
