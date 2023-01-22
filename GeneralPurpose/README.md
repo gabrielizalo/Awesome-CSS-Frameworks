@@ -748,20 +748,6 @@ A lightweight and modular front-end framework for developing fast and
 powerful web interfaces.
 
 
-### [Unnamed](https://github.com/smakosh/unnamed-css-framework) - [Official Site](https://unnamed.smakosh.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
-
-A colorful css framework made by a human not an Ai. Unnamed is a simple
-colorful css framework that is recommended to be used while learning
-something and you're too lazy to style your components or for building
-prototype.
-
-
 ### [Vital](https://github.com/doximity/vital) - [Official Site](https://vitalcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

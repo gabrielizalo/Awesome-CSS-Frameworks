@@ -811,6 +811,21 @@ brand over the head with it. Just add colors and voila! We are basing
 our architecture on BEM make your apps faster, less contextual and
 easier to manage.
 
+
+### [Unnamed](https://github.com/smakosh/unnamed-css-framework) - [Official Site](https://unnamed.smakosh.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/smakosh/unnamed-css-framework.svg?style=flat-square&maxAge=5184000)]()
+
+A colorful css framework made by a human not an Ai. Unnamed is a simple
+colorful css framework that is recommended to be used while learning
+something and you're too lazy to style your components or for building
+prototype.
+
+
 ### [W3.CSS](https://github.com/JaniRefsnes/w3css) - [Official Site](https://www.w3schools.com/w3css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -820,7 +835,6 @@ easier to manage.
 [![GitHub issues](https://img.shields.io/github/issues/JaniRefsnes/w3css.svg?style=flat-square&maxAge=5184000)]()
 
 W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
-
 
 
 ### [Webplate](https://github.com/chrishumboldt/Webplate) - No Official Site
