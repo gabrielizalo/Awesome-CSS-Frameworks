@@ -72,8 +72,7 @@ Material Components for the web (MDC-Web) helps developers execute
 Material Design. Developed by a core team of engineers and UX designers
 at Google, these components enable a reliable development workflow to
 build beautiful and functional web projects. Material Components for the
-web is the successor to
-[Material Design Lite](#material-design-lite---official-site).
+web is the successor to Material Design Lite.
 
 
 ### [Material Design for Bootstrap](https://github.com/mdbootstrap/bootstrap-material-design) - [Official Site](http://mdbootstrap.com/material-design-for-bootstrap/)
