@@ -688,6 +688,17 @@ bloat your project. If an element needs more then just the basic utility styles 
 have a custom class name and custom styles in your CSS files.
 
 
+### [Spruce CSS](https://github.com/conedevelopment/sprucecss) - [Official Site](https://sprucecss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/conedevelopment/sprucecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/conedevelopment/sprucecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/conedevelopment/sprucecss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/conedevelopment/sprucecss.svg?style=flat-square&maxAge=5184000)]()
+
+An open-source, lightweight and modern CSS framework, design system built on Sass. Give your project a solid foundation.
+
+
 ### [Stack Overflow’s Design System](https://github.com/StackExchange/Stacks) - [Official Site](https://stackoverflow.design/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
