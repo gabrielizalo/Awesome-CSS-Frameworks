@@ -546,6 +546,18 @@ Supabase UI is designed to be used with Tailwind CSS utility classes.
 Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 
 
+### [Twind](https://github.com/tw-in-js/twind) - [Official Site](https://twind.style/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tw-in-js/twind.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tw-in-js/twind.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tw-in-js/twind.svg?style=flat-square&maxAge=5184000)]()
+
+The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
+Twind is a small compiler that converts utility classes into CSS at runtime. The goal of this project is to unify the
+flexibility of CSS-in-JS with the carefully considered constraints of the Tailwind API.
+
+
 ### [UI-Neumorphism](https://github.com/AKAspanion/ui-neumorphism) - [Official Site](https://akaspanion.github.io/ui-neumorphism/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/AKAspanion/ui-neumorphism.svg?style=flat-square&maxAge=5184000)]()
