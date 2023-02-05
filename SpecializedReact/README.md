@@ -512,6 +512,18 @@ Cleanest, modern and beautiful Tailwind CSS components.
 The official Semantic-UI-React integration.
 
 
+### [shadcn/ui](https://github.com/shadcn/ui) - [Official Site](https://ui.shadcn.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautifully designed components built with Radix UI and Tailwind CSS.
+Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
+And Next.js 13 Ready.
+
+
 ### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
