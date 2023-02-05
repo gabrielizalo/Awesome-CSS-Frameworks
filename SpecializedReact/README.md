@@ -490,6 +490,18 @@ dapp UX patterns, validated through user research, and built for
 developers.
 
 
+### [Ripple UI](https://github.com/Siumauricio/rippleui) - [Official Site](https://www.ripple-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Siumauricio/rippleui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Siumauricio/rippleui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Siumauricio/rippleui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Siumauricio/rippleui.svg?style=flat-square&maxAge=5184000)]()
+
+Ripple UI is a collection of components and utilities that are used to build modern interfaces.
+It is built on top of Tailwind CSS.
+Cleanest, modern and beautiful Tailwind CSS components.
+
+
 ### [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - [Official Site](https://react.semantic-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI-React.svg?style=flat-square&maxAge=5184000)]()
