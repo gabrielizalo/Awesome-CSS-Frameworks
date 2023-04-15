@@ -540,6 +540,22 @@ easily utilize in your web projects. Petal is fully coded on LESS from
 scratch.
 
 
+### [Pink Design](https://github.com/appwrite/pink) - [Official Site](https://pink.appwrite.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/pink.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/appwrite/pink.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/appwrite/pink.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/appwrite/pink.svg?style=flat-square&maxAge=5184000)]()
+
+Appwrite's open-source design system for building consistent and reusable user interfaces.
+Pink Design is a CSS library designed for building accessible and visually appealing user interfaces. The library is 
+built with a focus on accessibility, ensuring that users of all abilities can easily interact with your web application.
+Pink Design offers a wide range of classes and components that can be easily integrated into your project. Whether 
+you're building a complex user interface or a simple web app, Pink Design has everything you need to create a polished 
+and professional look.
+
+
 ### [Potion](https://github.com/mvoloskov/potion) - [Official Site](https://miloslav.website/potion/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
