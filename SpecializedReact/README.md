@@ -187,6 +187,17 @@ JavaScript packages centered around web standards, designed to help you efficien
 challenges in website and application design and development.
 
 
+### [Float UI](https://floatui.com/) - [Official Site](https://github.com/MarsX-dev/floatui)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/MarsX-dev/floatui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/MarsX-dev/floatui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/MarsX-dev/floatui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/MarsX-dev/floatui.svg?style=flat-square&maxAge=5184000)]()
+
+Float UI is collection of modern UI components and website templates built on top of React with Tailwind CSS, the 
+components are beautiful designed, expertly crafted, allow you to build beautiful websites.
+
+
 ### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
