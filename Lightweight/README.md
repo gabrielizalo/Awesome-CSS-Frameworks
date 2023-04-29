@@ -132,6 +132,18 @@ between normalize.css and a full blown framework, meet Cutestrap.
 Cutestrap is only 8kb of CSS.
 
 
+### [Ellegant CSS](https://github.com/ellegantcss/ellegant) - [Official Site](https://ellegantcss.github.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ellegantcss/ellegant.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ellegantcss/ellegant.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ellegantcss/ellegant.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ellegantcss/ellegant.svg?style=flat-square&maxAge=5184000)]()
+
+Ellegant is a CSS framework that aims to provide user interaction with very little or no Javascript at all. With inputs
+and labels, Ellegant targets elements providing a fast and clean user experience even on low-end mobile devices.
+
+
 ### [Flat Remix CSS library](https://github.com/daniruiz/flat-remix-css) - [Official Site](https://drasite.com/flat-remix-css)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
