@@ -662,6 +662,18 @@ CSS classes anywhere in the CSS or the HTML. So your website can look
 just like this using plain old vanilla HTML.
 
 
+### [Sira](https://github.com/sira-design/sira) - [Official Site](https://www.sira-design.party/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sira-design/sira.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sira-design/sira.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sira-design/sira.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sira-design/sira.svg?style=flat-square&maxAge=5184000)]()
+
+Excellent design system for modern user interface design used by developers & designers.
+Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
+
+
 ### [Skelet](https://github.com/selekkt/skelet) - [Official Site](https://selekkt.dk/skelet/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
