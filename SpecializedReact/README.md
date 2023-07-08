@@ -198,6 +198,17 @@ Float UI is collection of modern UI components and website templates built on to
 components are beautiful designed, expertly crafted, allow you to build beautiful websites.
 
 
+### [Flowbite React](https://www.flowbite-react.com/) - [Official Site](https://github.com/themesberg/flowbite-react)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]()
+
+Flowbite React is an open-source UI component library built on top of Tailwind CSS with React components and based on
+the Flowbite Design System.
+
+
 ### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
