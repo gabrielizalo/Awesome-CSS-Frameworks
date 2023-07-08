@@ -321,6 +321,18 @@ Built-in dark mode, optional JavaScript library (no jQuery), Bootstrap like clas
 (including IE11).
 
 
+### [HyperUI](https://github.com/markmead/hyperui) - [Official Site](https://www.hyperui.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/markmead/hyperui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/markmead/hyperui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/markmead/hyperui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/markmead/hyperui.svg?style=flat-square&maxAge=5184000)]()
+
+HyperUI is a collection of free Tailwind CSS components that can be used in your next project. With a range of
+components, you can build your next marketing website, admin dashboard, eCommerce store and much more.
+
+
 ### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
