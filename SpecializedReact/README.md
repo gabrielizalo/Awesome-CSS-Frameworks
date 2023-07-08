@@ -482,7 +482,17 @@ Build accessible rich web apps with React. Toolkit for building accessible rich 
 [![GitHub stars](https://img.shields.io/github/stars/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub issues](https://img.shields.io/github/issues/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
 
-React primitive UI components built with styled-system. 
+React primitive UI components built with styled-system.
+
+
+### [Rewind UI](https://github.com/rewindui/rewindui) - [Official Site](https://rewind-ui.dev/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/rewindui/rewindui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/rewindui/rewindui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/rewindui/rewindui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/rewindui/rewindui.svg?style=flat-square&maxAge=5184000)]()
+
+A React component library for building modern web applications using Tailwind CSS.
 
 
 ### [Rimble](https://github.com/ConsenSysMesh/rimble-ui) - [Official Site](https://rimble.consensys.design/)
