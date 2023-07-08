@@ -399,6 +399,18 @@ inter alia, CSS Components and Web Components, bundled in several bundle formats
 of plattforms and projects.
 
 
+### [Mamba UI](https://github.com/Microwawe/mamba-ui) - [Official Site](https://mambaui.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Microwawe/mamba-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Microwawe/mamba-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Microwawe/mamba-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Microwawe/mamba-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Mamba UI is a free, open-source collection of beautiful UI elements based on Tailwind CSS that make it easy for anyone
+to build a website in minutes. Take a look at the kit at www.mambaui.com.
+
+
 ### [Material Design for Bootstrap v5 & v4](https://github.com/mdbootstrap/mdb-ui-kit) - [Official Site](https://mdbootstrap.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
