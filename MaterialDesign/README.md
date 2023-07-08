@@ -87,7 +87,7 @@ The most popular UI KIT for building responsive, mobile-first websites and apps 
 Available jQuery, Angular, React and Vue versions.
 
 
-### [Materialize Fork](https://github.com/materializecss/materialize) - [Official Site](https://materializecss.github.io/materialize/)
+### [Materialize Fork](https://github.com/materializecss/materialize) - [Official Site](https://materializeweb.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/materializecss/materialize.svg?style=flat-square&maxAge=5184000)]()
