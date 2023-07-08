@@ -934,5 +934,17 @@ semantic HTML and makes it look pretty. It does not ship with any JavaScript, so
 framework of choice.
 
 
+## [Xtend UI](https://github.com/xtendui/xtendui) - [Official Site](https://xtendui.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/xtendui/xtendui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/xtendui/xtendui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/xtendui/xtendui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/xtendui/xtendui.svg?style=flat-square&maxAge=5184000)]()
+
+Xtend UI is a powerful frontend library of Tailwind CSS components enhanced by vanilla js. It helps you build
+interfaces with advanced interactions and animations.
+
+
 
 [_Return to Categories_](../README.md)
