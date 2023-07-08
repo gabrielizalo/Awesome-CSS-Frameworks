@@ -779,6 +779,17 @@ Functional css for humans. Create fast loading, highly readable, and
 designing.
 
 
+### [Tailwind Elements](https://github.com/mdbootstrap/Tailwind-Elements/) - [Official Site](https://tailwind-elements.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mdbootstrap/Tailwind-Elements/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mdbootstrap/Tailwind-Elements/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mdbootstrap/Tailwind-Elements/.svg?style=flat-square&maxAge=5184000)]()
+
+Huge collection of Tailwind components, sections and templates.
+
+
 ### [TentCSS](https://github.com/sitetent/tentcss) - [Official Site](https://css.sitetent.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
