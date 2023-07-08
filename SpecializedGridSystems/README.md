@@ -58,6 +58,17 @@ Works like auto-layout by aligning and distributing. Capable of
 12-column layouts, packery, & masonry. Perfect for components. 
 
 
+### [SmolCSS](https://github.com/5t3ph/smolcss) - [Official Site](https://smolcss.dev/) 
+ 
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]() 
+[![GitHub tag](https://img.shields.io/github/tag/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]() 
+[![GitHub stars](https://img.shields.io/github/stars/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]() 
+[![GitHub issues](https://img.shields.io/github/issues/themesberg/flowbite-react.svg?style=flat-square&maxAge=5184000)]() 
+
+Minimal snippets for modern CSS layouts and components.
+
+
 ### [unlimitedGrid](https://github.com/PixelT/unlimitedGrid) - [Official Site](http://pixelt.github.io/unlimitedGrid/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
