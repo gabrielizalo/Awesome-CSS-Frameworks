@@ -664,6 +664,18 @@ teams create familiar and accessible experiences across platforms.
 A simple responsive CSS boilerplate.
 
 
+### [Sailboat UI](https://github.com/sailboatui/sailboatui/) - [Official Site](https://sailboatui.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sailboatui/sailboatui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sailboatui/sailboatui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sailboatui/sailboatui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sailboatui/sailboatui.svg?style=flat-square&maxAge=5184000)]()
+
+Sailboat UI is a modern UI component library for Tailwind CSS. Get started with 150+ open-source Tailwind CSS
+components, and make it easy to build your products.
+
+
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
