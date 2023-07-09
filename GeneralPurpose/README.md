@@ -411,6 +411,20 @@ inter alia, CSS Components and Web Components, bundled in several bundle formats
 of plattforms and projects.
 
 
+### [Lissom.CSS](https://github.com/lissomware/css) - [Official Site](https://lissomware.github.io/css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/lissomware/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/lissomware/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/lissomware/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/lissomware/css.svg?style=flat-square&maxAge=5184000)]()
+
+The web is bloated. Trackers, advertisements, third-party JavaScript, custom fonts, unoptimized images, and useless CSS
+are prevalent on too many websites, all detrimental to user experience.
+Lissom.CSS is a classless, minimalist, accessible, and themeable CSS library that aims to address the issue of styling
+web pages.
+
+
 ### [Mamba UI](https://github.com/Microwawe/mamba-ui) - [Official Site](https://mambaui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
