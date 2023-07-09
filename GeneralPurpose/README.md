@@ -487,6 +487,17 @@ MVP.css — Minimalist stylesheet for HTML elements. Out of the box CSS
 styling for HTML elements. No class names, no framework to learn.
 
 
+### [Myna UI](https://github.com/praveenjuge/myna/) - [Official Site](https://mynaui.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/praveenjuge/myna/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/praveenjuge/myna/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/praveenjuge/myna/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/praveenjuge/myna/.svg?style=flat-square&maxAge=5184000)]()
+
+Perfect UI components and templates. Made with TailwindCSS. Open Source. Fully responsive and accessible.
+
+
 ### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
