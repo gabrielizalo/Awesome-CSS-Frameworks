@@ -387,6 +387,17 @@ CSS components and utilities with best practice coding and consistent
 design language.
 
 
+### [Spectre.css Modified](https://github.com/angular-package/spectre.css) - [Official Site](https://spectre.angular-package.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+
+Modified Spectre.css - a lightweight, responsive, and modern CSS framework originally designed by Yan Zhu.
+
+
 ### [Tacit](https://github.com/yegor256/tacit/) - [Official Site](https://yegor256.github.io/tacit/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
