@@ -524,19 +524,6 @@ Together they form a powerful framework for building responsive websites
 with modular and configurable components.
 
 
-### [Paeroa CSS](https://github.com/t94xr/paeroa-css) - [Official Site](https://t94xr.github.io/paeroa-css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/t94xr/paeroa-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/t94xr/paeroa-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/t94xr/paeroa-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/t94xr/paeroa-css.svg?style=flat-square&maxAge=5184000)]()
-
-Paeroa CSS is a completely clean framework, inspired by Tacit CSS. It 
-follows clean and simplicity; stylish with flexibility with the 
-ability to override styles with another style sheet.
-
-
 ### [PatternFly 4](https://github.com/patternfly/patternfly) - [Official Site](https://www.patternfly.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
