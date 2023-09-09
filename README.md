@@ -6,7 +6,7 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 ## Categories
 
-* [The Big Ones (18)](#the-big-ones)
+* [The Big Ones (19)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
 * [Lightweight (34)](Lightweight/README.md)
 * [General Purpose (68)](GeneralPurpose/README.md)
@@ -263,6 +263,18 @@ Bootstrap components built with React.
 
 A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
 and Material Design
+
+
+### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+
+NES.css is a NES-style(8bit-like) CSS Framework.
 
 
 ### [Blueprint](https://github.com/palantir/blueprint) - [Official Site](https://blueprintjs.com/)
