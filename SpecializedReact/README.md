@@ -561,13 +561,13 @@ Supabase UI is designed to be used with Tailwind CSS utility classes.
 Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 
 
-### [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit) - [Official Site](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/)
+### [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit) - [Official Site](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/tailwind-starter-kit/.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/creativetimofficial/tailwind-starter-kit/.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/tailwind-starter-kit/.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/creativetimofficial/tailwind-starter-kit/.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
 
 Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS.
 It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.
