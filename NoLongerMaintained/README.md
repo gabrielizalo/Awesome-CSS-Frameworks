@@ -907,6 +907,18 @@ prototype.
 W3.CSS (CSS Framework). Official framework added by author Jan Egil Refsnes.
 
 
+### [Waffle](https://github.com/lucasgruwez/waffle-grid) - [Official Site](https://waffle.pr1mer.tech/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
+
+An easy to use flexbox grid system. Light weight, Responsive and
+Customisable.
+
+
 ### [Webplate](https://github.com/chrishumboldt/Webplate) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

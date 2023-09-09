@@ -87,17 +87,5 @@ System. It works in a similar way, but instead of being a set number of
 columns, it's entirely based on percentages.
 
 
-### [Waffle](https://github.com/lucasgruwez/waffle-grid) - [Official Site](https://lucasgruwez.github.io/waffle-grid/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/lucasgruwez/waffle-grid.svg?style=flat-square&maxAge=5184000)]()
-
-An easy to use flexbox grid system. Light weight, Responsive and 
-Customisable.
-
-
 
 [_Return to Categories_](../README.md)
