@@ -8,8 +8,8 @@ An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome
 
 * [The Big Ones (19)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
-* [Lightweight (34)](Lightweight/README.md)
 * [General Purpose (68)](GeneralPurpose/README.md)
+* [Lightweight (33)](Lightweight/README.md)
 * [Material Design (11)](MaterialDesign/README.md)
 * [Specialized: Email (8)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (8)](SpecializedGridSystems/README.md)

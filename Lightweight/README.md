@@ -298,18 +298,6 @@ anything else as well. It's very responsive and looks neat on any resolution.
 A starter CSS framework that actually looks good.
 
 
-### [Native Elements](https://github.com/n-elements/core) - [Official Site](https://native-elements.dev/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/n-elements/core.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/n-elements/core.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/n-elements/core.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/n-elements/core.svg?style=flat-square&maxAge=5184000)]()
-
-HTML elements with CSS superpowers. Native Elements is a css library that helps you easily style native HTML elements 
-using CSS custom properties, classes, attributes, or whatever you want in less than 6 kB.
-
-
 ### [new.css](https://github.com/xz/new.css) - [Official Site](https://newcss.net/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
