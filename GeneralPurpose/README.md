@@ -825,21 +825,6 @@ designing.
 Huge collection of Tailwind components, sections and templates.
 
 
-### [TentCSS](https://github.com/sitetent/tentcss) - [Official Site](https://css.sitetent.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/sitetent/tentcss.svg?style=flat-square&maxAge=5184000)]()
-
-A CSS survival kit. Includes only the essentials to make camp. Pulling 
-inspiration from outdoor survival, Tent CSS is unglamorously simple and
-robust. The framework is designed to be used as a foundation for
-building websites. We'll leave application and kitchen sink development
-to other frameworks.
-
-
 ### [Teutonic CSS](https://github.com/fortrabbit/teutonic-css) - [Official Site](https://teutonic.co/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
