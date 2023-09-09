@@ -492,6 +492,17 @@ repository.
 Material Design version of Foundation for Sites by Zurb.
 
 
+### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
+
+Materialize, a CSS Framework based on Material Design.
+
+
 ### [Milligram](https://github.com/milligram/milligram) - [Official Site](http://milligram.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
