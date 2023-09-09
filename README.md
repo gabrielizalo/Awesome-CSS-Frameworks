@@ -144,6 +144,18 @@ you need) and Modern (Built with Flexbox).
 Materialize, a CSS Framework based on Material Design. 
 
 
+### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to
+build your React applications.
+
+
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
 
 [![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
@@ -160,18 +172,6 @@ offer an experience that is immediately accessible. Material Design Lite
 is now in limited support, with development having moved to the
 [Material Components for the web](MaterialDesign/README.md#material-components-web)
 repository.
-
-
-### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to
-build your React applications.
 
 
 ### [Foundation](https://github.com/foundation/foundation-sites) - [Official Site](http://foundation.zurb.com/)
@@ -242,17 +242,6 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
-### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
-
-Bootstrap components built with React.
-
-
 ### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
@@ -263,6 +252,17 @@ Bootstrap components built with React.
 
 A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
 and Material Design
+
+
+### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/react-bootstrap/react-bootstrap.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap components built with React.
 
 
 ### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
