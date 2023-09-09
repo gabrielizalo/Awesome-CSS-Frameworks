@@ -477,6 +477,21 @@ repository.
 Material Design version of Foundation for Sites by Zurb.
 
 
+### [Milligram](https://github.com/milligram/milligram) - [Official Site](http://milligram.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/milligram/milligram.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/milligram/milligram.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/milligram/milligram.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/milligram/milligram.svg?style=flat-square&maxAge=5184000)]()
+
+A minimalist CSS framework. Milligram provides a minimal setup of styles
+for a fast and clean starting point. Just it! Only 2kb gzipped! It's not
+about a UI framework. Specially designed for better performance and
+higher productivity with fewer properties to reset resulting in cleaner
+code. Hope you enjoy!
+
+
 ### [mini.css](https://github.com/Chalarangelo/mini.css) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
