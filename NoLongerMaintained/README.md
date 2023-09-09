@@ -86,6 +86,20 @@ styles and focus more time on creating beautiful website applications.
 Low-Level CSS Toolkit. Lightning Fast Modular CSS with No Side Effects.
 
 
+### [Beauter](https://github.com/outboxcraft/beauter) - [Official Site](http://beauter.outboxcraft.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/outboxcraft/beauter.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/outboxcraft/beauter.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/outboxcraft/beauter.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/outboxcraft/beauter.svg?style=flat-square&maxAge=5184000)]()
+
+Beauter provides a minimal range of beautiful elements and styles in
+pure vanilla CSS which makes it easier to start with a cleaner and
+faster development. It's Mobile First, responsive across various devices
+with a very small footprint, 6kb gzipped!, which makes it faster.
+
+
 ### [Belle](https://github.com/nikgraf/belle/) - [Official Site](https://nikgraf.github.io/belle/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nikgraf/belle.svg?style=flat-square&maxAge=5184000)]()
