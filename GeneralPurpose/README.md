@@ -44,19 +44,6 @@ building so many websites you start noticing a trend of the same things you norm
 coming up with a typography and spacing system, picking specific colors, etc.
 
 
-### [Base](https://github.com/getbase/base) - [Official Site](https://getbase.org/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/getbase/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/getbase/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/getbase/base.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/getbase/base.svg?style=flat-square&maxAge=5184000)]()
-
-A Rock Solid, Responsive CSS Framework built to work on all devices big 
-and small. Lightweight and minimal code. Spend less time overriding
-styles and focus more time on creating beautiful website applications.
-
-
 ### [Biomatic UI](https://github.com/moonrhythm/biomatic) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
