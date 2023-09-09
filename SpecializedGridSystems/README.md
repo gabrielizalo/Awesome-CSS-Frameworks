@@ -46,18 +46,6 @@ readable class names, you can get up and running with Flexit in no time.
 A flexible and highly configurable CSS layout library. Designed to be tweaked.
 
 
-### [RAGrid](https://github.com/argyleink/ragrid) - [Official Site](https://argyleink.github.io/ragrid/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/argyleink/ragrid.svg?style=flat-square&maxAge=5184000)]() 
- 
-Works like auto-layout by aligning and distributing. Capable of 
-12-column layouts, packery, & masonry. Perfect for components. 
-
-
 ### [SmolCSS](https://github.com/5t3ph/smolcss) - [Official Site](https://smolcss.dev/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
