@@ -493,22 +493,6 @@ React primitive UI components built with styled-system.
 A React component library for building modern web applications using Tailwind CSS.
 
 
-### [Rimble](https://github.com/ConsenSysMesh/rimble-ui) - [Official Site](https://rimble.consensys.design/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Rimble is an open-source library of React components and guides to help 
-you make dApps everyone can use. Decentralized applications (dApps) 
-require users to learn new patterns and they present new hurdles for 
-designers and front-end developers. Rimble is here to make life easier 
-for everyone. As an open source project, Rimble aims to create common 
-dapp UX patterns, validated through user research, and built for 
-developers.
-
-
 ### [Ripple UI](https://github.com/Siumauricio/rippleui) - [Official Site](https://www.ripple-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Siumauricio/rippleui.svg?style=flat-square&maxAge=5184000)]()

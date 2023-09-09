@@ -706,6 +706,22 @@ customizable and very flexible.
 A minimal CSS library.
 
 
+### [Rimble](https://github.com/ConsenSysMesh/rimble-ui) - [Official Site](https://rimble.consensys.design/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Rimble is an open-source library of React components and guides to help
+you make dApps everyone can use. Decentralized applications (dApps)
+require users to learn new patterns and they present new hurdles for
+designers and front-end developers. Rimble is here to make life easier
+for everyone. As an open source project, Rimble aims to create common
+dapp UX patterns, validated through user research, and built for
+developers.
+
+
 ### [Schema](https://github.com/danmalarkey/schema) - [Official Site](http://danmalarkey.github.io/schema/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
