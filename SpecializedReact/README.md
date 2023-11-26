@@ -529,7 +529,6 @@ And Next.js 13 Ready.
 
 ### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
 
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
@@ -540,7 +539,6 @@ Synergy is a framework for building modular, configurable and scalable UI compon
 
 ### [Supabase UI](https://github.com/supabase/ui) - [Official Site](https://ui.supabase.io/)
 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
@@ -563,7 +561,6 @@ Tail-kit is a free and open source components and templates kit fully coded with
 
 ### [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit) - [Official Site](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/tailwind-starter-kit.svg?style=flat-square&maxAge=5184000)]()
