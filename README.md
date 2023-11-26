@@ -11,7 +11,7 @@ Last update: 2023-11-26
 * [The Big Ones (19)](#the-big-ones)
 * [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
 * [General Purpose (67)](GeneralPurpose/README.md)
-* [Lightweight (31)](Lightweight/README.md)
+* [Lightweight (32)](Lightweight/README.md)
 * [Material Design (8)](MaterialDesign/README.md)
 * [Specialized: Email (8)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (7)](SpecializedGridSystems/README.md)

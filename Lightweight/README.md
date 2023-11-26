@@ -51,6 +51,19 @@ all depends on your situation and what problem you're trying to solve
 but we think Blaze can provide you with the best of both worlds.
 
 
+### [Bolt.css](https://github.com/tbolt/boltcss) - [Official Site](https://boltcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tbolt/boltcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tbolt/boltcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tbolt/boltcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tbolt/boltcss.svg?style=flat-square&maxAge=5184000)]()
+
+Basic styles for HTML Elements. Providing a mostly-reasonable set of styles without classes.
+Use it for simple static sites or as a starting point and add your own classes. This is not a complete solution with
+layout grids, components, utility classes, and the like.
+
+
 ### [bonsai.css](https://github.com/bonsaicss/bonsai.css) - [Official Site](https://www.bonsaicss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
