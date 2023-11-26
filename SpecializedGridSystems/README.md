@@ -48,7 +48,7 @@ A flexible and highly configurable CSS layout library. Designed to be tweaked.
 
 ### [Row Column](https://github.com/abhimm5/rowcolumn) - [Official Site](https://rowscolumns.github.io/)
 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/abhimm5/rowcolumn.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/abhimm5/rowcolumn.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/abhimm5/rowcolumn.svg?style=flat-square&maxAge=5184000)]()
