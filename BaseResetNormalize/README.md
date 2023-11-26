@@ -218,13 +218,13 @@ default style we are getting from the browsers, except the 'display'
 property. 
 
 
-### [Vanilla Framework](https://github.com/canonical-web-and-design/vanilla-framework) - [Official Site](https://vanillaframework.io/)
+### [Vanilla Framework](https://github.com/canonical/vanilla-framework) - [Official Site](https://vanillaframework.io/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/canonical-web-and-design/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/canonical/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/canonical/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/canonical/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/canonical/vanilla-framework.svg?style=flat-square&maxAge=5184000)]()
 
 Vanilla is a simple extensible CSS framework, written in Sass, by the 
 Ubuntu Web Team. Vanilla Framework is a simple extensible CSS framework, 
