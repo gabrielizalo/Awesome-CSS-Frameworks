@@ -16,7 +16,7 @@ Last update: 2023-11-26
 * [Specialized: Email (8)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (7)](SpecializedGridSystems/README.md)
 * [Specialized: For React (55)](SpecializedReact/README.md)
-* [Specialized: Other (13)](Specialized/README.md)
+* [Specialized: Other (14)](Specialized/README.md)
 * [No Longer Maintained (75)](NoLongerMaintained/README.md)
 
 

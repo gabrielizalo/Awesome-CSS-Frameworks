@@ -65,6 +65,19 @@ Doodle CSS is a simple hand drawn HTML/CSS theme.
 Modern framework to print web pages correctly.
 
 
+### [LangUI](https://github.com/ahmadbilaldev/langui) - [Official Site](https://www.langui.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ahmadbilaldev/langui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ahmadbilaldev/langui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ahmadbilaldev/langui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ahmadbilaldev/langui.svg?style=flat-square&maxAge=5184000)]()
+
+LangUI is an Open Source Tailwind library with free components tailored for your AI and GPT projects.
+It offers a collection of beautiful, ready-to-use components to enhance the user interface of your AI applications,
+allowing you to focus on building the next best project while leaving the UI to LangUI.
+
+
 ### [Open Props](https://github.com/argyleink/open-props) - [Official Site](https://open-props.style/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
