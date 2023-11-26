@@ -46,19 +46,15 @@ the active fork of the abandonned Daemonite Material UI (until Daemonite
 comes back).
 
 
-### [Material Components Web](https://github.com/material-components/material-components-web) - [Official Site](https://material.io/components/web/)
+### [Material Design 3 - Web](https://github.com/material-components/material-web) - [Official Site](https://m3.material.io/develop/web)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/material-components/material-components-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
 
-Material Components for the web (MDC-Web) helps developers execute 
-Material Design. Developed by a core team of engineers and UX designers
-at Google, these components enable a reliable development workflow to
-build beautiful and functional web projects. Material Components for the
-web is the successor to Material Design Lite.
+Material Web is Google’s component library for building applications that work in any web framework.
 
 
 ### [Material Design for Bootstrap](https://github.com/mdbootstrap/bootstrap-material-design) - [Official Site](http://mdbootstrap.com/material-design-for-bootstrap/)
