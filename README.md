@@ -2,7 +2,7 @@
 
 An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
-Last update: 2023-11-26
+Last update: 2023-12-09
 
 
 
@@ -15,7 +15,7 @@ Last update: 2023-11-26
 * [Material Design (8)](MaterialDesign/README.md)
 * [Specialized: Email (8)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (7)](SpecializedGridSystems/README.md)
-* [Specialized: For React (55)](SpecializedReact/README.md)
+* [Specialized: For React (56)](SpecializedReact/README.md)
 * [Specialized: Other (14)](Specialized/README.md)
 * [No Longer Maintained (75)](NoLongerMaintained/README.md)
 

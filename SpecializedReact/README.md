@@ -63,6 +63,17 @@ features many components that can help you create amazing websites. Argon Design
 individual components, giving you the freedom of choosing and combining.
 
 
+### [Ark UI](https://github.com/chakra-ui/ark) - [Official Site](https://ark-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/ark.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/chakra-ui/ark.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/chakra-ui/ark.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/chakra-ui/ark.svg?style=flat-square&maxAge=5184000)]()
+
+Ark UI is a headless, open-source UI library with over 30+ components designed for building reusable, scalable Design
+Systems. It supports a wide range of JavaScript frameworks, offering dedicated packages for each supported framework.
+
+
 ### [Arwes](https://github.com/arwes/arwes) - [Official Site](https://arwes.dev/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/arwes/arwes.svg?style=flat-square&maxAge=5184000)]()
