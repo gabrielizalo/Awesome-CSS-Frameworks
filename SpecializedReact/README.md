@@ -614,6 +614,16 @@ A set of high-quality accessible React UI components with the built-in
 dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 
 
+### [wedges](https://github.com/lmsqueezy/wedges) - [Official Site](https://lemonsqueezy.com/wedges)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()
+
+An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
+
+
 ### [windy](https://github.com/webeetle/windy) - [Official Site](https://windy-docs.vercel.app/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
