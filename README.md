@@ -192,6 +192,18 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
+### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+
+Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
+
+
 ### [react virtualized](https://github.com/bvaughn/react-virtualized) - [Official Site](https://bvaughn.github.io/react-virtualized/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
@@ -214,18 +226,6 @@ React components for efficiently rendering large lists and tabular data.
 
 Bootstrap 5 UI KIT - 700+ components, plain JavaScript, MIT license, simple installation.
 MDB is a collection of free Bootstrap templates, themes, design tools & resources.
-
-
-### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
-
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-
-Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
 
 
 ### [Pure](https://github.com/pure-css/pure/) - [Official Site](https://purecss.io/)
