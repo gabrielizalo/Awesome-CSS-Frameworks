@@ -31,17 +31,6 @@ A few simple, but solid patterns for responsive HTML emails. Even in
 Outlook and Gmail. 
 
 
-### [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - [Official Site](http://htmlemailboilerplate.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
-
-The email boilerplate for sending out nicely formatted messages. 
-
-
 ### [Foundation for Emails 2 - Formerly Ink](https://github.com/zurb/foundation-emails) - [Official Site](https://foundation.zurb.com/emails.html)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -76,21 +65,6 @@ Tailwind CSS.
 
 The only framework that makes responsive email easy. MJML redefines the
 way you code responsive email. 
-
-
-### [Pine Framework](https://github.com/ThemeMountain/pine) - [Official Site](https://docs.thememountain.com/pine/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight, responsive email framework. Pine is a responsive email
-framework made for email developers. With a focus on clean code,
-reusability, and utility classes, it is lightweight, easy to learn, and
-has solid email client compatibility.
-
 
 
 ### [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - [Official Site](http://www.charlesmudy.com/respmail/)

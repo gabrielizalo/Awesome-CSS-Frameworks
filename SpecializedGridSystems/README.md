@@ -6,23 +6,6 @@
 ## Specialized: Grid Systems
 
 
-### [960 Grid System](https://github.com/nathansmith/960-grid-system/) - [Official Site](https://960.gs/) 
- 
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub tag](https://img.shields.io/github/tag/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub stars](https://img.shields.io/github/stars/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
-[![GitHub issues](https://img.shields.io/github/issues/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]() 
- 
-The 960 Grid System is an effort to streamline web development workflow 
-by providing commonly used dimensions, based on a width of 960 pixels. 
-There are two variants: 12 and 16 columns, which can be used separately 
-or in tandem. The premise of the system is ideally suited to rapid 
-prototyping, but it would work equally well when integrated into a 
-production environment. There are printable sketch sheets, design 
-layouts, and a CSS file that have identical measurements. 
-
-
 ### [Flexit](https://github.com/mr-karan/flexit) - [Official Site](https://mrkaran.com/flexit/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -33,17 +16,6 @@ layouts, and a CSS file that have identical measurements.
 
 Simple, clean and no fuss flexbox based grid. With simple and human 
 readable class names, you can get up and running with Flexit in no time.
-
-
-### [lyt](https://github.com/ColinEspinas/lyt) - No Official Site
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
-
-A flexible and highly configurable CSS layout library. Designed to be tweaked.
 
 
 ### [Row Column](https://github.com/abhimm5/rowcolumn) - [Official Site](https://rowscolumns.github.io/)

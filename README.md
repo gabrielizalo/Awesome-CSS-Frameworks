@@ -9,15 +9,15 @@ Last update: 2023-12-09
 ## Categories
 
 * [The Big Ones (19)](#the-big-ones)
-* [Base / Reset / Normalize (18)](BaseResetNormalize/README.md)
-* [General Purpose (67)](GeneralPurpose/README.md)
-* [Lightweight (32)](Lightweight/README.md)
+* [Base / Reset / Normalize (16)](BaseResetNormalize/README.md)
+* [General Purpose (66)](GeneralPurpose/README.md)
+* [Lightweight (28)](Lightweight/README.md)
 * [Material Design (8)](MaterialDesign/README.md)
-* [Specialized: Email (8)](SpecializedEmail/README.md)
-* [Specialized: Grid Systems (7)](SpecializedGridSystems/README.md)
+* [Specialized: Email (6)](SpecializedEmail/README.md)
+* [Specialized: Grid Systems (5)](SpecializedGridSystems/README.md)
 * [Specialized: For React (57)](SpecializedReact/README.md)
-* [Specialized: Other (14)](Specialized/README.md)
-* [No Longer Maintained (75)](NoLongerMaintained/README.md)
+* [Specialized: Other (13)](Specialized/README.md)
+* [No Longer Maintained (87)](NoLongerMaintained/README.md)
 
 
 
@@ -136,7 +136,7 @@ you need) and Modern (Built with Flexbox).
 
 ### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
 
-[![Category](https://img.shields.io/badge/-Material%20Design-AB81CD.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()

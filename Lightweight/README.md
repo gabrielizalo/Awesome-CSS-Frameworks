@@ -91,21 +91,6 @@ of class names like other frameworks. It applies a few basic styles to
 the HTML following the HTML Semantics.
 
 
-### [Cutestrap](https://github.com/tylerchilds/cutestrap) - [Official Site](https://www.cutestrap.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
-
-A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
-There are plenty of amazing front end frameworks already, such as,
-Bootstrap and Foundation. However, if you're looking for something in
-between normalize.css and a full blown framework, meet Cutestrap.
-Cutestrap is only 8kb of CSS.
-
-
 ### [Ellegant CSS](https://github.com/ellegantcss/ellegant) - [Official Site](https://ellegantcss.github.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -116,19 +101,6 @@ Cutestrap is only 8kb of CSS.
 
 Ellegant is a CSS framework that aims to provide user interaction with very little or no Javascript at all. With inputs
 and labels, Ellegant targets elements providing a fast and clean user experience even on low-end mobile devices.
-
-
-### [Flat Remix CSS library](https://github.com/daniruiz/flat-remix-css) - [Official Site](https://drasite.com/flat-remix-css)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight CSS library that provides a set of predesigned elements 
-for a fast web development. It follows a modern "flat" design using 
-high contrasts and sharp borders.
 
 
 ### [fractures](https://github.com/fractures/fractures) - [Official Site](https://fractures.space/)
@@ -259,19 +231,6 @@ missing.css is the CSS library we wished already existed. Add it to your website
 <link rel="stylesheet" href="https://unpkg.com/missing.css@1.1.1">
 
 
-### [mono/color](https://github.com/asvvvad/mono-color) - [Official Site](http://monocolor.asvvvad.eu.org/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
-
-mono/color is a very small yet full-featured, simple and beautiful CSS-only framework built with responsivity, 
-readability, modularity, and a dual-theme in mind. It's perfect for a blog or a documentation site and can be used for 
-anything else as well. It's very responsive and looks neat on any resolution.
-
-
 ### [Mustard UI](https://github.com/kylelogue/mustard-ui) - [Official Site](https://mustard-ui.com/)
   
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -342,23 +301,6 @@ A minimal classless css framework / theme.
 A flat, minimal and different CSS framework. siimple is a light, responsive 
 and open source framework for design flat and clean websites. It has been 
 built in SASS/SCSS and provides a clean starting point for your web design.
-
-
-### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
-
-A Lightweight, Responsive and Modern CSS Framework. It's a Lightweight 
-(~10KB gzipped) starting point for your projects, it's Flexbox-based,
-responsive and mobile-friendly layout and it's Elegantly designed and
-developed elements and components. Spectre provides basic styles for
-typography and elements, flexbox based responsive layout system, pure
-CSS components and utilities with best practice coding and consistent
-design language.
 
 
 ### [Spectre.css Modified](https://github.com/angular-package/spectre.css) - [Official Site](https://spectre.angular-package.dev/)

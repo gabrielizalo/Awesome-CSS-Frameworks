@@ -348,17 +348,6 @@ IVORY is a CSS framework, specially created for web applications and committed t
 It gives you all the basic integrants to build your pages faster and easier.
 
 
-### [Kouto Swiss](https://github.com/leny/kouto-swiss) - [Official Site](http://kouto-swiss.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
-
-A complete CSS framework for Stylus.
-
-
 ### [Layers CSS](https://github.com/jerryjappinen/layers-css) - [Official Site](https://layers-css.vercel.app/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

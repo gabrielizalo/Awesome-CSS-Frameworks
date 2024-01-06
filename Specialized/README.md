@@ -180,18 +180,5 @@ to Tailwind, which provides faster load times, fully compatible with
 Tailwind v2.0 and with a bunch of additional cool features.
 
 
-### [YACSS](https://github.com/FlorianWoelki/YACSS) - [Official Site](https://florianwoelki.github.io/YACSS/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
-
-YetAnotherCSS Framework is a new utility and component based modern framework. This simple to use framework is inspired 
-by the Tailwind framework with some extra predefined components you can use. There are a lot of beautiful prestyled 
-components you can use and customize easily with the help of the utility based classes and colors.
-
-
 
 [_Return to Categories_](../README.md)

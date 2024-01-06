@@ -9,6 +9,23 @@ Frameworks with more than ~3 years without updates or officially no
 longer maintained.
 
 
+### [960 Grid System](https://github.com/nathansmith/960-grid-system/) - [Official Site](https://960.gs/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nathansmith/960-grid-system.svg?style=flat-square&maxAge=5184000)]()
+
+The 960 Grid System is an effort to streamline web development workflow
+by providing commonly used dimensions, based on a width of 960 pixels.
+There are two variants: 12 and 16 columns, which can be used separately
+or in tandem. The premise of the system is ideally suited to rapid
+prototyping, but it would work equally well when integrated into a
+production environment. There are printable sketch sheets, design
+layouts, and a CSS file that have identical measurements.
+
+
 ### [ALUX](https://github.com/afmarchetti/alux) - [Official Site](http://afmarchetti.github.io/alux/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -48,6 +65,22 @@ desktop that automatically become rows on mobile.
 
 CSS (SCSS) grid, base on CSS grid layout with @supports fallback to
 flexbox (partial support).
+
+
+### [avalanche](https://github.com/avalanchesass/avalanche) - [Official Site](https://avalanche.oberlehner.net/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
+
+avalanche establishes the foundation for a package based CSS workflow.
+Heavy weight CSS toolkits often stay in your way when creating unique
+looking experiences or they lead to a rather bland design. But you don't
+have to reinvent the wheel for every new project either. avalanche
+provides building blocks for you to handpick and integrate into your
+workflow.
 
 
 ### [Base](https://github.com/agency/base) - No Official Site
@@ -209,6 +242,21 @@ inbuilt design features that can make even the most creative person
 lazy.
 
 
+### [Cutestrap](https://github.com/tylerchilds/cutestrap) - [Official Site](https://www.cutestrap.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tylerchilds/cutestrap.svg?style=flat-square&maxAge=5184000)]()
+
+A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
+There are plenty of amazing front end frameworks already, such as,
+Bootstrap and Foundation. However, if you're looking for something in
+between normalize.css and a full blown framework, meet Cutestrap.
+Cutestrap is only 8kb of CSS.
+
+
 ### [Daemonite's Material UI](https://github.com/daemonite/material) - [Official Site](http://daemonite.github.io/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -245,6 +293,17 @@ Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dea
 A flexible and beautiful UI framework for React.js. A UI Toolkit for React.js Websites and Apps.
 
 
+### [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - [Official Site](http://htmlemailboilerplate.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/seanpowell/Email-Boilerplate.svg?style=flat-square&maxAge=5184000)]()
+
+The email boilerplate for sending out nicely formatted messages.
+
+
 ### [Email Framework](https://github.com/g13nn/Email-Framework) - [Official Site](http://emailframe.work/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -273,6 +332,19 @@ Mobile-first responsive choreography. It is your job to create a layout.
 It is Emarald's job to be so flexible to let you do that. Emerald
 features globally-sized columns which are truly nestable. It is
 inline-block element based, meaning there are no floats, clears or rows. 
+
+
+### [Flat Remix CSS library](https://github.com/daniruiz/flat-remix-css) - [Official Site](https://drasite.com/flat-remix-css)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+
+A lightweight CSS library that provides a set of predesigned elements
+for a fast web development. It follows a modern "flat" design using
+high contrasts and sharp borders.
 
 
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
@@ -419,6 +491,17 @@ for the web. A responsive, flexible and dynamic grid system based off
 inline-block columns.
 
 
+### [Kouto Swiss](https://github.com/leny/kouto-swiss) - [Official Site](http://kouto-swiss.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/leny/kouto-swiss.svg?style=flat-square&maxAge=5184000)]()
+
+A complete CSS framework for Stylus.
+
+
 ### [Kube](https://github.com/imperavi/kube) - [Official Site](https://imperavi.com/kube/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -446,6 +529,17 @@ HTML and CSS technologies, though.
 [![GitHub issues](https://img.shields.io/github/issues/goatslacker/lotus.css.svg?style=flat-square&maxAge=5184000)]()
 
 A minimalist's typography focused and responsive framework for the web.
+
+
+### [lyt](https://github.com/ColinEspinas/lyt) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ColinEspinas/lyt.svg?style=flat-square&maxAge=5184000)]()
+
+A flexible and highly configurable CSS layout library. Designed to be tweaked.
 
 
 ### [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - [Official Site](http://templates.mailchimp.com/)
@@ -566,6 +660,19 @@ content-rich webpage. It's designed for mobile, but also works awesome
 on desktop.
 
 
+### [mono/color](https://github.com/asvvvad/mono-color) - [Official Site](http://monocolor.asvvvad.eu.org/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/asvvvad/mono-color.svg?style=flat-square&maxAge=5184000)]()
+
+mono/color is a very small yet full-featured, simple and beautiful CSS-only framework built with responsivity,
+readability, modularity, and a dual-theme in mind. It's perfect for a blog or a documentation site and can be used for
+anything else as well. It's very responsive and looks neat on any resolution.
+
+
 ### [Mueller](https://github.com/sehmaschine/mueller) - [Official Site](http://muellergridsystem.com/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -657,6 +764,20 @@ starting point without the bloat, Pavilion might be for you.
 A simple, responsive, and tiny CSS grid for humans. 4kb, Mobile First 
 Grid System, HTML5 Boilerplate Head, Inspired by Simplicity and Control,
 IE8+, Firefox, Chrome, Safari, Opera, Free to use and Abuse.
+
+
+### [Pine Framework](https://github.com/ThemeMountain/pine) - [Official Site](https://docs.thememountain.com/pine/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ThemeMountain/pine.svg?style=flat-square&maxAge=5184000)]()
+
+A lightweight, responsive email framework. Pine is a responsive email
+framework made for email developers. With a focus on clean code,
+reusability, and utility classes, it is lightweight, easy to learn, and
+has solid email client compatibility.
 
 
 ### [PowerToCSS](https://github.com/powertoweb/powertocss) - [Official Site](http://powertoweb.com/powertocss)
@@ -811,6 +932,23 @@ in minutes. It's designed to be simple to use with intuitive class names
 and easy to customize with a nonintrusive approach: with the exception
 of some basic styling and resets, you only add Spark classes to the
 elements you actually need styled.
+
+
+### [Spectre.css](https://github.com/picturepan2/spectre) - [Official Site](https://picturepan2.github.io/spectre/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/picturepan2/spectre.svg?style=flat-square&maxAge=5184000)]()
+
+A Lightweight, Responsive and Modern CSS Framework. It's a Lightweight
+(~10KB gzipped) starting point for your projects, it's Flexbox-based,
+responsive and mobile-friendly layout and it's Elegantly designed and
+developed elements and components. Spectre provides basic styles for
+typography and elements, flexbox based responsive layout system, pure
+CSS components and utilities with best practice coding and consistent
+design language.
 
 
 ### [Strawberry CSS](https://github.com/jfet97/strawberry) - [Official Site](https://jfet97.github.io/strawberry/)
@@ -977,6 +1115,19 @@ with Wing, as it's designed to be a boilerplate stylesheet for any
 project.
 
 
+### [Wipe.css](https://github.com/danilowoz/wipe.css) -  No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
+
+Dear Dev, stop suffering and resetting styles for every new project.
+Wipe.css is a library to reset default styles with some opinionated and
+great changes, that you'll love or not.
+
+
 ### [Wireframe CSS](https://github.com/agauniyal/wireframe) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -986,6 +1137,19 @@ project.
 [![GitHub issues](https://img.shields.io/github/issues/agauniyal/wireframe.svg?style=flat-square&maxAge=5184000)]()
 
 A minimal CSS framework for wireframing.
+
+
+### [YACSS](https://github.com/FlorianWoelki/YACSS) - [Official Site](https://florianwoelki.github.io/YACSS/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/FlorianWoelki/YACSS.svg?style=flat-square&maxAge=5184000)]()
+
+YetAnotherCSS Framework is a new utility and component based modern framework. This simple to use framework is inspired
+by the Tailwind framework with some extra predefined components you can use. There are a lot of beautiful prestyled
+components you can use and customize easily with the help of the utility based classes and colors.
 
 
 ### [Zen Grids](https://github.com/JohnAlbin/zen-grids) - [Official Site](http://zengrids.com/)

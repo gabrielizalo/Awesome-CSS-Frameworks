@@ -6,22 +6,6 @@
 ## Base / Reset / Normalize
 
 
-### [avalanche](https://github.com/avalanchesass/avalanche) - [Official Site](https://avalanche.oberlehner.net/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/avalanchesass/avalanche.svg?style=flat-square&maxAge=5184000)]()
-
-avalanche establishes the foundation for a package based CSS workflow. 
-Heavy weight CSS toolkits often stay in your way when creating unique 
-looking experiences or they lead to a rather bland design. But you don't 
-have to reinvent the wheel for every new project either. avalanche 
-provides building blocks for you to handpick and integrate into your 
-workflow.
-
-
 ### [CSS Remedy](https://github.com/jensimmons/cssremedy) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -230,19 +214,6 @@ Vanilla is a simple extensible CSS framework, written in Sass, by the
 Ubuntu Web Team. Vanilla Framework is a simple extensible CSS framework, 
 built using Sass and is designed to be used either directly or by using 
 themes to extend or supplement its patterns.
-
-
-### [Wipe.css](https://github.com/danilowoz/wipe.css) -  No Official Site
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/danilowoz/wipe.css.svg?style=flat-square&maxAge=5184000)]()
-
-Dear Dev, stop suffering and resetting styles for every new project. 
-Wipe.css is a library to reset default styles with some opinionated and 
-great changes, that you'll love or not.
 
 
 
