@@ -13,11 +13,11 @@ Last update: 2023-12-09
 * [General Purpose (66)](GeneralPurpose/README.md)
 * [Lightweight (28)](Lightweight/README.md)
 * [Material Design (8)](MaterialDesign/README.md)
-* [Specialized: Email (6)](SpecializedEmail/README.md)
+* [Specialized: Email (7)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (5)](SpecializedGridSystems/README.md)
 * [Specialized: For React (57)](SpecializedReact/README.md)
 * [Specialized: Other (13)](Specialized/README.md)
-* [No Longer Maintained (87)](NoLongerMaintained/README.md)
+* [No Longer Maintained (86)](NoLongerMaintained/README.md)
 
 
 
