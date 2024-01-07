@@ -2,13 +2,13 @@
 
 An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
-Last update: 2023-12-09
+Last update: 2024-01-06
 
 
 
 ## Categories
 
-* [The Big Ones (19)](#the-big-ones)
+* [The Big Ones (22)](#the-big-ones)
 * [Base / Reset / Normalize (16)](BaseResetNormalize/README.md)
 * [General Purpose (66)](GeneralPurpose/README.md)
 * [Lightweight (28)](Lightweight/README.md)
@@ -134,6 +134,19 @@ Bulma is a free and open source CSS framework based on Flexbox. It's
 you need) and Modern (Built with Flexbox).
 
 
+### [shadcn/ui](https://github.com/shadcn/ui) - [Official Site](https://ui.shadcn.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautifully designed components built with Radix UI and Tailwind CSS.
+Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
+And Next.js 13 Ready.
+
+
 ### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
 
 [![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
@@ -254,6 +267,29 @@ making it look cookie-cutter.
 
 A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
 and Material Design
+
+
+### [Headless UI](https://github.com/tailwindlabs/headlessui) - [Official Site](https://headlessui.dev/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+
+Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+
+### [Mantine](https://github.com/mantinedev/mantine) - [Official Site](https://mantine.dev/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+
+Mantine is a MIT licensed open source react components and hooks library
+with focus on usability, accessibility and developer experience.
 
 
 ### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
