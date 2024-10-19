@@ -17,7 +17,7 @@ Last update: 2024-01-06
 * [Specialized: Grid Systems (5)](SpecializedGridSystems/README.md)
 * [Specialized: For React (57)](SpecializedReact/README.md)
 * [Specialized: Other (13)](Specialized/README.md)
-* [No Longer Maintained (86)](NoLongerMaintained/README.md)
+* [No Longer Maintained (87)](NoLongerMaintained/README.md)
 
 
 

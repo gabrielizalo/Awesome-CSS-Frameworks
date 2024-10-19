@@ -586,6 +586,18 @@ Material Design version of Foundation for Sites by Zurb.
 Materialize, a CSS Framework based on Material Design.
 
 
+### [Materialize Web](https://github.com/material-components/material-web) - [Official Site](https://material-web.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
+
+Material web, also known as Material Web Components or MWC, is a library of web components that follows Google's
+Material Design guidelines.
+
+
 ### [Metro 4 for React](https://github.com/olton/Metro4-React) - [Official Site](https://react.metroui.org.ua/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/olton/Metro4-React.svg?style=flat-square&maxAge=5184000)]()
