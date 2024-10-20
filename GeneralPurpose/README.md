@@ -413,6 +413,20 @@ Mamba UI is a free, open-source collection of beautiful UI elements based on Tai
 to build a website in minutes. Take a look at the kit at www.mambaui.com.
 
 
+### [matcha.css](https://github.com/lowlighter/matcha) - [Official Site](https://matcha.mizu.sh/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/lowlighter/matcha.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/lowlighter/matcha.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/lowlighter/matcha.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/lowlighter/matcha.svg?style=flat-square&maxAge=5184000)]()
+
+matcha.css is a pure CSS library designed to style HTML elements similarly to a default browser stylesheet, eliminating
+the need for users to manually patch their documents.
+Ideal for fast prototyping, static HTML pages, Markdown-generated documents, and developers seeking to streamline their 
+workflow without delving into CSS intricacies and want to make use of the full range of available HTML elements.
+
+
 ### [Material Design for Bootstrap v5 & v4](https://github.com/mdbootstrap/mdb-ui-kit) - [Official Site](https://mdbootstrap.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
