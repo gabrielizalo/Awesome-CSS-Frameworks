@@ -2,7 +2,7 @@
 
 An extensive list of Awesome CSS Frameworks and UI/Components Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
-Last update: 2024-01-06
+Last update: 2024-10-20
 
 
 
