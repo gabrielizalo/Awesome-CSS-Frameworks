@@ -672,6 +672,17 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
+### [Shoelace](https://github.com/shoelace-style/shoelace) - [Official Site](https://shoelace.style/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/shoelace-style/shoelace.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/shoelace-style/shoelace.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/shoelace-style/shoelace.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/shoelace-style/shoelace.svg?style=flat-square&maxAge=5184000)]()
+
+A collection of professionally designed, every day UI components built on Web standards.
+
+
 ### [Simple.css](https://github.com/kevquirk/simple.css) - [Official Site](https://simplecss.org/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
