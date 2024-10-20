@@ -1,6 +1,6 @@
 # Gabo's Awesome CSS Frameworks and UI Libraries
 
-An extensive list of Awesome CSS Frameworks and UI Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
+An extensive list of Awesome CSS Frameworks and UI/Components Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
 Last update: 2024-01-06
 
@@ -86,6 +86,33 @@ implementing a custom design with its own identity, Tailwind might be
 just what you're looking for.
 
 
+### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
+
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
+
+A modern, HTML5-ready alternative to CSS resets. Normalize.css makes
+browsers render all elements more consistently and in line with modern
+standards. It precisely targets only the styles that need normalizing.
+
+
+### [shadcn/ui](https://github.com/shadcn/ui) - [Official Site](https://ui.shadcn.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautifully designed components built with Radix UI and Tailwind CSS.
+Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
+And Next.js 13 Ready.
+
+
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
@@ -106,20 +133,6 @@ with any of these frameworks to organize your UI layer alongside your
 application logic.
 
 
-### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
-
-[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/necolas/normalize.css.svg?style=flat-square&maxAge=5184000)]()
-
-A modern, HTML5-ready alternative to CSS resets. Normalize.css makes
-browsers render all elements more consistently and in line with modern
-standards. It precisely targets only the styles that need normalizing.
-
-
 ### [Bulma](https://github.com/jgthms/bulma) - [Official Site](https://bulma.io/)
 
 [![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
@@ -132,19 +145,6 @@ standards. It precisely targets only the styles that need normalizing.
 Bulma is a free and open source CSS framework based on Flexbox. It's
 100% Responsive (Designed for mobile first), Modular (Just import what
 you need) and Modern (Built with Flexbox).
-
-
-### [shadcn/ui](https://github.com/shadcn/ui) - [Official Site](https://ui.shadcn.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-
-Beautifully designed components built with Radix UI and Tailwind CSS.
-Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
-And Next.js 13 Ready.
 
 
 ### [Materialize Original](https://github.com/Dogfalo/materialize) - [Official Site](http://materializecss.com/)
@@ -169,6 +169,18 @@ Materialize, a CSS Framework based on Material Design.
 
 Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to
 build your React applications.
+
+
+### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
+
+[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+
+Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
 
 
 ### [Material Design Lite](https://github.com/google/material-design-lite) - [Official Site](https://getmdl.io/)
@@ -205,16 +217,27 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
-### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
+### [Headless UI](https://github.com/tailwindlabs/headlessui) - [Official Site](https://headlessui.dev/)
 
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
 
-Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
+Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+
+### [Mantine](https://github.com/mantinedev/mantine) - [Official Site](https://mantine.dev/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
+
+Mantine is a MIT licensed open source react components and hooks library
+with focus on usability, accessibility and developer experience.
 
 
 ### [react virtualized](https://github.com/bvaughn/react-virtualized) - [Official Site](https://bvaughn.github.io/react-virtualized/)
@@ -226,6 +249,18 @@ Tailwind CSS Components. Clean HTML with component classes. Customizable and the
 [![GitHub issues](https://img.shields.io/github/issues/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
 
 React components for efficiently rendering large lists and tabular data.
+
+
+### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
+
+A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
+and Material Design
 
 
 ### [Material Design for Bootstrap v5 & v4](https://github.com/mdbootstrap/mdb-ui-kit) - [Official Site](https://mdbootstrap.com/)
@@ -255,41 +290,6 @@ A set of small, responsive CSS modules that you can use in every web
 project. Pure is meant to be a starting point for every website or web
 app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
-
-
-### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/marmelab/react-admin.svg?style=flat-square&maxAge=5184000)]()
-
-A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React
-and Material Design
-
-
-### [Headless UI](https://github.com/tailwindlabs/headlessui) - [Official Site](https://headlessui.dev/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-
-Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-
-
-### [Mantine](https://github.com/mantinedev/mantine) - [Official Site](https://mantine.dev/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/mantinedev/mantine.svg?style=flat-square&maxAge=5184000)]()
-
-Mantine is a MIT licensed open source react components and hooks library
-with focus on usability, accessibility and developer experience.
 
 
 ### [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - [Official Site](https://react-bootstrap.github.io/)
