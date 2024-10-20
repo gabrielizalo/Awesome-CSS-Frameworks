@@ -440,6 +440,16 @@ React components for efficiently rendering large lists and tabular data.
 Bootstrap components built with React.
 
 
+### [React95](https://github.com/React95/React95) - [Official Site](https://react95.github.io/React95/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/React95/React95.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/React95/React95.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/React95/React95.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/React95/React95.svg?style=flat-square&maxAge=5184000)]()
+
+A React components library with Win95 UI
+
+
 ### [react-md](https://github.com/mlaursen/react-md) - [Official Site](https://react-md.dev/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mlaursen/react-md.svg?style=flat-square&maxAge=5184000)]()
