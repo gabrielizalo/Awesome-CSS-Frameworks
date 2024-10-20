@@ -177,6 +177,17 @@ need to share our aesthetics. It distributes UI React components and
 static assets for use in building web layouts. 
 
 
+### [Eldora UI](https://github.com/karthikmudunuri/eldoraui) - [Official Site](https://www.eldoraui.site/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/karthikmudunuri/eldoraui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/karthikmudunuri/eldoraui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/karthikmudunuri/eldoraui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/karthikmudunuri/eldoraui.svg?style=flat-square&maxAge=5184000)]()
+
+UI library for Design Engineers. Open-source animated components built with React, Typescript, Tailwind CSS, and Framer
+Motion. 100% open-source, and customizable.
+
+
 ### [Elementz](https://github.com/elementz-ui/elementz) - [Official Site](https://elementz.style/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
