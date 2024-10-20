@@ -855,6 +855,17 @@ Turret is a styles and browser behaviour normalisation framework for
 rapid development of responsive and accessible websites.
 
 
+### [U.S. Web Design System](https://github.com/uswds/uswds) - [Official Site](https://designsystem.digital.gov/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/uswds/uswds.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uswds/uswds.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uswds/uswds.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uswds/uswds.svg?style=flat-square&maxAge=5184000)]()
+
+The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
+
 ### [UIkit](https://github.com/uikit/uikit) - [Official Site](https://getuikit.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
