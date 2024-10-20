@@ -86,6 +86,19 @@ implementing a custom design with its own identity, Tailwind might be
 just what you're looking for.
 
 
+### [shadcn/ui](https://github.com/shadcn/ui) - [Official Site](https://ui.shadcn.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautifully designed components built with Radix UI and Tailwind CSS.
+Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
+And Next.js 13 Ready.
+
+
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
 
 [![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
@@ -98,19 +111,6 @@ just what you're looking for.
 A modern, HTML5-ready alternative to CSS resets. Normalize.css makes
 browsers render all elements more consistently and in line with modern
 standards. It precisely targets only the styles that need normalizing.
-
-
-### [shadcn/ui](https://github.com/shadcn/ui) - [Official Site](https://ui.shadcn.com/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/shadcn/ui.svg?style=flat-square&maxAge=5184000)]()
-
-Beautifully designed components built with Radix UI and Tailwind CSS.
-Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
-And Next.js 13 Ready.
 
 
 ### [Semantic UI](https://github.com/semantic-org/semantic-ui) - [Official Site](https://semantic-ui.com/)
