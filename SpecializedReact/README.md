@@ -154,6 +154,16 @@ Chakra UI is a simple, modular and accessible component library that gives you a
 build your React applications.
 
 
+### [dotUI](https://github.com/mehdibha/dotui) - [Official Site](https://dotui.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mehdibha/dotui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mehdibha/dotui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mehdibha/dotui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mehdibha/dotui.svg?style=flat-square&maxAge=5184000)]()
+
+Accessible, mobile friendly, modern UI components.
+
+
 ### [Downshift](https://github.com/downshift-js/downshift) - [Official Site](https://www.downshift-js.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/downshift-js/downshift.svg?style=flat-square&maxAge=5184000)]()
