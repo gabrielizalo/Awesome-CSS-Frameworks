@@ -602,6 +602,16 @@ Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS 
 It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.
 
 
+### [Tamagui](https://github.com/tamagui/tamagui) - [Official Site](https://tamagui.dev/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/tamagui/tamagui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tamagui/tamagui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tamagui/tamagui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tamagui/tamagui.svg?style=flat-square&maxAge=5184000)]()
+
+Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
+
+
 ### [Twind](https://github.com/tw-in-js/twind) - [Official Site](https://twind.style/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/tw-in-js/twind.svg?style=flat-square&maxAge=5184000)]()
