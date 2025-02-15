@@ -740,7 +740,7 @@ project.
 
 ### [SNES.CSS](https://github.com/devMiguelCarrero/snes.css) - [Official Site](https://snes-css.sadlative.com/)
 
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
