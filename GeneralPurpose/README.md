@@ -738,6 +738,19 @@ quickly with the HTML5 template, or just include skelet.css in your own
 project.
 
 
+### [SNES.CSS](https://github.com/devMiguelCarrero/snes.css) - [Official Site](https://snes-css.sadlative.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/devMiguelCarrero/snes.css.svg?style=flat-square&maxAge=5184000)]()
+
+Welcome to snes.css Framework, a unique CSS framework inspired by the nostalgic aesthetics of the Super Nintendo era. 
+This project aims to bring the charm of pixel art and retro gaming to modern web design, offering developers and 
+designers a toolkit to create websites with a vintage flair.
+
+
 ### [Spectrum CSS](https://github.com/adobe/spectrum-css) - [Official Site](https://opensource.adobe.com/spectrum-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
