@@ -2,7 +2,7 @@
 
 An extensive list of Awesome CSS Frameworks and UI/Components Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
-Last update: 2024-10-20
+Last update: 2025-02-15
 
 
 
@@ -217,17 +217,6 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
-### [Headless UI](https://github.com/tailwindlabs/headlessui) - [Official Site](https://headlessui.dev/)
-
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
-
-Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-
-
 ### [Mantine](https://github.com/mantinedev/mantine) - [Official Site](https://mantine.dev/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
@@ -249,6 +238,17 @@ with focus on usability, accessibility and developer experience.
 [![GitHub issues](https://img.shields.io/github/issues/bvaughn/react-virtualized.svg?style=flat-square&maxAge=5184000)]()
 
 React components for efficiently rendering large lists and tabular data.
+
+
+### [Headless UI](https://github.com/tailwindlabs/headlessui) - [Official Site](https://headlessui.dev/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tailwindlabs/headlessui.svg?style=flat-square&maxAge=5184000)]()
+
+Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 
 ### [ReactAdmin](https://github.com/marmelab/react-admin) - [Official Site](https://marmelab.com/react-admin/)
