@@ -98,6 +98,18 @@ features many components that can help you create amazing websites. Argon Design
 individual components, giving you the freedom of choosing and combining.
 
 
+### [Base UI](https://github.com/mui/base-ui) - [Official Site](https://base-ui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mui/base-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mui/base-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mui/base-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mui/base-ui.svg?style=flat-square&maxAge=5184000)]()
+
+From the creators of Radix, Material UI, and Floating UI, Base UI is an unstyled React component library for building 
+accessible user interfaces. Our focus is on accessibility, performance, and developer experience. Our goal is to 
+provide a complete set of open-source UI components, with a delightful developer experience, in a sustainable way.
+
+
 ### [Base Web React UI framework](https://github.com/uber/baseweb) - [Official Site](https://baseweb.design/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/uber/baseweb.svg?style=flat-square&maxAge=5184000)]()
