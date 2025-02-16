@@ -20,18 +20,6 @@ developers turn data into beautiful charts and graphs using simple CSS
 classes.
 
 
-### [construct.css](https://github.com/t7/construct.css) - [Official Site](https://t7.github.io/construct.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
-
-Focus on the content and structure of your HTML. This is just a silly idea, a CSS "library" that styles tags directly — 
-as opposed to using class names as style hooks — to help people become more familiar with how to use semantic HTML.
-
-
 ### [CSSUI](https://github.com/zetareticoli/cssui) - [Official Site](https://www.cssui.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -149,21 +137,6 @@ Style your webpage like Edward Tufte’s handouts. Edward Tufte uses a
 distinctive style in his handouts: simple, with well-set typography,
 extensive sidenotes, and tight integration of graphics and charts.
 tufte-css brings that style to HTML documents.
-
-
-### [typebase.css](https://github.com/devinhunt/typebase.css) - [Official Site](http://devinhunt.github.io/typebase.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
-
-Typebase.css is a minimal, customizable typography stylesheet. It has
-both _less_ and _sass_ versions so it can easily be modified and merged into
-modern web projects. It provides all the necessary scaffolding for good
-typography without adding any aesthetics. It is built to be modified as
-projects evolve and grow, and plays nice with normalize.css.
 
 
 ### [Uniform CSS](https://github.com/ThinkUniform/uniformcss) - [Official Site](https://uniformcss.com/)

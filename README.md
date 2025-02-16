@@ -9,15 +9,15 @@ Last update: 2025-02-15
 ## Categories
 
 * [The Big Ones (22)](#the-big-ones)
-* [Base / Reset / Normalize (16)](BaseResetNormalize/README.md)
-* [General Purpose (70)](GeneralPurpose/README.md)
-* [Lightweight (28)](Lightweight/README.md)
-* [Material Design (8)](MaterialDesign/README.md)
+* [Base / Reset / Normalize (15)](BaseResetNormalize/README.md)
+* [General Purpose (64)](GeneralPurpose/README.md)
+* [Lightweight (23)](Lightweight/README.md)
+* [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (7)](SpecializedEmail/README.md)
-* [Specialized: Grid Systems (5)](SpecializedGridSystems/README.md)
-* [Specialized: For React (64)](SpecializedReact/README.md)
-* [Specialized: Other (14)](Specialized/README.md)
-* [No Longer Maintained (87)](NoLongerMaintained/README.md)
+* [Specialized: Grid Systems (2)](SpecializedGridSystems/README.md)
+* [Specialized: For React (59)](SpecializedReact/README.md)
+* [Specialized: Other (12)](Specialized/README.md)
+* [No Longer Maintained (110)](NoLongerMaintained/README.md)
 
 
 
@@ -305,7 +305,7 @@ Bootstrap components built with React.
 
 ### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
 
-[![Category](https://img.shields.io/badge/-General%20Purpose-654597.svg?style=flat-square&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()

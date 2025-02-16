@@ -50,21 +50,6 @@ for the most common browsers.
 A repository for the development of the HTML5 Boilerplate CSS file, main.css.
 
 
-### [inuitcss](https://github.com/inuitcss/inuitcss) - [Official Site](http://inuitcss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
-
-Extensible, scalable, Sass-based, OOCSS framework for large and 
-long-lasting UI projects. inuitcss is a framework in its truest sense:
-it does not provide you with UI and design out of the box, instead, it
-provides you with a solid architectural baseline upon which to complete
-your own work.
-
-
 ### [Marx](https://github.com/mblode/marx) - [Official Site](https://mblode.github.io/marx/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

@@ -64,19 +64,6 @@ Use it for simple static sites or as a starting point and add your own classes. 
 layout grids, components, utility classes, and the like.
 
 
-### [bonsai.css](https://github.com/bonsaicss/bonsai.css) - [Official Site](https://www.bonsaicss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
-
-Bonsai CSS is a super lightweight, fully responsive, utility first 
-framework. All you need to build build beautifully crafted web 
-interfaces with ease.
-
-
 ### [Chota](https://github.com/jenil/chota) - [Official Site](https://jenil.github.io/chota/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -180,21 +167,6 @@ to maintain all of the features that Skeleton and other similar
 frameworks offer, while working on older browsers as well.
 
 
-### [Look](https://github.com/box2unlock/look) - [Official Site](https://rawgit.com/box2unlock/look/master/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
-
-Minimalistic CSS framework. A set of CSS rules & basic user-interface
-components. Built primarily for my site
-[box2unlock.com](https://box2unlock.com/) but released publicly as it
-might be useful as a foundation for other projects out there. Plain and
-simple.
-
-
 ### [Luxa CSS](https://github.com/luxonauta/luxa) - [Official Site](https://luxacss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -229,29 +201,6 @@ the rapid and simple development of interfaces for all devices.
 
 missing.css is the CSS library we wished already existed. Add it to your website:
 <link rel="stylesheet" href="https://unpkg.com/missing.css@1.1.1">
-
-
-### [Mustard UI](https://github.com/kylelogue/mustard-ui) - [Official Site](https://mustard-ui.com/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
-
-A starter CSS framework that actually looks good.
-
-
-### [new.css](https://github.com/xz/new.css) - [Official Site](https://newcss.net/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
-
-A classless CSS framework to write modern websites using only HTML. It weighs 4.8kb. All it does is set some sensible 
-defaults and styles your HTML to look reasonable.
 
 
 ### [Picnic CSS](https://github.com/franciscop/picnic) - [Official Site](https://picnicss.com/)
@@ -351,20 +300,6 @@ pure css to be accessible for everybody and easy to contribute.
 [![GitHub issues](https://img.shields.io/github/issues/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
 
 Uimini modern and lightweight CSS framework.
-
-
-### [Water.css](https://github.com/kognise/water.css) - [Official Site](https://watercss.netlify.com/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
-
-Water.css is a just-add-css collection of styles to make simple websites 
-like this just a little bit nicer. Now you can write your simple static 
-site with nice semantic html, and Water.css will manage the styling for 
-you.
 
 
 

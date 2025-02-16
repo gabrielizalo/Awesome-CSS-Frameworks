@@ -80,20 +80,6 @@ Available jQuery, Angular, React and Vue versions.
 Materialize, a CSS Framework based on Material Design.
 
 
-### [Propeller](https://github.com/digicorp/propeller) - [Official Site](https://propeller.in/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
-
-Propeller is a front-end responsive framework based on Google's Material
-Design Standards & Bootstrap. It's the combination of Material Design
-and Bootstrap that makes your web app more attractive, consistent, and
-functionally powerful.
-
-
 ### [Tronic247 Material](https://github.com/Tronic247/material) - [Official Site](https://www.tronic247.com/material/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

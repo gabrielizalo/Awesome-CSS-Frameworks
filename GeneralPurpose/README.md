@@ -120,25 +120,6 @@ Californians.
 The component library behind the Carbon Design System of IBM.
 
 
-### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
-
-Centurion is a web-based framework for rapid prototyping and building 
-larger web projects. Centurion is a responsive framework built for
-speed, simplicity, and flexibility. Originally based loosely on the 960
-grid built by Nathan Smith, Centurion boasted a responsive grid system
-that would help alleviate the headache of building responsive designs.
-Like all web projects it grew and started to capitalize on several
-different areas like: typography, buttons, tables, and more in order to
-create a seamless framework that could allow web developers to start up
-a new project easily without the need to override every little piece.
-
-
 ### [Cirrus.CSS](https://github.com/Spiderpig86/Cirrus/) - [Official Site](https://cirrus-ui.netlify.app/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -227,20 +208,6 @@ visual style of any brand. Additionally, components are framework
 independent allowing you to take what you need and leave the rest.
 
 
-### [FICTOAN](https://github.com/sujan-s/fictoan) - [Official Site](https://sujan-s.github.io/fictoan/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
-
-FICTOAN is an intuitive, minimalist, responsive HTML+CSS boilerplate. It 
-aims to be an intuitive and design-centric CSS framework for creating 
-and themeing on projects easily. It uses simple and descriptive class 
-names, and yet generic enough to be understood easily.
-
-
 ### [Fylgja](https://github.com/fylgja/fylgja) - [Official Site](https://fylgja.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -281,18 +248,6 @@ world. Quickly go from prototype to production, building sites or apps
 that work on any kind of device with Foundation. Includes a fully
 customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
-
-
-### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
-
-Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
-for creating quick & responsive projects on the web, powered by Flexbox. 
 
 
 ### [Halfmoon](https://github.com/halfmoonui/halfmoon) - [Official Site](https://www.gethalfmoon.com/)
@@ -500,31 +455,6 @@ styling for HTML elements. No class names, no framework to learn.
 [![GitHub issues](https://img.shields.io/github/issues/praveenjuge/myna.svg?style=flat-square&maxAge=5184000)]()
 
 Perfect UI components and templates. Made with TailwindCSS. Open Source. Fully responsive and accessible.
-
-
-### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
-
-NES.css is a NES-style(8bit-like) CSS Framework.
-
-
-### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
-
-One-Nexus is a front-end boilerplate and UI toolkit built using the 
-Synergy framework, combined with a custom grid system; Kayzen-GS.
-Together they form a powerful framework for building responsive websites
-with modular and configurable components.
 
 
 ### [PatternFly 4](https://github.com/patternfly/patternfly) - [Official Site](https://www.patternfly.org/)
@@ -879,18 +809,6 @@ Text-based user interface CSS framework focused to create web
 applications using an interface based in ASCII table, like MS-DOS 
 applications. This kind of interface is very eligible because the 
 ultra-contrast colors used and the less effects of the elements. 
-
-
-### [TurretCSS](https://github.com/turretcss/turretcss) - [Official Site](http://turretcss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
-
-Turret is a styles and browser behaviour normalisation framework for 
-rapid development of responsive and accessible websites.
 
 
 ### [U.S. Web Design System](https://github.com/uswds/uswds) - [Official Site](https://designsystem.digital.gov/)

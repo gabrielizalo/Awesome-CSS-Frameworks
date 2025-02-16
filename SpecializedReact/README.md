@@ -132,17 +132,6 @@ Blueprint is a React-based UI toolkit for the web. It is optimized for building 
 desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
 
 
-### [Brix UI](https://github.com/uStudioTeam/brix-ui) - [Official Site](https://ustudioteam.github.io/brix-ui/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Minimal UI framework for React built with TypeScript and styled-components.
-The library of reusable UI components for React, made in minimalistic and light style, adopting modern technologies and approaches.
-
-
 ### [Bumbag](https://github.com/bumbag/bumbag-ui) - [Official Site](https://bumbag.style/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
@@ -208,16 +197,6 @@ static assets for use in building web layouts.
 
 UI library for Design Engineers. Open-source animated components built with React, Typescript, Tailwind CSS, and Framer
 Motion. 100% open-source, and customizable.
-
-
-### [Elementz](https://github.com/elementz-ui/elementz) - [Official Site](https://elementz.style/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
-
-A React Component library for buliding modern applications easily & quickly.
 
 
 ### [Evergreen](https://github.com/segmentio/evergreen) - [Official Site](https://evergreen.segment.com/)
@@ -548,16 +527,6 @@ Stateless React Components for Bootstrap 4.
 Build accessible rich web apps with React. Toolkit for building accessible rich web apps with React.
 
 
-### [Rebass](https://github.com/rebassjs/rebass) - [Official Site](https://rebassjs.org/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
-
-React primitive UI components built with styled-system.
-
-
 ### [Rewind UI](https://github.com/rewindui/rewindui) - [Official Site](https://rewind-ui.dev/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rewindui/rewindui.svg?style=flat-square&maxAge=5184000)]()
@@ -600,16 +569,6 @@ The official Semantic-UI-React integration.
 Beautifully designed components built with Radix UI and Tailwind CSS.
 Accessible and customizable components that you can copy and paste into your apps. Free. Open Source.
 And Next.js 13 Ready.
-
-
-### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
-
-Synergy is a framework for building modular, configurable and scalable UI components for React-DOM projects.
 
 
 ### [Supabase UI](https://github.com/supabase/ui) - [Official Site](https://ui.supabase.io/)
@@ -696,16 +655,6 @@ dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 [![GitHub issues](https://img.shields.io/github/issues/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()
 
 An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
-
-
-### [windy](https://github.com/webeetle/windy) - [Official Site](https://windy-docs.vercel.app/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
-
-A React UI Kit powered by Tailwind.
 
 
 

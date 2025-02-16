@@ -171,6 +171,19 @@ with an easy-to-use grid, sensible typography, useful plugins, and even
 a stylesheet for printing.
 
 
+### [bonsai.css](https://github.com/bonsaicss/bonsai.css) - [Official Site](https://www.bonsaicss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/bonsaicss/bonsai.css.svg?style=flat-square&maxAge=5184000)]()
+
+Bonsai CSS is a super lightweight, fully responsive, utility first
+framework. All you need to build build beautifully crafted web
+interfaces with ease.
+
+
 ### [Bootflat](https://github.com/bootflat/bootflat.github.io) - [Official Site](http://bootflat.github.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -182,6 +195,17 @@ a stylesheet for printing.
 BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. And, for the designers, we offer a free
 PSD Download. It provides a faster, easier and less repetitive way for web developers or designers to create elegant
 web apps.
+
+
+### [Brix UI](https://github.com/uStudioTeam/brix-ui) - [Official Site](https://ustudioteam.github.io/brix-ui/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uStudioTeam/brix-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Minimal UI framework for React built with TypeScript and styled-components.
+The library of reusable UI components for React, made in minimalistic and light style, adopting modern technologies and approaches.
 
 
 ### [BuddyCSS](https://github.com/longvv112/BuddyCSS) - No Official Site
@@ -213,6 +237,25 @@ bog down other CSS frameworks (which are often UI toolkits, not
 frameworks), leaving the design and creativity up to you.
 
 
+### [Centurion](https://github.com/justinhough/Centurion) - [Official Site](https://www.centurionframework.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/justinhough/Centurion.svg?style=flat-square&maxAge=5184000)]()
+
+Centurion is a web-based framework for rapid prototyping and building
+larger web projects. Centurion is a responsive framework built for
+speed, simplicity, and flexibility. Originally based loosely on the 960
+grid built by Nathan Smith, Centurion boasted a responsive grid system
+that would help alleviate the headache of building responsive designs.
+Like all web projects it grew and started to capitalize on several
+different areas like: typography, buttons, tables, and more in order to
+create a seamless framework that could allow web developers to start up
+a new project easily without the need to override every little piece.
+
+
 ### [Compass](https://github.com/Compass/compass) - [Official Site](http://compass-style.org)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -224,6 +267,18 @@ frameworks), leaving the design and creativity up to you.
 Compass is no longer actively maintained. Compass is a Stylesheet 
 Authoring Environment that makes your website design simpler to
 implement and easier to maintain.
+
+
+### [construct.css](https://github.com/t7/construct.css) - [Official Site](https://t7.github.io/construct.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/t7/construct.css.svg?style=flat-square&maxAge=5184000)]()
+
+Focus on the content and structure of your HTML. This is just a silly idea, a CSS "library" that styles tags directly —
+as opposed to using class names as style hooks — to help people become more familiar with how to use semantic HTML.
 
 
 ### [Cute Grids](https://github.com/dazzyweb/cute-grids) - [Official Site](http://www.cutegrids.com/) 
@@ -293,6 +348,16 @@ Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dea
 A flexible and beautiful UI framework for React.js. A UI Toolkit for React.js Websites and Apps.
 
 
+### [Elementz](https://github.com/elementz-ui/elementz) - [Official Site](https://elementz.style/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/elementz-ui/elementz.svg?style=flat-square&maxAge=5184000)]()
+
+A React Component library for buliding modern applications easily & quickly.
+
+
 ### [Email Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - [Official Site](http://htmlemailboilerplate.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -334,6 +399,20 @@ features globally-sized columns which are truly nestable. It is
 inline-block element based, meaning there are no floats, clears or rows. 
 
 
+### [FICTOAN](https://github.com/sujan-s/fictoan) - [Official Site](https://sujan-s.github.io/fictoan/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sujan-s/fictoan.svg?style=flat-square&maxAge=5184000)]()
+
+FICTOAN is an intuitive, minimalist, responsive HTML+CSS boilerplate. It
+aims to be an intuitive and design-centric CSS framework for creating
+and themeing on projects easily. It uses simple and descriptive class
+names, and yet generic enough to be understood easily.
+
+
 ### [Flat Remix CSS library](https://github.com/daniruiz/flat-remix-css) - [Official Site](https://drasite.com/flat-remix-css)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -369,6 +448,18 @@ A grid system based on the flex display property.
 A grid system based on the flex display property.
 
 
+### [Flexit](https://github.com/mr-karan/flexit) - [Official Site](https://mrkaran.com/flexit/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mr-karan/flexit.svg?style=flat-square&maxAge=5184000)]()
+
+Simple, clean and no fuss flexbox based grid. With simple and human
+readable class names, you can get up and running with Flexit in no time.
+
+
 ### [Fluidity](https://github.com/mrmrs/fluidity) - [Official Site](http://fluidity.sexy/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -387,6 +478,18 @@ Fluent Kit WAS (author removed all about it) a Fluent Design inspired UI kit bas
 Bootstrap. A library introducing Fluent Design to the Web, built on top
 of the most popular frameworks to keep the development process as simple
 as possible.
+
+
+### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/beg-in/frow.svg?style=flat-square&maxAge=5184000)]()
+
+Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
+for creating quick & responsive projects on the web, powered by Flexbox.
 
 
 ### [Griddd](https://github.com/shankariyerr/griddd) - [Official Site](http://griddd.surge.sh/)
@@ -433,6 +536,21 @@ Quickly craft clean, responsive emails. HEML is an open source markup
 language for building responsive email. It gives you the native power of
 HTML without having to deal with all of the email quirks. HEML makes
 building emails as easy as building websites.
+
+
+### [inuitcss](https://github.com/inuitcss/inuitcss) - [Official Site](http://inuitcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/inuitcss/inuitcss.svg?style=flat-square&maxAge=5184000)]()
+
+Extensible, scalable, Sass-based, OOCSS framework for large and
+long-lasting UI projects. inuitcss is a framework in its truest sense:
+it does not provide you with UI and design out of the box, instead, it
+provides you with a solid architectural baseline upon which to complete
+your own work.
 
 
 ### [InvisCss](https://github.com/cmroanirgo/inviscss) - [Official Site](https://cmroanirgo.github.io/inviscss/)
@@ -507,6 +625,21 @@ serious cutting edge, future-proof web development. Kube is a wireframe,
 a skeleton for your project, in a way. It doesn’t impose design styles
 or code decisions; it does require fluency and proficiency with latest
 HTML and CSS technologies, though.
+
+
+### [Look](https://github.com/box2unlock/look) - [Official Site](https://rawgit.com/box2unlock/look/master/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/box2unlock/look.svg?style=flat-square&maxAge=5184000)]()
+
+Minimalistic CSS framework. A set of CSS rules & basic user-interface
+components. Built primarily for my site
+[box2unlock.com](https://box2unlock.com/) but released publicly as it
+might be useful as a foundation for other projects out there. Plain and
+simple.
 
 
 ### [lotus.css](https://github.com/goatslacker/lotus.css) - [Official Site](http://goatslacker.github.io/lotus.css/)
@@ -702,6 +835,17 @@ developer friendly. By design it only includes the basic components you
 need to build a site that follows Google's Material Design guidelines.
 
 
+### [Mustard UI](https://github.com/kylelogue/mustard-ui) - [Official Site](https://mustard-ui.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kylelogue/mustard-ui.svg?style=flat-square&maxAge=5184000)]()
+
+A starter CSS framework that actually looks good.
+
+
 ### [Neat](https://github.com/thoughtbot/neat) - [Official Site](https://neat.bourbon.io/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -711,6 +855,29 @@ need to build a site that follows Google's Material Design guidelines.
 [![GitHub issues](https://img.shields.io/github/issues/thoughtbot/neat.svg?style=flat-square&maxAge=5184000)]() 
  
 A lightweight and flexible Sass grid made to with [Bourbon](https://www.bourbon.io/)
+
+
+### [NES.css](https://github.com/nostalgic-css/NES.css) - [Official Site](https://nostalgic-css.github.io/NES.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nostalgic-css/NES.css.svg?style=flat-square&maxAge=5184000)]()
+
+NES.css is a NES-style(8bit-like) CSS Framework.
+
+
+### [new.css](https://github.com/xz/new.css) - [Official Site](https://newcss.net/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/xz/new.css.svg?style=flat-square&maxAge=5184000)]()
+
+A classless CSS framework to write modern websites using only HTML. It weighs 4.8kb. All it does is set some sensible
+defaults and styles your HTML to look reasonable.
 
 
 ### [normalize.css](https://github.com/necolas/normalize.css/) - [Official Site](http://necolas.github.io/normalize.css/)
@@ -724,6 +891,20 @@ A lightweight and flexible Sass grid made to with [Bourbon](https://www.bourbon.
 A modern, HTML5-ready alternative to CSS resets. Normalize.css makes
 browsers render all elements more consistently and in line with modern
 standards. It precisely targets only the styles that need normalizing.
+
+
+### [One-Nexus](https://github.com/esr360/One-Nexus) - [Official Site](http://www.onenexus.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/esr360/One-Nexus.svg?style=flat-square&maxAge=5184000)]()
+
+One-Nexus is a front-end boilerplate and UI toolkit built using the
+Synergy framework, combined with a custom grid system; Kayzen-GS.
+Together they form a powerful framework for building responsive websites
+with modular and configurable components.
 
 
 ### [Paeroa CSS](https://github.com/t94xr/paeroa-css) - [Official Site](https://t94xr.github.io/paeroa-css/)
@@ -792,6 +973,20 @@ has solid email client compatibility.
 A versatile CSS Framework. Simple, light and responsive!
 
 
+### [Propeller](https://github.com/digicorp/propeller) - [Official Site](https://propeller.in/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()
+
+Propeller is a front-end responsive framework based on Google's Material
+Design Standards & Bootstrap. It's the combination of Material Design
+and Bootstrap that makes your web app more attractive, consistent, and
+functionally powerful.
+
+
 ### [RAGrid](https://github.com/argyleink/ragrid) - [Official Site](https://argyleink.github.io/ragrid/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -815,6 +1010,16 @@ Bootstrap your application with beautiful Material Design Components. React Tool
 implements Google Material Design specification. It's built on top of some the trendiest proposals like CSS Modules
 (written in SASS), Webpack and ES6. The library harmoniously integrates with your Webpack workflow and it's easily
 customizable and very flexible.
+
+
+### [Rebass](https://github.com/rebassjs/rebass) - [Official Site](https://rebassjs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/rebassjs/rebass.svg?style=flat-square&maxAge=5184000)]()
+
+React primitive UI components built with styled-system.
 
 
 ### [RelaxCSS](https://github.com/Ziyadsk/relaxCSS) - [Official Site](https://ziyadsk.github.io/relaxCSS/)
@@ -990,6 +1195,16 @@ minified and Gzipped. 100% CSS only. Absolutely zero Javascript. As of
 26th Sept 2017, this repo is no longer being actively maintained.
 
 
+### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
+
+Synergy is a framework for building modular, configurable and scalable UI components for React-DOM projects.
+
+
 ### [Taffy](https://github.com/lodog23/Taffy-CSS-Framework) - [Official Site](http://www.taffy.logancarlile23.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -1050,6 +1265,50 @@ our architecture on BEM make your apps faster, less contextual and
 easier to manage.
 
 
+### [TurretCSS](https://github.com/turretcss/turretcss) - [Official Site](http://turretcss.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/turretcss/turretcss.svg?style=flat-square&maxAge=5184000)]()
+
+Turret is a styles and browser behaviour normalisation framework for
+rapid development of responsive and accessible websites.
+
+
+### [typebase.css](https://github.com/devinhunt/typebase.css) - [Official Site](http://devinhunt.github.io/typebase.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/devinhunt/typebase.css.svg?style=flat-square&maxAge=5184000)]()
+
+Typebase.css is a minimal, customizable typography stylesheet. It has
+both _less_ and _sass_ versions so it can easily be modified and merged into
+modern web projects. It provides all the necessary scaffolding for good
+typography without adding any aesthetics. It is built to be modified as
+projects evolve and grow, and plays nice with normalize.css.
+
+
+### [unlimitedGrid](https://github.com/PixelT/unlimitedGrid) - [Official Site](http://pixelt.github.io/unlimitedGrid/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/PixelT/unlimitedGrid.svg?style=flat-square&maxAge=5184000)]()
+
+Responsive, fully customizable & mobile first CSS flexbox grid framework
+/ system based on Sass (SCSS), which you never seen before. The main
+reason that I wrote yet another grid system, was the fact that I can't
+found any grid system, which would give me the possibility to create
+functional grid in short time... unlimitedGrid is a collection of
+~~functions~~ principles and rules, by which you can easily and fast
+create an attractive and (ultra) functional grids.
+
+
 ### [Unnamed](https://github.com/smakosh/unnamed-css-framework) - [Official Site](https://unnamed.smakosh.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -1062,6 +1321,19 @@ A colorful css framework made by a human not an Ai. Unnamed is a simple
 colorful css framework that is recommended to be used while learning
 something and you're too lazy to style your components or for building
 prototype.
+
+
+### [Unsemantic](https://github.com/nathansmith/unsemantic) - [Official Site](https://unsemantic.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nathansmith/unsemantic.svg?style=flat-square&maxAge=5184000)]()
+
+Unsemantic is a fluid grid system that is the successor to the 960 Grid
+System. It works in a similar way, but instead of being a set number of
+columns, it's entirely based on percentages.
 
 
 ### [W3.CSS](https://github.com/JaniRefsnes/w3css) - [Official Site](https://www.w3schools.com/w3css/)
@@ -1087,6 +1359,20 @@ An easy to use flexbox grid system. Light weight, Responsive and
 Customisable.
 
 
+### [Water.css](https://github.com/kognise/water.css) - [Official Site](https://watercss.netlify.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kognise/water.css.svg?style=flat-square&maxAge=5184000)]()
+
+Water.css is a just-add-css collection of styles to make simple websites
+like this just a little bit nicer. Now you can write your simple static
+site with nice semantic html, and Water.css will manage the styling for
+you.
+
+
 ### [Webplate](https://github.com/chrishumboldt/Webplate) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -1097,6 +1383,16 @@ Customisable.
 
 Webplate is an awesome front-end framework that lets you stay focused on
 building your site or app all the while remaining really easy to use. 
+
+
+### [windy](https://github.com/webeetle/windy) - [Official Site](https://windy-docs.vercel.app/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/webeetle/windy.svg?style=flat-square&maxAge=5184000)]()
+
+A React UI Kit powered by Tailwind.
 
 
 ### [Wing](https://github.com/kbrsh/wing) - [Official Site](https://kbrsh.github.io/wing)
